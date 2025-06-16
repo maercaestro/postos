@@ -1,0 +1,87 @@
+/* Custom Map Styles */
+.custom-marker {
+  background: transparent !important;
+  border: none !important;
+}
+
+.custom-marker-optimized {
+  background: transparent !important;
+  border: none !important;
+}
+
+.marker-cluster-custom {
+  background: transparent !important;
+  border: none !important;
+}
+
+/* Custom popup styles */
+.leaflet-popup-content-wrapper {
+  border-radius: 16px !important;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15) !important;
+  border: none !important;
+  padding: 0 !important;
+}
+
+.leaflet-popup-content {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.leaflet-popup-tip {
+  background: white !important;
+  border: none !important;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1) !important;
+}
+
+/* Cluster animation improvements */
+.marker-cluster-small div {
+  transition: all 0.2s ease-in-out;
+}
+
+.marker-cluster-medium div {
+  transition: all 0.2s ease-in-out;
+}
+
+.marker-cluster-large div {
+  transition: all 0.2s ease-in-out;
+}
+
+.marker-cluster div:hover {
+  transform: scale(1.1);
+}
+
+/* Custom marker hover effects */
+.custom-marker-optimized:hover {
+  transform: scale(1.1);
+  transition: transform 0.2s ease-in-out;
+}
+
+/* Loading state */
+.map-loading {
+  position: relative;
+}
+
+.map-loading::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(255, 255, 255, 0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.map-loading::after {
+  content: 'Loading map...';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1001;
+  font-weight: 600;
+  color: #374151;
+}

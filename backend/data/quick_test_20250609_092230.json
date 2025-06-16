@@ -1,0 +1,96 @@
+[
+  {
+    "place_id": "ChIJ7T9lvKKkBgcR76Im1Vta5sw",
+    "name": "57680-000",
+    "rating": 0.0,
+    "user_ratings_total": 0,
+    "address": "Boca da Mata - State of Alagoas, 57680-000, Brazil",
+    "phone_number": "",
+    "website": "",
+    "business_status": "",
+    "price_level": null,
+    "reviews": []
+  },
+  {
+    "place_id": "ChIJNfsZ_rhXuAARjNK8xskk1zU",
+    "name": "Posto Shell",
+    "rating": 3.6,
+    "user_ratings_total": 135,
+    "address": "Rod. Jones dos Santos Neves, 15 - Várzea Nova, Guarapari - ES, 29211-630, Brazil",
+    "phone_number": "",
+    "website": "https://www.shell.com.br/motoristas/localizador-de-postos.html?utm_source=google&utm_medium=maps&utm_campaign=lbm-1031646",
+    "business_status": "OPERATIONAL",
+    "price_level": 2,
+    "reviews": [
+      {
+        "author_name": "QUIMES COMERCIO E INDUSTRIA DE PRODUTOS /Quimes",
+        "rating": 5,
+        "text": "Satisfeitissim",
+        "time": 1485867786,
+        "relative_time_description": "8 years ago",
+        "language": "en",
+        "review_date": "2017-01-31 21:03:06"
+      },
+      {
+        "author_name": "ingrid aparecida",
+        "rating": 1,
+        "text": "Péssimo serviço, funcionário me abordou falou que meu carro poderia fundidor o motor e que teria que trocar a água, falou que era 40 reais o aditivo, desmontou todo o sistema e na hora de encher colocou mais de 5 galões. Resultado deixou ar no meu motor abasteci o carro e ele mexeu era 09:35 minutos do dia 11/04 e agora já são 14:20 minutos e estou na beira da estrada com o carro esquentando e esperando para concertar. Ainda tenho mais 400km pra rodar.",
+        "time": 1744392138,
+        "relative_time_description": "a month ago",
+        "language": "pt",
+        "review_date": "2025-04-12 01:22:18"
+      },
+      {
+        "author_name": "valeria vieira cadaxa",
+        "rating": 1,
+        "text": "Fui abastecer e pedi para verificar o óleo veio um funcionário e começou a me assustar dizendo que a água do meu radiador estava muito ruim e que meu carro poderia até pegar fogo! Ele abriu a tampa do radiador a água jorrou lá em cima! E me cobrou 40,00 reais por cada litro de aditivo OU SEJA ME ENROLARAM E ME ROUBARAM OU SEJA MUITO CUIDADO NESSE POSTO!  Isso ocorreu sábado dia 15/02/2025 NUNCA MAIS ABASTEÇO LÁ E VOCÊS TOMEM CUIDADO! Os funcionários se juntam para te aterrorizar e cobrar esse absurdo!",
+        "time": 1739908300,
+        "relative_time_description": "3 months ago",
+        "language": "pt",
+        "review_date": "2025-02-19 03:51:40"
+      },
+      {
+        "author_name": "Marcos Rogério Castro",
+        "rating": 1,
+        "text": "Preço anunciado placa 6,49. Abastecido com aplicativo e ao efetuar o cálculo, litro saiu à 6,69. Questionado frentista alegou engano ao informar o código da bomba para cartão de crédito e à prazo, 6,89. Usou de má fé.  FIQUEM ATENTOS!",
+        "time": 1741539945,
+        "relative_time_description": "3 months ago",
+        "language": "pt",
+        "review_date": "2025-03-10 01:05:45"
+      },
+      {
+        "author_name": "Germano Souza",
+        "rating": 1,
+        "text": "Tinha que ter opção de meia estrela, para conveniência. Parei para fazer um lanche, mas menina do caixa foi super grossa e sem educação. Ela estava ali para não estava satisfeita com o trabalho e queria descontar sua raiva nos clientes.",
+        "time": 1738482990,
+        "relative_time_description": "4 months ago",
+        "language": "pt",
+        "review_date": "2025-02-02 15:56:30"
+      }
+    ]
+  },
+  {
+    "place_id": "ChIJeQ2XB7Tb6wcRWAI7TZNmNTc",
+    "name": "62400-000",
+    "rating": 0.0,
+    "user_ratings_total": 0,
+    "address": "Camocim - Ceará, 62400-000, Brazil",
+    "phone_number": "",
+    "website": "",
+    "business_status": "",
+    "price_level": null,
+    "reviews": []
+  },
+  {
+    "place_id": "ChIJPwX3JAbH6gcRwPCnxseWv1M",
+    "name": "62050-070",
+    "rating": 0.0,
+    "user_ratings_total": 0,
+    "address": "Tv. Itália - Dom Expedito, Sobral - CE, 62050-070, Brazil",
+    "phone_number": "",
+    "website": "",
+    "business_status": "",
+    "price_level": null,
+    "reviews": []
+  }
+]

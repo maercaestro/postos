@@ -1,0 +1,736 @@
+place_id,name,address,latitude,longitude,total_reviews,avg_rating,avg_polarity,positive_reviews,negative_reviews,neutral_reviews,positive_ratio,negative_ratio,sentiment_score
+ChIJrzZmArHVmwARn333wLjty74,Palácio Guanabara,"R. Pinheiro Machado, s/nº - Laranjeiras, Rio de Janeiro - RJ, 22231-090, Brazil",-22.937549,-43.18388710000001,5,4.6,0.29027777777777775,5,0,0,1.0,0.0,5
+ChIJNfsZ_rhXuAARjNK8xskk1zU,Posto Shell,"Rod. Jones dos Santos Neves, 15 - Várzea Nova, Guarapari - ES, 29211-630, Brazil",-20.6278068,-40.52683469999999,20,1.8,0.06666666666666667,4,0,16,0.2,0.0,4
+ChIJqQlNbXPj3JQRurk1qMuBQCc,Posto Shell Colossal Mercês,"R. Martim Afonso, 700 - Mercês, Curitiba - PR, 80430-100, Brazil",-25.428161,-49.284577,5,4.6,0.40864583333333326,4,0,1,0.8,0.0,4
+ChIJIx0Jx57DmQARaIuHYGedbaw,Posto Retiro dos Bandeirantes,"BR-101, KM 276 - 641 s/n - Bandeirantes, Tanguá - RJ, 24890-000, Brazil",-22.7388837,-42.7509647,4,5.0,0.45,4,0,0,1.0,0.0,4
+ChIJIVANxg7_7pQRFFxljj7uBys,Auto Posto Goioxim,"BR-364, Km 50, s/n - Centro, Goioxim - PR, 85162-000, Brazil",-25.198375,-51.9951478,5,4.2,0.642,4,0,1,0.8,0.0,4
+ChIJ9xzOw-nr_JQRcxy1DWeKM8c,Posto Shell,"EST RS 569, SN KM 21 SL 1 - 0, Novo Barreiro - RS, 98338-000, Brazil",-27.90729,-53.11137,5,5.0,0.667,4,0,1,0.8,0.0,4
+ChIJs3OAsRyyCJURiXCvSqSYduo,Posto Acegua Shell,"Av Internacional, 225 - Centro, Aceguá - RS, 96445-000, Brazil",-31.8687638,-54.1643352,5,4.6,0.7030000000000001,4,0,1,0.8,0.0,4
+ChIJc3qv3njfxpQRlXKzKp_atKI,Posto Real Botucatu,"Av. Mal. Floriano Peixoto, 85-141 - Centro, Botucatu - SP, 18600-360, Brazil",-22.8824587,-48.44100479999999,10,5.0,0.24333333333333335,4,0,6,0.4,0.0,4
+ChIJQeHvdQlZzpQRsgAs0QuIhWM,Posto Shell,"R. do Lavapés, 187 - Cambuci, São Paulo - SP, 01519-000, Brazil",-23.5599234,-46.6293204,6,4.0,0.39999999999999997,4,0,2,0.6666666666666666,0.0,4
+ChIJtdcu_-rMW5MRXHls0HY8JEI,Posto Shell - POSTO CEILANDIA LTDA,"LOTE A - St. M CNM 2 - Ceilândia, Brasília - DF, 72210-500, Brazil",-15.8169334,-48.10368810000001,3,4.0,0.37916666666666665,3,0,0,1.0,0.0,3
+ChIJkTmIi2TTogcRFwzty5BuS1c,Posto Shell,"Av. Pedro Alves, 488 - Centro, Acopiara - CE, 63560-000, Brazil",-6.0927386,-39.4555157,3,5.0,0.9333333333333332,3,0,0,1.0,0.0,3
+ChIJwdGG-rSpApURLQ90srobkMM,Auto Posto Fontana,"Av. Osvaldo Júlio Werlang, 934 - São Sebastião, Espumoso - RS, 99400-000, Brazil",-28.72631460000001,-52.8422327,5,4.8,0.36666666666666664,3,0,2,0.6,0.0,3
+ChIJZykQixcvyJMRNqNswa3Vohg,Auto Posto Sete de Setembro,"Av. Sete de Setembro, 2346 - Centro, Cacoal - RO, 78975-000, Brazil",-11.4410161,-61.44491540000001,5,4.2,0.44699999999999995,3,0,2,0.6,0.0,3
+ChIJpce7aZbWmwAR56_9HZsx9DQ,Gavea Golf and Country Club,"Estr. da Gávea, 800 - São Conrado, Rio de Janeiro - RJ, 22610-002, Brazil",-22.9973444,-43.2643778,5,4.0,0.36598833333333347,4,1,0,0.8,0.2,3
+ChIJe6bbBudfzpQRIDd2KhgfiDs,Posto shell tatuape,"R. Filipe Camarão, 461 - Tatuapé, São Paulo - SP, 03065-000, Brazil",-23.5391584,-46.57927979999999,5,3.6,0.23541666666666666,3,0,2,0.6,0.0,3
+ChIJmzu_Q6AmngAR_AJ8dYJD0KY,Posto Shell,"Av. Gabriel Alves Fernandes, 787, Caxambu - MG, 37440-000, Brazil",-21.9705781,-44.9275063,4,4.75,0.2583333333333333,3,0,1,0.75,0.0,3
+ChIJPT_Y3KPMzZQRxqQWKTPPu4Q,Branco de Castelo - LTDA,"Avenida Pres. Humberto Castelo Branco, 100 - Jardim Florida, Jacareí - SP, 12321-645, Brazil",-23.2999338,-45.98537959999999,4,3.0,0.375,3,0,1,0.75,0.0,3
+ChIJCyy22k793JQR0gnfq4woWFQ,Posto Shell,"Av. das Araucárias, 5568 - Chapada, Araucária - PR, 83707-758, Brazil",-25.5527744,-49.3721093,3,4.666666666666667,0.7333333333333334,3,0,0,1.0,0.0,3
+ChIJMbJKS9hbzpQRZpkDSPTFdBU,Shell Select,"Av. Dr. Ricardo Jafet, 3274 - Bosque da Saúde, São Paulo - SP, 04123-020, Brazil",-23.603038,-46.62573199999999,3,4.0,0.5847222222222223,3,0,0,1.0,0.0,3
+ChIJA7cHq-K8HpURiKYQZxtBnk4,BCR COMERCIO DE COMBUSTIVEIS LTDA,"147,2, BR-116, 15577 - São Ciro, Caxias do Sul - RS, 95100-000, Brazil",-29.145329,-51.13992709999999,5,4.6,0.45999999999999996,3,0,2,0.6,0.0,3
+ChIJdRLmx6C7pgARnOduw7Mwyvo,POSTO CHEFAO LTDA,"Av. Toronto, 470 - Jardim Canada, Nova Lima - MG, 34000-973, Brazil",-20.0615205,-43.97809979999999,4,4.0,0.4111607142857143,3,0,1,0.75,0.0,3
+ChIJ_WOvRKtlmZQRrHx2opVh5G4,Auto Posto América,"Avenida Cel Gustavo Rodrigues da Silva - R. José Gonçalves de Oliveira, 1684 - Vila Santo Antonio, Paranaíba - MS, 79500-000, Brazil",-19.6851315,-51.18980269999999,4,4.25,0.11666666666666667,3,0,1,0.75,0.0,3
+ChIJASDgl4hKzJQRs30h-J40SL4,Tenda Atacado - São José dos Campos,"Av. Andrômeda, 200 - Jardim Satélite, São José dos Campos - SP, 12230-000, Brazil",-23.2193559,-45.89534250000001,4,3.75,0.419140625,3,0,1,0.75,0.0,3
+ChIJl7-AIrfJogAR7O37Gu7oUOc,Comércio de Combustível 3D de Leopoldina,"BR-267, 3371 - A Definir, Leopoldina - MG, 36700-000, Brazil",-21.5511324,-42.6707294,5,4.8,0.23666666666666666,3,0,2,0.6,0.0,3
+ChIJhb7VSNPYmwARiZ7r9gwoxXo,Auto Posto Quinta do Rio Grande,"Estr. do Rio Grande, 4136 - Taquara, Rio de Janeiro - RJ, 22723-002, Brazil",-22.9185097,-43.4059469,5,3.0,0.355,3,0,2,0.6,0.0,3
+ChIJy5ZTyEdRpQARHia7hhUIxDo,Posto Campestre,"Praça Olímpica, 26 - Funcionários, Timóteo - MG, 35180-414, Brazil",-19.5504368,-42.6466302,5,4.8,0.18,3,0,2,0.6,0.0,3
+ChIJuQw8tdmTuwARplE1MB6IGMk,Auto Posto Redenção Shell Grupo Nazarão,"Pça. João Acacinho, 160 - Centro, Guaçuí - ES, 29560-000, Brazil",-20.7724747,-41.67777429999999,5,4.6,0.4619999999999999,3,0,2,0.6,0.0,3
+ChIJS7xbOFgdzpQRYOVAoOnVmGg,Auto Posto Presidente Costa,"Av. Pres. Costa e Silva, 735 - Boqueirão, Praia Grande - SP, 11701-005, Brazil",-24.0069632,-46.4137702,5,5.0,0.21666666666666665,3,0,2,0.6,0.0,3
+ChIJi9IgxkYPtZQRzrLkMIqr3IU,Auto Posto Sofia,"Avenida José da Costa Luiz Maia - Centro, Cristais - MG, 37275-000, Brazil",-20.8780597,-45.51172649999999,5,4.6,0.44000000000000006,3,0,2,0.6,0.0,3
+ChIJv3G660tbzpQRu0vEYndynhg,Loja Shell Select - POSTO SHELL - MASH POSTOS E SERV LTDA,"Av. Pres. Tancredo Neves, 1265 - Cursino, São Paulo - SP, 04287-100, Brazil",-23.6161648,-46.6087795,3,3.6666666666666665,0.5083333333333333,3,0,0,1.0,0.0,3
+ChIJ7aIjszNYzpQRS7Hmg2C87yI,Posto Shell,"R. Fernando de Albuquerque, 216 - Consolação, São Paulo - SP, 01309-030, Brazil",-23.55333299999999,-46.6582757,4,4.25,0.24999999999999997,3,1,0,0.75,0.25,2
+ChIJByDhiF1OnAARnUA5mnjnL2Q,Posto Shell,"R. José Belmiro da Paixão, 210 - Balneário, Angra dos Reis - RJ, 23900-000, Brazil",-22.9998876,-44.3042378,4,4.0,0.4775,2,0,2,0.5,0.0,2
+ChIJFeGZIZ-XpgARDsxc9hhQI-0,POSTO SHELL - REDE PHOENIX - CALAFATE,"Av. Teresa Cristina, 1675 - Prado, Belo Horizonte - MG, 30410-600, Brazil",-19.9207408,-43.9694944,5,2.6,0.10906249999999999,2,0,3,0.4,0.0,2
+ChIJ4_vBKAg-mQARf7LYyTCTStc,Posto Turcão GNV,"Av. Mal. Rondon, 94 - Vila Selma, Miguel Pereira - RJ, 26900-000, Brazil",-22.4758905,-43.4952616,5,4.4,0.13333333333333333,2,0,3,0.4,0.0,2
+ChIJ3xRpEMElz5QR5pUhBxtqNjI,Posto Shell,"Av. Pref. Luis Latorre, 5665 - Vila Guarani, Jundiaí - SP, 13209-430, Brazil",-23.1733646,-46.91662599999999,5,2.2,0.09666666666666665,2,0,3,0.4,0.0,2
+ChIJI-CJwblzGZUR7sN72KdnOT8,Abastecedora de Combustiveis Sa,"Av. Mal. Rondon, 1618 - Vila Vista Alegre, Cachoeirinha - RS, 94955-240, Brazil",-29.9174031,-51.0700333,8,5.0,0.10416666666666666,2,0,6,0.25,0.0,2
+ChIJYw2sSQcfzpQR5_mkdJBMWKk,Auto Posto DELTA MAR OCIAN,"Avenida Presidente Kenedi - Real, Praia Grande - SP, 11700-000, Brazil",-24.0266468,-46.482015,4,3.0,0.1625,2,0,2,0.5,0.0,2
+ChIJy-n3ufQkkZQR1vFqe-5Jc7s,Gringo - Auto Posto,"Av. Nove de Julho, 1957-2043 - Vila Staut, Tupi Paulista - SP, 17930-000, Brazil",-21.392121,-51.57738459999999,5,4.8,0.3,2,0,3,0.4,0.0,2
+ChIJI0vMaXZdmQARCGSD9Gf80mE,Posto de Gasolina Bar e Restaurante Imperatriz,"Rod. Pres. Dutra - Posse, Nova Iguaçu - RJ, 26030-003, Brazil",-22.7409354,-43.49879680000001,5,3.8,0.282,2,0,3,0.4,0.0,2
+ChIJz7h6r_dT3JQRvVD5-Je4nk8,Auto Posto nuele 01,"Rua Francisco Ari Claudino, n293 Bairro Marginal - BR-116 - Centro, Mandirituba - PR, 83800-000, Brazil",-25.7812913,-49.3257035,4,4.75,0.1125,2,0,2,0.5,0.0,2
+ChIJJfO2bOlK65QRasIX_JtvOn0,Posto Globo Combustíveis - Shell,"R. Sen. Souza Naves, 720 - Centro, Sertanópolis - PR, 86170-000, Brazil",-23.05727650000001,-51.0387749,8,5.0,0.25,2,0,6,0.25,0.0,2
+ChIJ9QTaURAZuAARo-a397yYQhc,Posto Shell Prime - Norte Sul,"Av. José Maria Vivacqua Santos, 2 - Jardim Camburi, Vitória - ES, 29075-650, Brazil",-20.2530585,-40.2728999,5,2.8,0.18733333333333332,2,0,3,0.4,0.0,2
+ChIJP5QVGbuapgAR_X_Am2ZGNgI,Posto Shell,"Av. Cristiano Machado, 9434 - Vila Suzana, Belo Horizonte - MG, 31812-112, Brazil",-19.849248,-43.932656,5,4.0,0.1,3,1,1,0.6,0.2,2
+ChIJQ-aBDgzChpQRLccZjA8rlPA,Auto Posto Mancoes,"Lava jato Arara Zul - Zona Rural, Campo Grande - MS, 79064-000, Brazil",-20.3837505,-54.5435518,5,4.8,0.24866666666666665,2,0,3,0.4,0.0,2
+ChIJxR-TRFEwlgARBK76Nl4geJM,Posto Shell,"Rua Gastão Henrique Schueler - RJ-168, 1178 - Botafogo, Macaé - RJ, 27901-970, Brazil",-22.3617468,-41.8001007,4,3.5,0.40249999999999997,2,0,2,0.5,0.0,2
+ChIJR4pPK8nzoJMR18DlgwZDOOE,Auto Posto Tibirissa,"Av. Rio Grande do Sul, 323 - Centro, Lucas do Rio Verde - MT, 78455-000, Brazil",-13.0629721,-55.9191975,5,3.4,0.31625000000000003,2,0,3,0.4,0.0,2
+ChIJmaBOzAxUAQcR3lonsqClgfI,MAXI POSTO ECOLOGICO LTDA,"10,7, AL-101, s/n - Praia do Francês, Mal. Deodoro - AL, 57160-000, Brazil",-9.761674,-35.8441236,5,4.6,0.3,2,0,3,0.4,0.0,2
+ChIJ27r_nwvPyJQR2V6PBYwRhDM,Posto Shell Andorinhas,"Av. José de Sousa Campos, 2101 - Cambuí, Campinas - SP, 13025-320, Brazil",-22.88766619999999,-47.0448046,3,3.0,0.13551020408163264,2,0,1,0.6666666666666666,0.0,2
+ChIJuSgbCEeWfpQRqMsruqVE_8o,AUTO POSTO ARARA AZUL LTDA,"BR-262, S/N - Zona Rural, Miranda - MS, 79380-000, Brazil",-20.2334755,-56.37859599999999,3,4.666666666666667,0.3666666666666667,2,0,1,0.6666666666666666,0.0,2
+ChIJn3BBgKAHpAARRWTMUC2i2y8,Posto Topázio Imperial,"Rodovia dos Inconfidentes, 72 - Cachoeira do Campo, Ouro Preto - MG, 35410-000, Brazil",-20.3477268,-43.67581360000001,3,3.6666666666666665,0.6,2,0,1,0.6666666666666666,0.0,2
+ChIJbSBv0iFFGZUR5KEXi4Q2WDQ,Posto Shell,"Av. Bom Jardim, 670 - Cidade Nova, Ivoti - RS, 93900-000, Brazil",-29.6227194,-51.1591626,5,4.2,0.13666666666666666,2,0,3,0.4,0.0,2
+ChIJ_zng6gD3zpQR1dcx8-sdvhg,Auto Posto Estaçao Carandiru,"Av. Gen. Ataliba Leonel, 275 - Santana, São Paulo - SP, 02033-000, Brazil",-23.506454,-46.624119,4,1.0,0.20833333333333331,2,0,2,0.5,0.0,2
+ChIJzdYDuvRRzpQRblaOQRXZrAs,Auto Posto Isola (Postos volt),"Av. Atlântica, 406-656 - Socorro, São Paulo - SP, 04768-000, Brazil",-23.67066579999999,-46.7123487,4,5.0,0.30761718749999994,2,0,2,0.5,0.0,2
+ChIJ06PrPjxgvAARy5d1K9iN1sQ,POSTO TRIANGULO ITAPERUNA LTDA,"BR-356, SN - LOT CAICARA, Itaperuna - RJ, 28300-000, Brazil",-21.200562,-41.89645420000001,5,4.0,0.382,2,0,3,0.4,0.0,2
+ChIJp7Q8K1ajHJUREca3XYpSCAY,Abastecedora de Combustíveis TW LTDA,"Rua Thomaz Flores, 578 - Centro, Santa Cruz do Sul - RS, 96810-068, Brazil",-29.7176098,-52.4242988,5,5.0,0.18,2,0,3,0.4,0.0,2
+ChIJ3ZXaKFlVsgcRC70gkWOKv8A,Posto Shell,"R. Jaguarari, 1974 - Lagoa Nova, Natal - RN, 59054-500, Brazil",-5.816020999999999,-35.2176803,3,4.666666666666667,0.3444444444444444,2,0,1,0.6666666666666666,0.0,2
+ChIJB5rNfi4N8JQRoNHTRjgnkE4,Eliane Stang Huning,"R. Palmas, 1800 - Vila Nova, Francisco Beltrão - PR, 85605-040, Brazil",-26.0811039,-53.04807510000001,3,2.3333333333333335,0.3533333333333333,2,0,1,0.6666666666666666,0.0,2
+ChIJfVhkUfhXx5QRe20uLKXwlXA,Posto Shell - Rede Lk De Postos Ltda,"R. Mal. Bitencourt, 1053 - Vila Nova, Jaú - SP, 17202-160, Brazil",-22.3001069,-48.56098069999999,3,4.666666666666667,0.5666666666666667,2,0,1,0.6666666666666666,0.0,2
+ChIJken88H2qwZQRzRUs0_-ucRw,Auto Posto 2001 - Shell,"Av. São Sebastião, 1025 - Parque Res. Ana Cristina, Piraju - SP, 18800-000, Brazil",-23.2081487,-49.3712645,4,3.0,0.25,2,0,2,0.5,0.0,2
+ChIJE0Nfj4iSypQRCXnaUUxNnuo,Posto Petrobras,"R. Santa Cruz, 561 - Centro, Varginha - MG, 37002-089, Brazil",-21.55392,-45.4398,5,3.2,0.22666666666666666,2,0,3,0.4,0.0,2
+ChIJb3Xpe1aXpgARCLkXEkwhMD4,Posto Shell,"Av. Nossa Sra. de Fátima, 1612 - Lagoinha, Belo Horizonte - MG, 30710-020, Brazil",-19.9134333,-43.945616,4,1.75,0.2125,2,0,2,0.5,0.0,2
+ChIJGTHOoJnorAcRK4Jl2SO7lWM,Posto São Luiz XVIII,"Av. Liberdade, 1232 - São Bento, Bayeux - PB, 58306-000, Brazil",-7.1201755,-34.90506979999999,3,4.666666666666667,0.3,2,0,1,0.6666666666666666,0.0,2
+ChIJ93iatoD5zpQRllhAi3Xbl4Y,Loja Shell Select - POSTO SHELL - AUTO POSTO REINA SOPHIA LTDA,"Av. Otaviano Alves de Lima - Piqueri, São Paulo - SP, 02912-000, Brazil",-23.5070737,-46.7100336,3,4.0,0.13333333333333333,2,0,1,0.6666666666666666,0.0,2
+ChIJcQcvIwaayJQRK07FoNFwjnY,Posto Shell,"R. Mauro Schiavoni, 27 - Jardim Helena, Americana - SP, 13477-272, Brazil",-22.7294027,-47.2956735,3,4.666666666666667,0.5,2,0,1,0.6666666666666666,0.0,2
+ChIJrwxRsw75NAcRLhIkRrOG3os,Auto posto prado Shell,"Av. Itamarajú - Expedito cordeiro, Prado - BA, 45980-000, Brazil",-17.3355222,-39.2310204,5,4.6,0.20666666666666664,2,0,3,0.4,0.0,2
+ChIJ58OSeNXnhpQR2eeTp3u9AfY,Posto Shell,"R. Dr. Arthur Jorge, 2838 - Monte Castelo, Campo Grande - MS, 79010-210, Brazil",-20.4407919,-54.6097952,3,2.3333333333333335,0.1611111111111111,2,0,1,0.6666666666666666,0.0,2
+ChIJhe5AZd3DpgARL6ur3YK0G2I,POSTO TREVO BETIM LTDA,"Av. Bandeirantes, 1360 - Chácaras, Betim - MG, 32670-144, Brazil",-19.966701,-44.1798,5,4.0,0.09666666666666665,2,0,3,0.4,0.0,2
+ChIJJaIdnODDpgARY4hykk2Tdao,POSTO PAMPAS LTDA,"435, BR-381, S/N - Teresópolis, João Monlevade - MG, 32637-508, Brazil",-19.838497,-43.18535970000001,4,3.75,0.0875,2,0,2,0.5,0.0,2
+ChIJef0ooKNczpQRSRc5_pKSyMA,Posto Shell,"Estr. das Lágrimas, 3766 - São João Climaco, São Paulo - SP, 04240-000, Brazil",-23.6313057,-46.585147,4,1.0,0.15885416666666663,2,0,2,0.5,0.0,2
+ChIJD5IzGarCrAcRGoj0IbJEt88,Posto Shell - Quality,"Av. Min. José Américo de Almeida, 986 - Torre, João Pessoa - PB, 58040-300, Brazil",-7.127737300000001,-34.8613743,3,3.3333333333333335,0.19444444444444442,2,0,1,0.6666666666666666,0.0,2
+ChIJp8QyuPZDzpQRjH-o-1GIIzA,TRATTO CENTRO AUTOMOTIVO LTDA,"Estrada Samuel Aizemberg, 1708 - LOJA 2 - Cooperativa, São Bernardo do Campo - SP, 09851-550, Brazil",-23.71730350000001,-46.6026318,3,3.6666666666666665,0.3711111111111111,2,0,1,0.6666666666666666,0.0,2
+ChIJ8XF-AFOqmQARKtT7ITP-wDk,Posto Shell,"Estr. União e Indústria, 9024 - 9026-9028 - Itaipava, Petrópolis - RJ, 25730-735, Brazil",-22.4119014,-43.13888789999999,4,4.75,0.09166666666666667,2,0,2,0.5,0.0,2
+ChIJpbcjE1W4rgAR58rQW7hvOGw,Posto Shell,"Av. João Antunes de Oliveira, 1200 - Cazuza, Diamantina - MG, 39100-000, Brazil",-18.2407015,-43.6276709,5,4.4,0.21000000000000002,2,0,3,0.4,0.0,2
+ChIJJ_hArJSunZMRu_fWISQOczM,Posto Shell,"Av. Pref. Murilo Domingos, 425 - Cristo Rei, Várzea Grande - MT, 78118-005, Brazil",-15.655953,-56.1030678,3,4.0,0.5,2,0,1,0.6666666666666666,0.0,2
+ChIJ52iWwa12swARgYSKYFkEHyw,Posto Shell,"R. Rui Barbosa, 68 - São Diogo, Teófilo Otoni - MG, 39803-011, Brazil",-17.86699119999999,-41.5127033,5,2.6,0.13,2,0,3,0.4,0.0,2
+ChIJ0Zi-CvpczpQRl_YiMg9hHjM,Posto Shell,"Rua Francisco Rebelo, 891 - Vila California, São Paulo - SP, 03212-000, Brazil",-23.6060021,-46.5643077,4,2.25,0.0875,2,0,2,0.5,0.0,2
+ChIJUUGjizP73JQRmRtnrqyvlMs,Posto Shell,"Rua Cid Marcondes de Albuquerque, 2357 - Pinheirinho, Curitiba - PR, 81825-080, Brazil",-25.524058,-49.2692539,5,4.6,0.13,2,0,3,0.4,0.0,2
+ChIJI2h0wAhriZQRIpeObOvI3gc,Posto Shell - Fátima do Sul,"Br 376, Km 3 saída para vicentina - Zona rural, Fátima do Sul - MS, 79700-000, Brazil",-22.3868191,-54.49036100000001,3,5.0,0.57,2,0,1,0.6666666666666666,0.0,2
+ChIJWXBXRMQ145QRY706QhKj0Rs,Posto Shell,"Av. Pedro Álvares Cabral, 5 - Centro, Cruzaltense - RS, 99660-000, Brazil",-27.6658112,-52.64884989999999,3,3.6666666666666665,0.6,2,0,1,0.6666666666666666,0.0,2
+ChIJZ3ypFqNwIpUR8dsxfiPgliE,Posto Shell,"Av. Padre Rizzieri Delai, 1237 - Bela Vista, Três Cachoeiras - RS, 95580-000, Brazil",-29.45227649999999,-49.9186774,4,4.5,0.3,2,0,2,0.5,0.0,2
+ChIJCdzyDUA1OAcRDw_Dnflpqsw,Posto Shell - JUSOUZA AUTO POSTO DE COMBUST LTDA,"LOTE O5 - BR-101, 05, São José da Vitória - BA, 45620-000, Brazil",-15.0824498,-39.3403255,5,4.0,0.21199999999999997,2,0,3,0.4,0.0,2
+ChIJvUJW8BfXTZMRUMkvBCQz-pw,Posto Shell,"Av. Tancredo Neves, 1067 - A - Centro, Correntina - BA, 47650-000, Brazil",-13.3445601,-44.6311648,3,3.3333333333333335,0.1611111111111111,2,0,1,0.6666666666666666,0.0,2
+ChIJAQAAAGzSyJQRaUaycLRFfHY,Auto Posto 100,"Rodovia Flavio de Carvalho, 759 - Vila Capuava, Valinhos - SP, 13273-555, Brazil",-22.95933909999999,-46.9659376,4,5.0,0.369140625,2,0,2,0.5,0.0,2
+ChIJO6UEni8hyZQRo6hSepFq0gg,Posto Shell,"Av. Bernardino de Campos, 1380 - Centro, Amparo - SP, 13900-400, Brazil",-22.7117186,-46.7800866,5,4.8,0.14166666666666666,2,0,3,0.4,0.0,2
+ChIJ24Os2YP2XpMRGewKqEywti8,Posto Shell,"Av. Consolacao, Sn Qd3A Lt16A - I E Iii - Vila Adelia, Goiânia - GO, 74323-093, Brazil",-16.69239199999999,-49.31967150000001,5,3.0,0.18666666666666665,2,0,3,0.4,0.0,2
+ChIJlY8SAHihnwARDHCf1q0_eT0,Auto Posto Lara,"R. Toniquinho Araújo, 357 - Morro, São Vicente de Minas - MG, 37370-000, Brazil",-21.7012576,-44.4459961,5,5.0,0.22666666666666666,2,0,3,0.4,0.0,2
+ChIJwxbjEvV4GJURKzhIP9vl-iM,Posto Sander,"Av. Central, 1485 - Atlântida, Xangri-lá - RS, 95588-000, Brazil",-29.7753037,-50.0377303,3,2.3333333333333335,0.21666666666666667,2,0,1,0.6666666666666666,0.0,2
+ChIJi-KoQociAJURCeZvjypdkSs,Posto Shell,"R. 13 de Janeiro, 1151 - Centro, São Francisco de Assis - RS, 97610-000, Brazil",-29.54834,-55.1307,3,5.0,0.57,2,0,1,0.6666666666666666,0.0,2
+ChIJqRci__gzngARZAvcn9SE7Oc,Posto Shell,"R. José Rodrigues de Souza, 361, Cruzília - MG, 37445-000, Brazil",-21.8454305,-44.8146922,5,4.6,0.22999999999999998,2,0,3,0.4,0.0,2
+ChIJ2TiN1H6tvZQRLaDhMZSG2Jw,Infinity Auto Posto e Conveniência,"R. Gen. Glicério, 1916 - Vila Maceno, São José do Rio Preto - SP, 15060-000, Brazil",-20.8036095,-49.3740611,5,1.2,0.09666666666666665,2,0,3,0.4,0.0,2
+ChIJk__m8YL1nQARHh0KvK-OoPw,Auto Posto Esquina 3 da Shell Cidade,"R. Santa Cruz, 51 - Centro, Cruzeiro - SP, 12701-470, Brazil",-22.5820133,-44.96032539999999,10,4.4,0.06666666666666667,2,0,8,0.2,0.0,2
+ChIJq-7HzSuxnZMRml6UK1Zl_xU,posto camisa 10,"Av. Historiador Rubens de Mendonça, 1578 - Bosque da Saude, Cuiabá - MT, 78050-000, Brazil",-15.5868976,-56.0815799,3,3.6666666666666665,0.5,2,0,1,0.6666666666666666,0.0,2
+ChIJMQwl4BdeIZURHi-k7FquU_U,Posto Rota 101 Jaguaruna,"Rodovia Br 101 Km 353, s/n - Morro Azul, Jaguaruna - SC, 88715-000, Brazil",-28.6106746,-49.0592276,3,4.333333333333333,0.39218749999999997,2,0,1,0.6666666666666666,0.0,2
+ChIJfe3o_O-loAAReZK-iOAu91A,Posto Prata,"KM 128 - 128, MG-050 - Dulphe Pinto de Aguiar, Divinópolis - MG, 35502-509, Brazil",-20.135837,-44.915493,5,4.0,0.2653333333333333,2,0,3,0.4,0.0,2
+ChIJi1TGEyUvpwARLrlSKz7lxMg,Posto Azurita,"Nossa Senhora de Lourdes - MG-050 - Azurita, Mateus Leme - MG, 35670-000, Brazil",-20.0128799,-44.4789027,5,5.0,0.282,2,0,3,0.4,0.0,2
+ChIJieO15Je_uZQRfaGspUhp-1A,Loja Shell Select - Firenze Auto Posto,"Av. Portugal, 408 - Vila Seixas, Ribeirão Preto - SP, 14020-380, Brazil",-21.190682,-47.80136599999999,4,4.25,0.26875,2,0,2,0.5,0.0,2
+ChIJOV5RglsxxpQRi4hDK7dvgAs,Posto Shell,"Av. Pádua Dias, 578 - Vila Independencia, Piracicaba - SP, 13418-260, Brazil",-22.7162143,-47.6281737,3,3.0,0.21666666666666667,2,0,1,0.6666666666666666,0.0,2
+ChIJiQJdiMgNiJQRsqfX2YgvavM,Posto Shell,"R. Franklin Ferreira Ribeiro, 470 - Centro, Maracaju - MS, 79150-000, Brazil",-21.6244819,-55.16222639999999,5,3.8,0.32,2,0,3,0.4,0.0,2
+ChIJQUECT5MVFgcRmiwUy71Nv1g,Posto Shell,"Av. Priscila Dutra, 771 - Vilas do Atlântico, Lauro de Freitas - BA, 42700-000, Brazil",-12.879439,-38.29922699999999,3,2.0,0.17777777777777778,2,0,1,0.6666666666666666,0.0,2
+ChIJ6T1yDjYnz5QRdu6sqXjbhXU,Shell Select,"R. Florindo Zambon, 1282 - Cidade Nova, Jundiaí - SP, 13219-380, Brazil",-23.1884729,-46.8470516,5,2.8,0.16666666666666666,2,0,3,0.4,0.0,2
+ChIJ9dWmGXgnPgcROhFg25UPJWQ,Posto Litoral,"R. Dr. Dílson C. Barreto, 5 - Muniz Ferreira, BA, 44575-000, Brazil",-13.0071178,-39.1038595,4,3.75,0.3125,2,0,2,0.5,0.0,2
+ChIJGz1tH1B4GZURhLf4_A-tyQY,Posto Shell Garagem Laitano,"R. Santana, 608 - Santana, Porto Alegre - RS, 90040-371, Brazil",-30.0435238,-51.2104307,5,3.6,0.21000000000000002,2,0,3,0.4,0.0,2
+ChIJ-QApQCVDzpQROSs6154RYMU,Posto BR - Auto Posto Ícaro,"Tv. Arcádia, 9 - Vila Palmares, Santo André - SP, 09061-680, Brazil",-23.648317,-46.5632349,5,4.8,0.13333333333333333,2,0,3,0.4,0.0,2
+ChIJRRp3TpXi4pQRVpT_C3qcip4,Posto Shell,"47 RS-135 SN - Santa Catarina, Getúlio Vargas - RS, 99900-000, Brazil",-27.8739211,-52.2224218,5,4.8,0.282,2,0,3,0.4,0.0,2
+ChIJbQGZcj9qGpURSpjlZqGR0_g,Posto Shell,"Av. Theodoro Zenker, 490, Cerro Grande do Sul - RS, 96770-000, Brazil",-30.596213,-51.7479159,5,4.4,0.33999999999999997,2,0,3,0.4,0.0,2
+ChIJV2NNx4rfApUR45jrrNCypsQ,Posto Shell,"R. Independência, 403 - 0 - Centro, Sobradinho - RS, 96900-000, Brazil",-29.4153973,-53.02400309999999,4,4.25,0.375,2,0,2,0.5,0.0,2
+ChIJUWzVKpIvWpMR0_majRaEkPI,Posto Shell,"Lt 35 E 36 Conj 23 Area Desenv , Sn - Águas Claras, Brasília - DF, 72030-180, Brazil",-15.8763203,-47.9994899,3,2.6666666666666665,0.2333333333333333,2,0,1,0.6666666666666666,0.0,2
+ChIJhb9G67zJzpQR6ARtFQVRAFg,Posto Shell,"Av. dos Imigrantes, 465 - Centro, Bragança Paulista - SP, 12902-000, Brazil",-22.9682292,-46.5437217,4,2.75,0.07083333333333333,2,0,2,0.5,0.0,2
+ChIJf0DxkSvGyJQR28gX543X_7M,Posto Shell,"Av. Governador Pedro de Toledo, 2500 - Bonfim, Campinas - SP, 13070-150, Brazil",-22.8972283,-47.0939709,5,3.8,0.2953125,2,0,3,0.4,0.0,2
+ChIJgX1NQe9Z3ZQRxZSHsoK9ROk,Panda Auto Posto - Maranello,"169 - KM 169 BR-277 - Palmeira, PR, 84130-000, Brazil",-25.4345873,-49.9918887,3,3.0,0.09999999999999999,2,0,1,0.6666666666666666,0.0,2
+ChIJ67HYNHcJz5QRvFhKeniPhPA,Auto Posto Jardim Europa VGP,"Rua Manoel Almeida de Oliveira, 777 - Jardim Europa, Vargem Grande Paulista - SP, 06730-000, Brazil",-23.6181836,-47.0066142,5,2.6,0.26116666666666666,2,0,3,0.4,0.0,2
+ChIJH0oIkm6DEZURavs0eKt7JaQ,ABASTECEDORA DE COMBUSTIVEIS Ltda,"R. Vinte e Três, 398 - Industrial Tamandaré, Rio Grande - RS, 96201-044, Brazil",-32.1494461,-52.1021631,4,4.75,0.395,2,0,2,0.5,0.0,2
+ChIJrRts4mNnv5QRo_CPTkcLyJc,REDE LK DE POSTOS LTDA,"Av. Nações Unidas, 28-75 - Vila Nova Cidade Universitaria, Bauru - SP, 17053-460, Brazil",-22.3353204,-49.0538012,3,3.6666666666666665,0.4666666666666666,2,0,1,0.6666666666666666,0.0,2
+ChIJZTxSTTvZxZQRd6rhlK4R7nk,Posto Shell,"EST JOSE GREGORIO MUNICIPAL, 233 - ENXOVIA, Tatuí - SP, 18277-709, Brazil",-23.3564,-47.8569,3,5.0,0.28888888888888886,2,0,1,0.6666666666666666,0.0,2
+ChIJS21xWnNKzJQRdQ2SHeZWvC0,Posto Shell,"Av. São João, 686 - Jardim Esplanada, São José dos Campos - SP, 12242-000, Brazil",-23.1973565,-45.8989162,5,2.6,0.12533333333333332,2,0,3,0.4,0.0,2
+ChIJe1i71EoZspQRSTYCmrgmz9Y,Posto Alpa,"Rodovia BR 354, KM 327 - Zona Rural, São Gotardo - MG, 38800-000, Brazil",-19.3523015,-46.13480740000001,6,4.0,0.16666666666666666,2,0,4,0.3333333333333333,0.0,2
+ChIJOQAAUBdfzpQRL85D29_liS4,Técnica Diesel Rio Negro Ltda,"Rua Cabo Oscár Rossini, 982 - Parque Novo Mundo São Paulo - SP - CEP: - Parque Novo Mundo, São Paulo - SP, 02186-030, Brazil",-23.5160013,-46.57017200000001,5,2.0,0.13333333333333333,2,0,3,0.4,0.0,2
+ChIJG3-DzulgXQcRmJBiQSYWv9w,Posto Shell,"ROD BR 242 KM 432, S/N RODOVIA - Oliveira dos Brejinhos, BA, 47530-000, Brazil",-12.32427,-42.89026,5,4.4,0.382,2,0,3,0.4,0.0,2
+ChIJxW5s020cqwcRKXoazU36BEI,POSTO LEAO DA ILHA LTDA,"Av. Eng. Abdias de Carvalho, 125 - Madalena, Recife - PE, 50780-000, Brazil",-8.0617067,-34.9061201,5,4.8,0.11666666666666665,2,0,3,0.4,0.0,2
+ChIJg_k6U2DBsJQRfpb0EQwgHQQ,Auto Posto Ribeiro,"Ibiraci - State of Minas Gerais, 37990-000, Brazil",-20.3110922,-47.10792379999999,4,4.0,0.45,2,0,2,0.5,0.0,2
+ChIJIwa5ANHQ7JQREGRjiYU37vk,comercio de combustivel,"Praça Rocha Pombo, 205 - Zona 01, Maringá - PR, 87013-030, Brazil",-23.4215471,-51.9291081,5,4.4,0.3,2,0,3,0.4,0.0,2
+ChIJ89JbwP9XzpQRcvAQHySjFrA,Loja Shell Select - POSTO SHELL - CENTRO AUTOMOTIVO FIANDEIRAS LTDA,"Av. Santo Amaro, 1510 - Vila Nova Conceição, São Paulo - SP, 04506-000, Brazil",-23.5974898,-46.6741347,3,2.3333333333333335,0.1875,2,0,1,0.6666666666666666,0.0,2
+ChIJdbGTYQNOz5QRcSVHt812qDE,Posto Shell,"Av. dos Trabalhadores, 1555 - Jardim Marilia, Salto - SP, 13323-000, Brazil",-23.2139932,-47.27844249999999,3,2.0,0.18888888888888888,2,0,1,0.6666666666666666,0.0,2
+ChIJ9-yyac_zoJMR-sXWirCrzMA,Posto Shell,"Av. Mato Grosso, 1017 E - Cidade Nova, Lucas do Rio Verde - MT, 78455-000, Brazil",-13.0709145,-55.9146638,4,4.0,0.1875,2,0,2,0.5,0.0,2
+ChIJvaUPiTvh3JQRhXmlBAcaQds,Fredolin | Postos Gralha Azul - Posto de Gasolina no Pilarzinho,"Av. Fredolin Wolf, 2951 - São João, Curitiba - PR, 83508-000, Brazil",-25.3828565,-49.31191329999999,4,4.25,0.3333333333333333,2,0,2,0.5,0.0,2
+ChIJj1pKGgf5zJQR7A21hM7aAvE,Posto Shell,"Av. Granadeiro Guimarães, 359 - Centro, Taubaté - SP, 12020-130, Brazil",-23.0221111,-45.556727,8,3.0,0.125,2,0,6,0.25,0.0,2
+ChIJDdoTp23FkpQRf0ulfa7-V10,Oficina Magalhães,"Av. São José, 1222 - Nova Esperança, PR, 87600-000, Brazil",-23.1830761,-52.2078809,4,5.0,0.28874999999999995,2,0,2,0.5,0.0,2
+ChIJkb5KaDJazpQRhKnaHJo5LQs,POSTO PAISAGEM LTDA,"R. Afonso Celso, 644 - Vila Mariana, São Paulo - SP, 04119-060, Brazil",-23.5972548,-46.6351118,3,4.333333333333333,0.22916666666666666,2,0,1,0.6666666666666666,0.0,2
+ChIJv_ZS-7FduwAR2-SA08_kVsY,Auto Posto Xodozão Ltda,"BR-116, SN - Fervedouro, MG, 36815-000, Brazil",-20.7229646,-42.280677,3,4.0,0.12916666666666668,2,0,1,0.6666666666666666,0.0,2
+ChIJny807Hn2zpQRl7pRVgVaBCE,Shell - Posto de Serviço Vila Mazzei LTDA,"Av. Mazzei, 1670 - Vila Nova Mazzei, São Paulo - SP, 02310-000, Brazil",-23.4678484,-46.5971508,3,1.6666666666666667,0.20000000000000004,2,0,1,0.6666666666666666,0.0,2
+ChIJweurl_lfzpQRP0ayCFN3hXc,Posto Shell,"ROD PRESID DUTRA, SN KM222 + 600MTS - Porto da Igreja, Guarulhos - SP, 07034-000, Brazil",-23.47563000000001,-46.52422,3,3.6666666666666665,0.09999999999999999,2,0,1,0.6666666666666666,0.0,2
+ChIJqXmkow7GvAARv0JQUERB3Ao,Auto Posto Tigrão Muriaé,"Av - R. José Máximo Ribeiro, 1414 - Muriaé, MG, 36880-000, Brazil",-21.1454185,-42.3795172,3,4.333333333333333,0.3333333333333333,1,0,2,0.3333333333333333,0.0,1
+ChIJWd7VWNu3yJQRMRLILlRarGc,DIAMANTE AUTO POSTO DE CAMPINAS LTD,"R. Nadir Dias de Oliveira, 2321 - Cidade Satélite Íris, Campinas - SP, 13059-645, Brazil",-22.9426586,-47.14478019999999,5,2.6,0.06666666666666667,1,0,4,0.2,0.0,1
+ChIJIzhvfOOJtJQRjabkh7jEwEg,Auto Posto Leão,"Avenida Dr - Av. João Vaz Sobrinho Trecho I, 1600, Arcos - MG, 35588-000, Brazil",-20.2774046,-45.54261020000001,5,4.2,0.06666666666666667,1,0,4,0.2,0.0,1
+ChIJe6LfsryItJQRcfiYG8T6kXw,Parebem Posto Esplanada LTDA,"RUA B, 330 - Distrito Industrial II, Arcos - MG, 35588-000, Brazil",-20.3033725,-45.53932640000001,5,3.6,0.1,1,0,4,0.2,0.0,1
+ChIJrZchSp4o0JQREAzcZZKQrc0,Auto World Peruibe Desk,"Av. Luciano de Bona, 5825 - Oásis, Peruíbe - SP, 11772-602, Brazil",-24.2872222,-46.9688889,5,4.2,0.08333333333333333,1,0,4,0.2,0.0,1
+ChIJp56zTaCipgARCy6e4KIaxlw,Posto Shell,"MG-030, 1709 - Ouro Velho Mansões, Nova Lima - MG, 34000-000, Brazil",-19.9987199,-43.89352839999999,3,2.0,0.049999999999999996,1,0,2,0.3333333333333333,0.0,1
+ChIJ2akEcW5BlpQRxZaTxQTS0ls,Auto Posto Bremen Araçatuba,"Av. Odorindo Perenha, 976 - Bairro Concórdia 1, Araçatuba - SP, 16013-230, Brazil",-21.2173981,-50.4152533,3,4.333333333333333,0.049999999999999996,1,0,2,0.3333333333333333,0.0,1
+ChIJocCGbj89qwcRv83ZWe3Hnf0,Albuquerque Pneus olinda 1,"Av. Dr. José Augusto Moreira, 377 - Casa Caiada, Olinda - PE, 53130-410, Brazil",-7.9918347,-34.8396526,5,4.4,0.08333333333333333,1,0,4,0.2,0.0,1
+ChIJT-LHXuPDpgARPZHVhckyqJQ,Posto Shell,"Av. Bandeirantes, 741 - Filadélfia, Betim - MG, 32650-370, Brazil",-19.9646215,-44.1860946,4,2.75,0.08333333333333333,1,0,3,0.25,0.0,1
+ChIJuUtb3lrOOAcREyz_-e97yXE,POSTO SAMARINO,"PRAÇA DA VITÓRIA - BR-330 - CENTRO, Ubatã - BA, 45550-000, Brazil",-14.21225,-39.5182179,3,4.0,0.049999999999999996,1,0,2,0.3333333333333333,0.0,1
+ChIJxWPzemOBp5MRGoW5BZjA0i0,Posto Trevão Cimatel,"Av. André Antônio Maggi, 4641 - Res. Vitoria Regia, Sinop - MT, 78555-108, Brazil",-11.8421935,-55.52092909999999,4,3.75,0.125,1,0,3,0.25,0.0,1
+ChIJO9rURokJz5QRE3iPPypldSw,Posto Shell - KOBAYACHI AUTO POSTO LTDA,"Rodovia Bunjiro Nakao, 45685 - Jardim Margarida, Cotia - SP, 06730-000, Brazil",-23.607708,-47.03475089999999,5,2.8,0.16949999999999998,1,0,4,0.2,0.0,1
+ChIJc2GaItYpoJMRGW0yGLk8K1U,Posto Comelli - Shell,"Av. Perimetral das Samambaias, 975-N - Centro, Nova Mutum - MT, 78450-000, Brazil",-13.8131333,-56.0745352,5,5.0,0.125,1,0,4,0.2,0.0,1
+ChIJUZG8kZOzoJMRSt1hFcF20Bs,Auto Posto Rota do Sol,"Av. Blumenau Sul, 530 - Rota do Sol, Sorriso - MT, 78895-031, Brazil",-12.5704792,-55.7402975,4,3.0,0.041666666666666664,1,0,3,0.25,0.0,1
+ChIJtwJeFUJxr5MR3FR7vDyWkng,Posto Shell,"Av. Rio Arinos, 1562 W - Juara, MT, 78575-000, Brazil",-11.265265,-57.51586099999999,5,4.4,0.182,1,0,4,0.2,0.0,1
+ChIJywzFgRa8yJQRwLRhk4aTLYE,Posto Shell,"Av. Thereza Ana Cecon Breda, 1860, Hortolândia - SP, 13183-255, Brazil",-22.8531808,-47.2288392,4,1.0,0.0375,1,0,3,0.25,0.0,1
+ChIJTTg2xU4fqwcRslEz8tA1_0M,Shell Select,"Av. Mal. Mascarenhas de Morais, 2662 - Imbiribeira, Recife - PE, 51180-001, Brazil",-8.1080598,-34.9119971,3,5.0,0.17569444444444446,1,0,2,0.3333333333333333,0.0,1
+ChIJJwhKolfIeZMRHbHiaKDRcDM,Ciclo Rondon,"Av. Presidente Kennedy, 2401 - Centro, Rondonópolis - MT, 78715-201, Brazil",-16.463294,-54.633497,5,3.8,0.06666666666666667,1,0,4,0.2,0.0,1
+ChIJbzkucS9CzpQRLri9B8fat5I,Shell - Auto Posto Pery Ronchetti (Shell),"Av. Pery Ronchetti, 620 - Nova Petrópolis, São Bernardo do Campo - SP, 09771-001, Brazil",-23.70118360000001,-46.54598199999999,4,2.25,0.175,1,0,3,0.25,0.0,1
+ChIJh3WnU-A1XgcRPmcRd97L5jY,Auto Posto Brasilia,"Rua da BR-242, 28, Cristópolis - BA, 47950-000, Brazil",-12.2309264,-44.3600263,5,4.4,0.03333333333333333,1,0,4,0.2,0.0,1
+ChIJB92V2FyzyJQRxZRxVZzWDkI,Shell gas station,"Av. Eng. Fábio Roberto Barnabé, 1169 - Jardim Esplanada, Indaiatuba - SP, 13348-310, Brazil",-23.081257,-47.2231652,5,3.4,0.08,1,0,4,0.2,0.0,1
+ChIJ8UPg1d2XpgARNLH0O_FEMwA,Posto Barão VPP ltda.,"Av. Barão Homem de Melo, 3000 - Estoril, Belo Horizonte - MG, 30450-250, Brazil",-19.961224,-43.9645968,5,1.4,0.03,1,0,4,0.2,0.0,1
+ChIJ42vzU_n1XpMRjWBRefNA3K0,Posto Shell,"Rod. Go 060, Sn Qd 53 Lt08 - Chácaras Maringá, Goiânia - GO, 74461-005, Brazil",-16.6589823,-49.36212319999999,5,4.0,0.04,1,0,4,0.2,0.0,1
+ChIJbchvZCMj3ZQRtG4uceBPb2g,Posto de Gasolina Andrigo,"Estr. de Bateias - Bateias, Campo Largo - PR, 83606-482, Brazil",-25.36527689999999,-49.5122539,5,3.4,0.06666666666666667,1,0,4,0.2,0.0,1
+ChIJq2jE6rW1yJQRWjXdpncIICU,Posto Shell,"Av. Pres. Vargas, 1475 - Cidade Nova I, Indaiatuba - SP, 13334-085, Brazil",-23.0855767,-47.1977535,3,4.333333333333333,0.12962962962962962,1,0,2,0.3333333333333333,0.0,1
+ChIJTZtqX-pTqwARlIN364ZfDI8,Posto Shell,"Pc Tancredo Neves,120, Anexo 1 - Canelas I, Montes Claros - MG, 39402-595, Brazil",-16.74040609999999,-43.8715204,5,4.2,0.04,1,0,4,0.2,0.0,1
+ChIJTe4iS_mnrQARjN-Hby2RyQE,Auto Posto Nunes Rocha,"BR 451, 0 Novato - Carbonita, MG, 39665-000, Brazil",-17.5473175,-43.0146862,5,3.4,0.06666666666666667,1,0,4,0.2,0.0,1
+ChIJR8uKy_K-uZQRZxDNUcjtEc8,Auto Posto Forquilha,"R. Abílio Sampaio, 71 - Vila Virginia, Ribeirão Preto - SP, 14030-420, Brazil",-21.1827887,-47.8227442,5,3.6,0.06666666666666667,1,0,4,0.2,0.0,1
+ChIJ3V04PNQWsJQRr4Zrv8kP5ec,Maxdiesel Veiculos e Pecas,"Rodovia Br Duzentos e Sesenta e Dois, 1 - Aeroporto, Araxá - MG, 38180-000, Brazil",-19.5585898,-46.96950449999999,3,3.0,0.16666666666666666,1,0,2,0.3333333333333333,0.0,1
+ChIJY69L_YIGz5QR2rD1l6haQNA,Ita Fuel Automotive Services,"R. Prof. Dimarães Antônio Sandei, 29 - Cidade da Saude, Itapevi - SP, 06693-130, Brazil",-23.5390831,-46.933711,5,3.4,0.1953125,1,0,4,0.2,0.0,1
+ChIJOVM_lVBBPgcR_7lxup8IGKw,Posto Shell - MAGGRI COM E REPRESENTACOES LTDA ME,"Av Antônio Carlos, S/N Bom despacho São Felix - Graça, Valença - BA, 45400-000, Brazil",-13.3688323,-39.0715155,3,3.6666666666666665,0.3033333333333333,1,0,2,0.3333333333333333,0.0,1
+ChIJi3lqinnLSpMR5Bg8MiJsXqw,Auto Posto Barreirinhas,"R. Boa Vista, 1 - Barreirinhas, Barreiras - BA, 47800-028, Brazil",-12.1410773,-45.0010514,5,3.4,0.04,1,0,4,0.2,0.0,1
+ChIJO8itiOm1EZURdtEE2qt8OQU,Posto Shell,"Av. Pres. Juscelino Kubitscheck de Oliveira, 5240 - Areal, Pelotas - RS, 96080-000, Brazil",-31.7387671,-52.32772079999999,3,4.666666666666667,0.21701388888888884,1,0,2,0.3333333333333333,0.0,1
+ChIJwfCiwKyRmAARVdQqjoHV-dI,Posto Route 040,"BR-040, KM - 807/500 - N/A, Matias Barbosa - MG, 36120-000, Brazil",-21.8705945,-43.34506349999999,4,4.0,0.2048611111111111,2,1,1,0.5,0.25,1
+ChIJA3KIHa8xWpMRxkb5qu55gbs,Posto SIA,"Sia Trecho 1 Ae, 56 - Guará, Brasília - DF, 71200-010, Brazil",-15.8067454,-47.9681068,5,1.8,-0.06166666666666667,2,1,2,0.4,0.2,1
+ChIJ8WSknh3trwcRUFmfLdUOyTw,Posto Shell,"R. Dr. Renato Dantas, 787, Caicó - RN, 59300-000, Brazil",-6.4617458,-37.0959283,4,3.75,0.05,1,0,3,0.25,0.0,1
+ChIJ74hNhYaFmQAR66ds-vnZl4I,Posto Shell,"Estr. Francisco da Cruz Nunes, 915 - Cantagalo, Niterói - RJ, 24000-001, Brazil",-22.911186,-43.05668099999999,4,4.5,0.1375,1,0,3,0.25,0.0,1
+ChIJ8UxXyql13ZQRcI0sM2qRJxQ,Posto Shell,"Av. Aloísio Leoni, 1218 - Estacao Nova, Lapa - PR, 83750-000, Brazil",-25.7679009,-49.7319632,5,3.0,0.182,1,0,4,0.2,0.0,1
+ChIJ6RO2VFVomQARhgcdq1c_J5c,Posto Shell,"R. Helena, 221-229 - Vila de Cava, Nova Iguaçu - RJ, 26052-210, Brazil",-22.6827183,-43.4454444,3,3.3333333333333335,0.3333333333333333,1,0,2,0.3333333333333333,0.0,1
+ChIJy4a2ofofqwcRWfq7h5a19bk,Posto Shell,"Av. Recife, 5421 - San Martin, Recife - PE, 50865-030, Brazil",-8.082354,-34.933206,4,3.5,0.0625,1,0,3,0.25,0.0,1
+ChIJ146aAKdnv5QRc4FJs6shSCk,E. A. TUSCHI COMBUSTIVEIS,"R. Gustavo Maciel, 25-85 - ALTOS DA CIDADE, Bauru - SP, 17012-110, Brazil",-22.3365891,-49.0667878,5,2.8,0.125,1,0,4,0.2,0.0,1
+ChIJ9b_fYM0465QRkr5aodnbthU,Posto Shell,"Av. Pres. Caetano Munhoz da Rocha, 467 - Sem Nome, Jataizinho - PR, 86210-000, Brazil",-23.2582846,-50.98119089999999,3,2.0,0.049999999999999996,1,0,2,0.3333333333333333,0.0,1
+ChIJU30y0P-ypQARbtR2wHFNoWI,Posto Monte Verde,"Av. Central, 939, São Gonçalo do Rio Abaixo - MG, 35935-000, Brazil",-19.8227748,-43.3674033,5,3.8,0.13999999999999999,1,0,4,0.2,0.0,1
+ChIJpagdQgtazpQREZEtRm9QKCw,Eco Posto Bandeirantes,"Av. dos Bandeirantes, 3459 - Planalto Paulista, São Paulo - SP, 04071-010, Brazil",-23.6153595,-46.6666054,5,3.4,0.06666666666666667,1,0,4,0.2,0.0,1
+ChIJ2zH88F1CzpQRNCb1nuzhgQA,Auto Posto Shell San Pietro,"Av. Pereira Barreto, 555 - Paraíso, Santo André - SP, 09190-610, Brazil",-23.6720275,-46.53607359999999,5,2.2,0.2,1,0,4,0.2,0.0,1
+ChIJMZBwSmVdzpQRhYZOJGzGLaw,Auto Posto jardim Avelino,"R. Mário Augusto do Carmo, 562 - Jardim Avelino, São Paulo - SP, 03227-070, Brazil",-23.5872851,-46.568791,5,1.0,0.05,1,0,4,0.2,0.0,1
+ChIJAb9dhZohrAcRekWUtX9uKb0,Posto Baluarte,"BR-104, Lagoa Seca - PB, 58117-000, Brazil",-7.171558,-35.8594592,5,5.0,0.1,1,0,4,0.2,0.0,1
+ChIJ1_Nc5N9PzpQR6vs8q5wjz_Y,Posto Shell,"Av. Interlagos, 1349 - Santo Amaro, São Paulo - SP, 04661-100, Brazil",-23.6650807,-46.6780602,5,2.6,0.1,1,0,4,0.2,0.0,1
+ChIJXYpE2ZwDzpQRhKoZurKZjR8,Comércio de Combustiveis Genesis Ltda.,"Av. Conselheiro Nébias, 243 - Vila Matias, Santos - SP, 11060-003, Brazil",-23.944019,-46.321349,4,3.0,0.2,1,0,3,0.25,0.0,1
+ChIJdSrnSv-js5QRbJegwyAsPoQ,Posto Caffé da Terra Bahia,"Av. Dr. Josaphat Macedo, 1239 - Monsenhor Parreiras, Luz - MG, 35595-000, Brazil",-19.7868052,-45.6830908,3,5.0,0.1111111111111111,1,0,2,0.3333333333333333,0.0,1
+ChIJD_FB8KF8uQARH251409udtU,AUTO POSTO CASTELAO LTDA,"KM3 E 5OOMT - Rodovia Fued Nemer, SN - Castelo, ES, 29360-000, Brazil",-20.6293678,-41.20265929999999,4,3.75,0.125,1,0,3,0.25,0.0,1
+ChIJq9PD9_sLpAARmN-Evf9snLc,Posto Ouro Preto,"Ouro Preto - State of Minas Gerais, 35400-000, Brazil",-20.4030116,-43.50110890000001,4,3.75,0.175,1,0,3,0.25,0.0,1
+ChIJvUU1NSn1zpQRI61LizEr-b4,Cocaia Comércio de Lubrificantes,"Av.Brigadeiro Faria Lima, 941 - Jardim Cocaia, Guarulhos - SP, 07130-000, Brazil",-23.4467348,-46.52132020000001,4,3.5,0.0375,1,0,3,0.25,0.0,1
+ChIJ1zDWh8r3twAR84eKh2lpfZM,Auto Posto Solemar,"Av. Abido Saad, 2100 - Das Laranjeiras, Serra - ES, 29173-180, Brazil",-20.1367253,-40.183675,4,4.25,0.25,1,0,3,0.25,0.0,1
+ChIJE9_Qx7cmz5QRaREpuo7baeI,Posto Shell,"R. João Ferrara, 448 - Jardim Cica, Jundiaí - SP, 13206-714, Brazil",-23.206231,-46.8845529,4,3.0,0.08333333333333333,1,0,3,0.25,0.0,1
+ChIJ0Y_x8PGfuwARec1WpPHQtLw,Shell Gas Station,"Av. Firmino Dias, SN - Dores do Rio Preto, ES, 29580-000, Brazil",-20.6939485,-41.84913530000001,5,4.2,0.1,1,0,4,0.2,0.0,1
+ChIJTZDCFnAHuQAR_XAsmnskw04,Posto Shell,"R. Moacir Saudino, 111 - Santa Terezinha II, Alfredo Chaves - ES, 29240-000, Brazil",-20.637134,-40.7473462,4,4.0,0.0375,1,0,3,0.25,0.0,1
+ChIJ29o76478uwARjWtE4Zdk_Zw,Posto Shell,"R. Viêira Machado, 309 - Conj. Bnh, Muqui - ES, 29480-000, Brazil",-20.9512134,-41.34613,4,4.75,0.22749999999999998,1,0,3,0.25,0.0,1
+ChIJa7gdOMitvZQRAh5HdCCmthI,Posto Monte Carlo Bady Bassitt,"Av. Bady Bassitt, 4600 - Boa Vista, São José do Rio Preto - SP, 15025-000, Brazil",-20.8176553,-49.3955287,5,1.4,0.0625,1,0,4,0.2,0.0,1
+ChIJzZOq42tRzpQR5aZ-a-bqbk8,REDE 28 - Posto de Gasolina e Serviços Relix,"Av. João Dias, 3107 - Jardim Santo Antonio, São Paulo - SP, 05723-400, Brazil",-23.6433262,-46.7331169,3,2.3333333333333335,0.05555555555555555,1,0,2,0.3333333333333333,0.0,1
+ChIJCxGAhveAyJQRb7FGlpXjBi8,Posto Shell,"Rua Prefeito Doutor Alberto Ferreira, 37 - Centro, Limeira - SP, 13480-074, Brazil",-22.5733688,-47.4076513,4,2.25,0.0375,1,0,3,0.25,0.0,1
+ChIJBz0VxvyCiZQRX8hbuaaFfCM,Desk New Hope,"Av. XV de Novembro, 286 - Centro, Caarapó - MS, 79940-000, Brazil",-22.6367091,-54.8213212,5,3.6,0.16,1,0,4,0.2,0.0,1
+ChIJHwpwW5Z6cwcRMNLjPPLssn8,Posto Shell,"R. Três Marias, 50 - José e Maria, Petrolina - PE, 56320-540, Brazil",-9.3674628,-40.4952058,5,3.2,0.03333333333333333,1,0,4,0.2,0.0,1
+ChIJDQ6vzdg9owART_T6X0LKe6Y,Posto Shell,"Av. São João Batista, 15 - Centro, Visc. do Rio Branco - MG, 36520-000, Brazil",-21.0137184,-42.8391876,5,4.0,0.13999999999999999,1,0,4,0.2,0.0,1
+ChIJBa5NvhjYmwARsnOx34bPghQ,Auto Posto Valdevez,"Estr. do Pau-Ferro, 1128 - Freguesia (Jacarepaguá), Rio de Janeiro - RJ, 22743-052, Brazil",-22.928457,-43.33523739999999,5,2.2,0.03,1,0,4,0.2,0.0,1
+ChIJo2avz7vQmwARINxFLboiAZU,SELECT MEGA VERÃO,"Av. Armando Lombardi, 110 - a - Barra da Tijuca, Rio de Janeiro - RJ, 22640-000, Brazil",-23.0058301,-43.31536489999999,5,4.2,0.2,1,0,4,0.2,0.0,1
+ChIJu11QKQS5rgAR_ifbBBZcFT4,Posto Rio Grande - Shell,"Praça José Augusto Neves, 161 - Diamantina, MG, 39100-000, Brazil",-18.2376126,-43.5956091,5,4.6,0.2,1,0,4,0.2,0.0,1
+ChIJVxvMaqZPzpQRTv-9Tx5Dg3k,Posto Shell,"Av. Sen. Teotônio Vilela, 2089 - C Dutra, São Paulo - SP, 04801-010, Brazil",-23.7194613,-46.6980143,4,3.25,0.0375,1,0,3,0.25,0.0,1
+ChIJ71drJQQDz5QRdd1iZY6LLeg,Posto Shell,"Av. Yojiro Takaoka, 4858 - Alphaville, Santana de Parnaíba - SP, 06542-001, Brazil",-23.46261639999999,-46.8753317,5,3.2,0.03888888888888889,1,0,4,0.2,0.0,1
+ChIJ7xcgfqVCzpQRwMxLlIPoFGo,MARC - Neon Auto Posto,"R. Itália, 633 - Parque das Nações, Santo André - SP, 09210-040, Brazil",-23.6335991,-46.5236192,4,3.25,0.125,1,0,3,0.25,0.0,1
+ChIJHQs0yPsryJQR6FNFkoBO3bE,Transportadora Irmaos Longuini,"R. Quinzinho Otávio, 350 - Sala 1 - Centro, Vargem Grande do Sul - SP, 13880-000, Brazil",-21.834524,-46.89511599999999,4,4.5,0.25,1,0,3,0.25,0.0,1
+ChIJFWs8sRoSogARf1vBEqviimw,Posto Shell,"Av. Pres. Getúlio Vargas, 605 - Centro, Santos Dumont - MG, 36240-000, Brazil",-21.4593879,-43.5519078,4,5.0,0.10416666666666666,1,0,3,0.25,0.0,1
+ChIJg7qBEK55mQARZXC92aCe9qs,Shell Select,"Estrada do Galeão, 2870 - Portuguesa, Rio de Janeiro - RJ, 21931-003, Brazil",-22.8050006,-43.2099073,5,3.4,0.03,1,0,4,0.2,0.0,1
+ChIJ1YMela55-5QRyiYmHc5ZgDo,Posto Shell,"BR-386, Sn - Km 51 - Interior, Seberi - RS, 98380-000, Brazil",-27.50326099999999,-53.3873809,3,4.666666666666667,0.3333333333333333,1,0,2,0.3333333333333333,0.0,1
+ChIJH1BRwV-gw5IRbI4RLwBa53M,Posto Rede 10 Shell,"Folha 29, 10 - Nova Marabá, Marabá - PA, 68500-000, Brazil",-5.354170700000001,-49.08015580000001,3,4.666666666666667,0.16666666666666666,1,0,2,0.3333333333333333,0.0,1
+ChIJG5y2CPhxppQRpQ-7ZVWUHwI,AUTO POSTO FLEX,"Av IRAPUAN COSTA JUNIOR Q.C L.24, Ouvidor - GO, 75715-000, Brazil",-18.2373267,-47.84306739999999,5,5.0,0.13999999999999999,1,0,4,0.2,0.0,1
+ChIJJ0e6VORnzpQRVDmTsnB3srw,Posto Shell,"Av. Sapopemba, 10455 - Jardim Adutora, São Paulo - SP, 03988-010, Brazil",-23.610267,-46.50394410000001,4,3.0,0.125,1,0,3,0.25,0.0,1
+ChIJlX2mpYZezpQR6rmng_FQjRM,Conveniência Bella Luna,"R. Emília Marengo, 895 - A - Vila Gomes Cardim, São Paulo - SP, 03336-000, Brazil",-23.5547472,-46.55916669999999,4,4.5,0.25,1,0,3,0.25,0.0,1
+ChIJsfTfvJKZpgARoBkGLL5Fgms,Tiger Shell station,"Av. Brasil, 401 - Santa Efigênia, Belo Horizonte - MG, 30140-000, Brazil",-19.9255409,-43.9236534,4,3.0,0.175,1,0,3,0.25,0.0,1
+ChIJX1y3bshnv5QRCcG_5zGS_pU,Loja Shell Select - POSTO SHELL - REDE LK DE POSTOS LTDA,"Av. Getúlio Vargas, 5 20 - Vila Guedes de Azevedo, Bauru - SP, 17017-000, Brazil",-22.3395705,-49.064116,3,3.6666666666666665,0.16666666666666666,1,0,2,0.3333333333333333,0.0,1
+ChIJVUwuSF9fzpQRH4zLDC_LseI,Auto Center Signos,"R. Canápolis, 447 - Vila Medeiros, São Paulo - SP, 02220-070, Brazil",-23.4917341,-46.57848199999999,5,3.8,0.04,1,0,4,0.2,0.0,1
+ChIJ30QA2dudyJQRKDHFIpT6jT8,Posto Somerville,"Av. Tiradentes, 217 - Vila Mac Knight, Santa Bárbara d'Oeste - SP, 13450-235, Brazil",-22.7485238,-47.4118753,5,4.2,0.075,1,0,4,0.2,0.0,1
+ChIJv2JVrlUQyZQRpuYU8JqAwRw,Posto Rodoviária,"R. Pará, 67 - Vila Beatriz, Águas de Lindóia - SP, 13940-000, Brazil",-22.4789162,-46.6355057,5,4.8,0.075,1,0,4,0.2,0.0,1
+ChIJXWEWWKtyz5QRYU4McxqBFWI,Posto Shell - M.L. Cunha & Cia Ltda.,"R. Sotero de Souza, 218 - Centro, São Roque - SP, 18130-200, Brazil",-23.5328656,-47.136364,5,3.4,0.06666666666666667,1,0,4,0.2,0.0,1
+ChIJI-T4Uh4hfZQRid0h59VvYnU,Posto Shell,"Av. 11 de Dezembro, 1221 - Chácara II, Jardim - MS, 79240-000, Brazil",-21.480771,-56.157999,5,4.0,0.13999999999999999,1,0,4,0.2,0.0,1
+ChIJ_Vc8vkuAygARwnlp_eQeTdU,Posto Shell,"Pca Pres Castelo Branco, 22 - Centro, Pedro Canário - ES, 29970-000, Brazil",-18.3007217,-39.9570397,3,3.6666666666666665,0.26666666666666666,1,0,2,0.3333333333333333,0.0,1
+ChIJD_ygY4rkGJURwgcOD9AZjwY,Posto Shell,"Av. Emílio Schimidt, 664 - Rolante, RS, 95690-000, Brazil",-29.65765390000001,-50.57880489999999,4,4.0,0.2,1,0,3,0.25,0.0,1
+ChIJVa2mr1ZJxwcRypn0DQFm8Xs,POSTO GUARARAPES VIP LTDA,"Av. Américo Barreira, 5525 - Demócrito Rocha, Fortaleza - CE, 60440-093, Brazil",-3.7602768,-38.5639935,4,2.5,0.0375,1,0,3,0.25,0.0,1
+ChIJ7Yxp1sv5yJQRc8EKAMIOkcs,Auto Posto Evolução - Revenda Liquigás,"Av. Brasil, 44 - Centro, Mogi Mirim - SP, 13800-000, Brazil",-22.4260642,-46.95312719999999,4,4.0,0.0375,1,0,3,0.25,0.0,1
+ChIJN_axe6EFFgcRRdKY6Fb_SQ0,Shell Select,"Av. Centenário, 328 - Chame-Chame, Salvador - BA, 40155-150, Brazil",-13.0045518,-38.5236856,3,3.6666666666666665,0.2739246509693287,2,1,0,0.6666666666666666,0.3333333333333333,1
+ChIJJUHnxmpJXpMRRwXO-BpZE9U,América Auto Posto Shell,"Rodovia Br 060, km 203 zona rural, Guapó - GO, 75350-000, Brazil",-16.9020833,-49.6422069,4,3.0,0.125,1,0,3,0.25,0.0,1
+ChIJ54T1yEGLzpQRpb_memelWa8,Auto Posto Tenente Aviador LTDA,"Estr. Guarulhos-Nazaré, 346 - Cidade Jardim Cumbica, Guarulhos - SP, 07181-200, Brazil",-23.4452782,-46.4707211,4,4.0,0.16999999999999998,1,0,3,0.25,0.0,1
+ChIJMQboAFUHz5QR-eihJLCeCto,Posto,"R. dos Bandeirantes, 311 - Vila Monte Serrat, Cotia - SP, 06717-205, Brazil",-23.603139,-46.90654189999999,5,1.4,0.03,1,0,4,0.2,0.0,1
+ChIJE7wQTBb0k5QRsirPU4h2TW8,Posto Shell,"Av. Manoel Goulart, 3000 - Vila Santa Helena, Pres. Prudente - SP, 19060-000, Brazil",-22.1161136,-51.4122136,5,2.2,0.125,1,0,4,0.2,0.0,1
+ChIJQxI_A5PT85QRdKSeigsm5b0,Posto Shell - Auto posto Panorâmica,"BR-467, Sn - Km 110 - Canadá, Cascavel - PR, 85813-450, Brazil",-24.9290086,-53.4523051,4,4.0,0.125,1,0,3,0.25,0.0,1
+ChIJGcPh0yU9WJMRvSvc8JpZi60,Posto Shell,"Av. Kaled Cosac, 403 - Setor Centro, Cristalina - GO, 73850-000, Brazil",-16.7676113,-47.6135776,4,4.75,0.175,1,0,3,0.25,0.0,1
+ChIJy5McNGuoiZQRBcT_rYpy_DI,Posto Bela Vista(Shell),"R. Bela Vista, 1525 - Jardim Água Boa, Dourados - MS, 79812-090, Brazil",-22.2459896,-54.8076837,3,3.3333333333333335,0.1111111111111111,1,0,2,0.3333333333333333,0.0,1
+ChIJp1uYNEXPOAcRRKIb7-dm97o,POSTO SHELL CANOA FORTE,"BR-330, Ubatã - BA, 45550-000, Brazil",-14.2010334,-39.53346330000001,5,5.0,0.04,1,0,4,0.2,0.0,1
+ChIJJZhrWzLURAcRvJAJHOF48b0,Auto Posto Samape,"BR-122 - Caetité, BA, 46400-000, Brazil",-14.0594123,-42.483876,4,4.25,0.125,1,0,3,0.25,0.0,1
+ChIJ7xATB6A3GZURlC31pA-pPd4,Posto Shell,"R. Benno Closs, 3050 - Deleted, Santa Maria do Herval - RS, 93995-000, Brazil",-29.50008740000001,-50.9683145,5,4.8,0.02222222222222222,1,0,4,0.2,0.0,1
+ChIJa7nLcwDvrAcR8fuBbkdaNtk,Posto Shell,"R. Emb. Milton Cabral, 150 - Tibiri, Santa Rita - PB, 58302-510, Brazil",-7.1597194,-34.97285869999999,4,4.75,0.22749999999999998,1,0,3,0.25,0.0,1
+ChIJU1t0NWdRzpQRFJsHE-Wgoy8,Posto Shell EG Auto Posto,"Estr. de Itapecerica, 745 - Vila das Belezas, São Paulo - SP, 05835-003, Brazil",-23.6442005,-46.7426842,3,5.0,0.1111111111111111,1,0,2,0.3333333333333333,0.0,1
+ChIJ1_Akh9JgzpQRue3Hb5QeJF8,Posto Shell,"R. dos Continentes, 444 - Vila Ré, São Paulo - SP, 03668-010, Brazil",-23.5332944,-46.4870134,3,2.6666666666666665,0.049999999999999996,1,0,2,0.3333333333333333,0.0,1
+ChIJVwrEARwIuZQREttqqeFL7dU,Posto Shell,"Av. Monte Sereno, 935 - Jd Bela Vista, Pradópolis - SP, 14850-000, Brazil",-21.3560212,-48.0851204,3,5.0,0.05555555555555555,1,0,2,0.3333333333333333,0.0,1
+ChIJN5vpNcTIlAcRTggzhsULZdw,Posto Shell,"Av. Pref Franc Luis De Sousa, 52 - São João, Ibiapina - CE, 62360-000, Brazil",-3.9272004,-40.8899817,4,3.75,0.175,1,0,3,0.25,0.0,1
+ChIJweKzus3jypQRI2jfiQXD7Kc,Posto Shell,"R. Carlos Luz, 229 - Centro, Campanha - MG, 37400-000, Brazil",-21.8311026,-45.4005179,5,4.2,0.1,1,0,4,0.2,0.0,1
+ChIJf0RZvTT0oQARLnTo_1ufHwo,POSTO MIRANDA LTDA,"LT1 E 2 - 13, MG-338, s/n - São Sebastião de Campolide, Antônio Carlos - MG, 36220-000, Brazil",-21.2822494,-43.825979,4,4.75,0.175,1,0,3,0.25,0.0,1
+ChIJBZTF9Sx4mQAR7G_d8l7621s,Posto Shell,"Estrada do Galeão, 2781 - Portuguesa, Rio de Janeiro - RJ, 21931-387, Brazil",-22.8052817,-43.2085117,3,3.0,0.1886243386243386,1,0,2,0.3333333333333333,0.0,1
+ChIJjVh79kYpBwcR55KrzMSwukY,Posto Serra da Lage,"R. Juvenal Mendonça, 3000 - União dos Palmares, AL, 57800-000, Brazil",-9.150955399999996,-36.0137415,5,4.6,0.16,1,0,4,0.2,0.0,1
+ChIJ-RSCQ6Z4rAcRY0NVpiPB-Yo,Albuquerque Pneus - Timbaúba,"Avenida Ferreira de Lima, 300 - Centro, Timbaúba - PE, 55870-000, Brazil",-7.515641899999999,-35.3111575,3,3.6666666666666665,0.3333333333333333,1,0,2,0.3333333333333333,0.0,1
+ChIJA2cW7tn_zpQR39__Tukh6wE,Centro Automotivo Jandaia,"Av. Marginal do Ribeirão, 136-230 - S/N - Parque Jandaia, Carapicuíba - SP, 06330-010, Brazil",-23.5616065,-46.82677999999999,5,5.0,0.2,1,0,4,0.2,0.0,1
+ChIJ6cXS0JNDlpQRUigkK1uJza4,POSTO CISNE BRANCO LTDA,"R. Cussy de Almeida Júnior, 2530-2531 - Higienópolis, Araçatuba - SP, 16025-050, Brazil",-21.2133808,-50.4566625,5,2.8,0.03,1,0,4,0.2,0.0,1
+ChIJL-HPakf0XpMR5PRhrZ2897g,Posto Shell - POSTO ZE CARIOCA II LTDA,"Av. Anhanguera, 10475 - QD 02 LT 14E - Vila Santo Afonso, Goiânia - GO, 74433-020, Brazil",-16.6681791,-49.3065475,5,1.6,0.03333333333333333,1,0,4,0.2,0.0,1
+ChIJa2LKf1kZ35QRZElrQv4zEpI,Posto Shell,"R. Itajaí, 2081 - Vorstadt, Blumenau - SC, 89015-203, Brazil",-26.9106812,-49.0451138,3,3.6666666666666665,0.3333333333333333,1,0,2,0.3333333333333333,0.0,1
+ChIJl4CVcOrNy5QRgS7heTj-_PY,Posto Shell - JOSE ERNESTO ANSORGE EIRELI,"DR - R. Dr. Vinícius Meyer, 331 - CENTRO, Congonhal - MG, 37557-000, Brazil",-22.1506634,-46.0400562,4,4.75,0.175,1,0,3,0.25,0.0,1
+ChIJX2bownIprAcRsaBNljFzOZ0,Posto Shell (Almeida),"Esperança - PB, 58135-000, Brazil",-7.013074599999999,-35.8560427,4,3.0,0.05,1,0,3,0.25,0.0,1
+ChIJW-J5AKIQzpQRIf32d9IDnHs,Posto Shell,"Av. 9 de Abril, 1845 - Vila Nova, Cubatão - SP, 11510-000, Brazil",-23.8819418,-46.42082969999999,4,2.75,0.05763888888888888,1,0,3,0.25,0.0,1
+ChIJLVaKGaERyZQRECJ6Sijtf38,Posto Petrocenter,"SP-360, Km 177 - Jardim Europa, Águas de Lindóia - SP, 13940-000, Brazil",-22.4459757,-46.5811927,3,4.333333333333333,0.2333333333333333,1,0,2,0.3333333333333333,0.0,1
+ChIJj2JAzR1EuZQR52LOCYiY7q4,Auto Posto Monte Alto,"Av. Castro Ribeiro, 220 - Centro, Monte Alto - SP, 15910-000, Brazil",-21.2588023,-48.4930213,3,5.0,0.2333333333333333,1,0,2,0.3333333333333333,0.0,1
+ChIJ4687VDonz5QRGjh0ruTODoA,Shell Select,"Av. 9 de Julho, 1515 - Pte. de Campinas, Jundiaí - SP, 13201-020, Brazil",-23.186681,-46.89176500000001,3,2.3333333333333335,0.3033333333333333,1,0,2,0.3333333333333333,0.0,1
+ChIJV93_el3ax5QRWhS5JGrfY_Q,Posto Shell,"R. 6, 1875 - Centro, Rio Claro - SP, 13500-190, Brazil",-22.4037658,-47.5653586,4,3.25,0.05,1,0,3,0.25,0.0,1
+ChIJlwHPEdf_G5URRDqn1tgvsNM,Posto Shell,"ERS-122 470 Km 14 Centro, São Sebastião do Caí - RS, 95760-000, Brazil",-29.5919943,-51.3718614,5,3.8,0.16,1,0,4,0.2,0.0,1
+ChIJ41MFaf8wxpQRbwVJh-qMV_I,Posto Shell,"Av. 31 de Março, 707 - Higienópolis, Piracicaba - SP, 13424-290, Brazil",-22.74092020000001,-47.6462431,5,3.4,0.04,1,0,4,0.2,0.0,1
+ChIJlWkj6mR_mQARsfFHGhCMgW4,Posto Shell,"Av. Mem de Sá, 55 - Lapa, RJ, 20230-150, Brazil",-22.913359,-43.1810479,3,3.6666666666666665,0.1361441798941799,1,0,2,0.3333333333333333,0.0,1
+ChIJibVzqhhgz5QRSrcQJ-IZ5xI,Posto Tropeiro,"Av. São Paulo, 910 - Além Ponte, Sorocaba - SP, 18013-002, Brazil",-23.4984429,-47.443179,4,4.0,0.08333333333333333,1,0,3,0.25,0.0,1
+ChIJRQNTKyO_uZQRh0CPMaH2eVk,Suv Auto Posto Serviços,"Av. Dr. Plínio de Castro Prado, 475 - Jardim Paulista, Ribeirão Preto - SP, 14091-160, Brazil",-21.187519,-47.79355049999999,5,2.6,0.08333333333333333,1,0,4,0.2,0.0,1
+ChIJm_N9-n8LrwcRbb419lKIwfY,Station Inn and Dedé Jaime,"R. José Jaime dos Santos, 60 - São José, Santa Luzia - PB, 58600-000, Brazil",-6.871736699999999,-36.91164029999999,5,3.8,0.05,1,0,4,0.2,0.0,1
+ChIJJUzFNKPllpQRA-uiQjWcUn8,Auto Posto Trevo,"Av. Marginal, 148, Valparaíso - SP, 16880-000, Brazil",-21.214592,-50.8661728,5,4.4,0.16,1,0,4,0.2,0.0,1
+ChIJUccsDorXW5MRcjeoBOSZAAA,Auto Posto DF 290,"Gama, Brasília - Federal District, Brazil",-16.020188,-48.1851207,3,4.666666666666667,0.23611111111111108,1,0,2,0.3333333333333333,0.0,1
+ChIJf-mkeQAvn5QRwUpQKMsgUz0,Posto Marajó São Simão,"Av. Goiás, 13 - São Simão, GO, 75890-000, Brazil",-19.0036685,-50.55751069999999,3,2.3333333333333335,0.16666666666666666,1,0,2,0.3333333333333333,0.0,1
+ChIJa-wt-hfYGpURILxA3exbgwo,Posto Shell,"Av. Rio Branco, 178 - Centro, Encruzilhada do Sul - RS, 96610-000, Brazil",-30.54092559999999,-52.52094049999999,5,4.2,0.182,1,0,4,0.2,0.0,1
+ChIJLwJee_QDz5QRtDdDVhNQq7I,Posto Avenida 1,"Alameda Alberto Byington, 21 - Cidade Tamboré, Santana de Parnaíba - SP, 06537-470, Brazil",-23.440502,-46.832459,5,3.4,0.06666666666666667,1,0,4,0.2,0.0,1
+ChIJOUULIO4X35IRxS0t_1IGfvQ,M DORAZIO & CIA LTDA,"Av. dos Garimpeiros, Arapoema - TO, 77780-000, Brazil",-7.657450700000001,-49.06580659999999,3,3.6666666666666665,0.3333333333333333,1,0,2,0.3333333333333333,0.0,1
+ChIJyf9HzL35zJQRWzFsisFQkRA,AUTO POSTO BRANCO DE CASTELO LTDA. (TREMEMBE SP),"Av. Luíz Gonzaga das Neves - Caminho Novo, Tremembé - SP, 12120-000, Brazil",-22.9894573,-45.5504569,5,3.8,0.075,1,0,4,0.2,0.0,1
+ChIJuaztjGvGvAARrpHyFa8tpGE,Auto Posto Veredas Express,"Av. Dona Maricas, 50 - Prefeito Hélio Araújo, Muriaé - MG, 36880-167, Brazil",-21.1363118,-42.3710326,5,3.2,0.182,1,0,4,0.2,0.0,1
+ChIJb07sfy3x3JQRMOj54Mr92io,J.R.F.M. Comercio De Combustiveis E Lubrificantes Ltda,"R. Onofre Holthman - Rio Pequeno, São José dos Pinhais - PR, 83065-520, Brazil",-25.5253849,-49.1525481,5,3.4,0.18,1,0,4,0.2,0.0,1
+ChIJWXsaivGDypQRdb_wdqUoaY0,Philadelphia Auto Posto LTDA,"R. Nossa Sra. D Ajuda, 949 - Vila Marilena, Três Pontas - MG, 37190-000, Brazil",-21.3793093,-45.5110529,4,2.75,0.08333333333333333,1,0,3,0.25,0.0,1
+ChIJ9WABAc2cGZURHfdXeI8d7PQ,Posto Shell - Posto Caminhos Rurais,"R. Dr. Sarmento Barata, 22 - Belém Velho, Porto Alegre - RS, 91712-110, Brazil",-30.113607,-51.176937,5,3.2,0.06666666666666667,1,0,4,0.2,0.0,1
+ChIJTWXtFNaiHpURs-pQVa3ZB3Y,Posto Shell,"R. Moreira César, 2290 - Pio X, Caxias do Sul - RS, 95034-000, Brazil",-29.1630278,-51.1853993,4,3.75,0.08333333333333333,1,0,3,0.25,0.0,1
+ChIJAV5S5_mXpgAR4JZuJGzJQf8,Posto Shell,"R. Úrsula Paulino, 763 - Cinquentenario, Belo Horizonte - MG, 30570-000, Brazil",-19.9550962,-43.9840226,3,1.6666666666666667,0.049999999999999996,1,0,2,0.3333333333333333,0.0,1
+ChIJQQeLqJpDzpQR50hiK_MZpoc,POSTO SHELL - AUTO POSTO AUTOMIX LTDA,"Av. Piraporinha, 1087 - Vila Planalto, São Bernardo do Campo - SP, 09891-002, Brazil",-23.6905553,-46.577036,3,4.0,0.2333333333333333,1,0,2,0.3333333333333333,0.0,1
+ChIJDSfaDGm22JQRPFlDUAi7G0g,Posto Shell,"AV BRASIL ANEXO HIPERMERC BIG, 3660 Centro - Centro, Balneário Camboriú - SC, 88330-063, Brazil",-27.0048589,-48.621516,5,1.4,0.09765625,1,0,4,0.2,0.0,1
+ChIJtRq-HvujHpURLBEcweg_S0k,Posto Shell,"Av. Júlio de Castilhos, 3221 - São Pelegrino, Caxias do Sul - RS, 95010-005, Brazil",-29.1679198,-51.1953208,5,3.4,0.1,1,0,4,0.2,0.0,1
+ChIJ8YZORo1XzpQR83NH3pkWfSM,Posto Super Ltda,"Av. Pedroso de Morais, 752 - Pinheiros, São Paulo - SP, 05420-001, Brazil",-23.5635981,-46.6912253,4,3.0,0.175,1,0,3,0.25,0.0,1
+ChIJuWW0EPNBuAAR_Sbi0LGiXdA,Posto Leme - Shell Combustíveis,"Barra do Jucu, Vila Velha - ES, 29125-033, Brazil",-20.4550677,-40.3393719,4,4.75,0.125,1,0,3,0.25,0.0,1
+ChIJ2exnCBkbFgcRaH8YfEIh9gA,Posto Shell,"Av. Prof. Magalhães Neto, 1304 - Gleba 20, Salvador - BA, 41810-012, Brazil",-12.98885,-38.4494364,4,2.5,0.06875,1,0,3,0.25,0.0,1
+ChIJkVO18F1mmQARlVd8GG0r84g,Posto Shell Rio São Paulo,"Rod. Pres. Dutra, 5130 - Km 5 - Vilar dos Teles, Nova Iguaçu - RJ, 25565-350, Brazil",-22.7947389,-43.36269819999999,3,3.3333333333333335,0.1111111111111111,1,0,2,0.3333333333333333,0.0,1
+ChIJNf4u2v9yUwcRCQajBW5jW5Q,Posto Shell,"Rodovia BR 251, Km 505, s/n - Zona Rural, Francisco Sá - MG, 39580-000, Brazil",-16.6108468,-43.66162310000001,3,4.666666666666667,0.06666666666666667,1,0,2,0.3333333333333333,0.0,1
+ChIJPaUrKO8lz5QRKPc_JnMFMmk,Cruzeiro do Sul Virtual - Polo EAD Jundiaí Pq Eloy Chaves,"Pq - Av. Benedicto Castilho de Andrade, 977 - Lj 01 - Parque Eloy Chaves, Jundiaí - SP, 13212-070, Brazil",-23.1887351,-46.9599427,3,5.0,0.13888888888888887,1,0,2,0.3333333333333333,0.0,1
+ChIJ06p8fh5tYpMRFvVjV43VbQM,Posto Jatai Z+Z,"Av. Veriano de Oliveira Lima, 2105 - Samuel Grahan, Jataí - GO, 75804-055, Brazil",-17.8855168,-51.7310709,5,2.4,0.06666666666666667,1,0,4,0.2,0.0,1
+ChIJowdvTQZluwAR_xHNZBupOFY,Posto Machado - Shell,"Pc Dr Jonas Faria Castro - Vila do Rosário, 54 - Caixa d'Água, Carangola - MG, 36800-000, Brazil",-20.7296669,-42.0356703,4,5.0,0.05208333333333333,1,0,3,0.25,0.0,1
+ChIJgzjmbere6pQR2vfj16k3D0k,Posto Shell,"Av. Dom Pedro, 1510 - Sao Silvestre, Cornélio Procópio - PR, 86300-000, Brazil",-23.1745189,-50.62722729999999,5,4.0,0.16,1,0,4,0.2,0.0,1
+ChIJQzPyhg36y5QREj01UinWBzM,Auto Posto Cambuí,"Av. Benedito Delfino Machado, Cambuí - MG, 37600-000, Brazil",-22.61441830000001,-46.0656509,3,3.6666666666666665,0.059166666666666666,1,0,2,0.3333333333333333,0.0,1
+ChIJo2VtwU_6mwARCSihurD_KHo,Posto de Gasolina Camará,"Rua Senador Camará, 170 - Santa Cruz, Rio de Janeiro - RJ, 23570-180, Brazil",-22.9143615,-43.6858494,5,4.0,0.1,1,0,4,0.2,0.0,1
+ChIJbdFLD3RjzZQRdQcFjvJMPVE,Posto Shell,"Av. Miguel Varlez, 401 - loja 3 - Centro, Caraguatatuba - SP, 11660-650, Brazil",-23.6246382,-45.4172729,3,3.3333333333333335,0.17361111111111108,1,0,2,0.3333333333333333,0.0,1
+ChIJ364avLH06pQRx4a0BuOclME,Posto Shell,"Av. Silveira Pinto, 749 - Conj. Hab. Ulisses Guimaraes, Ribeirão do Pinhal - PR, 86490-000, Brazil",-23.4025642,-50.3552453,3,4.666666666666667,0.2916666666666667,1,0,2,0.3333333333333333,0.0,1
+ChIJVVb8GspMz5QRGzEgFp5wtMY,Auto Posto Jardim Colonial,"Av. Manoel Ruz Peres, 2550 - Jardim Dr. Lauro Bueno de Camargo, Indaiatuba - SP, 13345-812, Brazil",-23.1087865,-47.23100679999999,3,2.3333333333333335,0.09523809523809523,1,0,2,0.3333333333333333,0.0,1
+ChIJZX8ATKbsoJMRF7a1gdV1OUg,AUTO POSTO CHARRUA LTDA,"Rodovia BR-163, Km 714 s/n - Centro, Sorriso - MT, 78898-000, Brazil",-12.8612755,-55.83345920000001,3,3.0,0.16666666666666666,1,0,2,0.3333333333333333,0.0,1
+ChIJy5CwLMBkoAARTDeV_CvVryA,PHJ Comércio de Combustíveis,"R. Chagas Sobrinho, 17 - Oliveira, MG, 35540-000, Brazil",-20.6954073,-44.8280863,4,5.0,0.175,1,0,3,0.25,0.0,1
+ChIJTZRA4EJRzpQRzjTemSbYqWM,Posto Shell,"Av. Giovanni Gronchi, 6700 - Vila Andrade, São Paulo - SP, 05724-002, Brazil",-23.6385792,-46.7369442,4,3.0,0.125,1,0,3,0.25,0.0,1
+ChIJBfa4SPsTz5QR0M5o-h-8uIM,Auto Posto Portal de Araçá,"Av. Nicolau Ferreira de Souza, 226 - Centro, Araçariguama - SP, 18147-000, Brazil",-23.4369212,-47.064115,5,3.8,0.03,1,0,4,0.2,0.0,1
+ChIJSdctV8PsqQcRWLRJ3tlwnS0,Auto Posto Nova Conquista,"Rodovia BR 232 - R. Othon Bezerra de Melo, KM 147 - São Caitano, PE, 55130-000, Brazil",-8.3309303,-36.1423436,4,4.25,0.08333333333333333,1,0,3,0.25,0.0,1
+ChIJVeiIBy6A85QRo-bC7pkh_Pk,Cooperativa Agroindustrial Copagril,"R. Nove de Agosto, 700 - Primavera, Mal. Cândido Rondon - PR, 85960-000, Brazil",-24.5450385,-54.046285,4,3.75,0.05,1,0,3,0.25,0.0,1
+ChIJmbeMTLuQ9pQRVevQOrLUysA,Posto Shell,"Av. Olímpio Rafagnin, 2571 - Posto, Foz do Iguaçu - PR, 85862-210, Brazil",-25.5013257,-54.53737799999999,5,4.4,0.175,1,0,4,0.2,0.0,1
+ChIJ-8pvp94Fz5QR5V2FU5eVySk,Loja Shell Select - POSTO SHELL - AUTO POSTO NOVA ITAPEVI LTDA,"R. Prof. Dimarães Antônio Sandei, 39 - Jardim Nova Itapevi, Itapevi - SP, 06690-000, Brazil",-23.5361918,-46.9397628,4,5.0,0.125,1,0,3,0.25,0.0,1
+ChIJU4VF9N1Nz5QRlQeaKSPIdoo,Posto Shell 2000,"Jardim Planalto, Salto - SP, 13322-251, Brazil",-23.18558389999999,-47.2726481,5,2.6,0.06666666666666667,1,0,4,0.2,0.0,1
+ChIJ60nEzJeyEQcRIZUmEO_Y67A,AUTO POSTO TOBIAS LTDA,"Largo do Cruzeiro, S/N - CENTRO, Tobias Barreto - SE, 49300-000, Brazil",-11.18417,-37.999758,4,4.0,0.25,1,0,3,0.25,0.0,1
+ChIJsfcjc0vrTQcR0EpxJmmppdA,Posto Salinense,"R. Araçuaí, 760 - Maracanã, Salinas - MG, 39560-000, Brazil",-16.1677949,-42.2858362,4,2.5,0.175,1,0,3,0.25,0.0,1
+ChIJwTXHKE115JQRSvurxuarnOo,GM Gemelli Combustíveis e Conveniência LTDA,"Av. Cel. Rupp, 2318, Catanduvas - SC, 89670-000, Brazil",-27.0705496,-51.6631246,3,2.3333333333333335,0.1111111111111111,1,0,2,0.3333333333333333,0.0,1
+ChIJ84eL7P3ax5QRwJ6T5OFLC0g,Auto Posto Xurunga - Shell,"Auto Posto Xurunga - Santa Cruz, Rio Claro - SP, 13500-470, Brazil",-22.4065491,-47.5724967,4,3.0,0.25,1,0,3,0.25,0.0,1
+ChIJKwNkDMdPzpQRNUWPtTBEeW4,Arinella Interlagos Comércio Varejista de Combustíveis Ltda,"Av. Interlagos, 1676 - Jardim Umuarama, São Paulo - SP, 04660-002, Brazil",-23.6681471,-46.6780453,5,5.0,0.06666666666666667,1,0,4,0.2,0.0,1
+ChIJl3jVXvDzpgARSRIm7hZUZK4,Posto Esmeraldas,"Alameda das Caviúnas, 2563 - Vale das Acacias, Ribeirão das Neves - MG, 33830-045, Brazil",-19.7500987,-44.14424260000001,3,4.0,0.1111111111111111,1,0,2,0.3333333333333333,0.0,1
+ChIJqSZjmtRsbpMRuBNQJ5w2Hfs,Posto Shell,"R UBERLANDIA, SN LT1 E 3 Q3 - FLOR DE LYS - Flor de Liz, Nova Xavantina - MT, 78690-000, Brazil",-14.667325,-52.35952,5,3.8,0.1,1,0,4,0.2,0.0,1
+ChIJc-6Y-LPNyJQRg-EKv4NP0Is,Shell,"Av. Invernada, 2721 - Invernada, Valinhos - SP, 13271-450, Brazil",-22.975976,-47.0149093,3,2.6666666666666665,0.016666666666666663,1,0,2,0.3333333333333333,0.0,1
+ChIJ2Rp9yKqyGgcR8fzr-cwg1ho,A C DERIVADOS DE PETROLEO LTDA,"89 - BR-101, SN - PALESTINA, Nossa Sra. do Socorro - SE, 49160-000, Brazil",-10.8959045,-37.1318588,4,4.75,0.22749999999999998,1,0,3,0.25,0.0,1
+ChIJS4YStxp6cwcR0rUiYz8OxJY,SHELL-QUATI,"R. Everaldo Borges - João de Deus, Petrolina - PE, 56316-708, Brazil",-9.3635109,-40.5444458,5,2.6,0.06666666666666667,1,0,4,0.2,0.0,1
+ChIJoXeeyI-vh5QRrZyEpYXUw8s,AUTO POSTO ROTA DA SERRA,"BR 060, KM 422,500 Tupanciretan - Sidrolândia, MS, 79170-000, Brazil",-20.90911,-54.9443436,5,4.2,0.2,1,0,4,0.2,0.0,1
+ChIJ00j3Xi9rlpQRJFuZ5HElwXU,Posto Nove de Julho Birigui,"R. José Domingos Alonso, 44 Jardim - Novo Jardim Stabile, Birigui - SP, 16200-000, Brazil",-21.2978538,-50.35802879999999,5,4.2,0.16,1,0,4,0.2,0.0,1
+ChIJ8_pMhN5nmQARC6e3eei0xe8,POSTO PORTAL DA POSSE LTDA,"Estr. de Adrianópolis, 104 - Ambaí, Nova Iguaçu - RJ, 26041-271, Brazil",-22.718716,-43.461327,4,2.25,0.0375,1,0,3,0.25,0.0,1
+ChIJy0iHY1D0xZIRGpPD-TwnWpo,Posto Ipiranga,"R. Goiás, 711 - Getat, Açailândia - MA, 65930-000, Brazil",-4.9512751,-47.4935182,3,4.0,0.16666666666666666,1,0,2,0.3333333333333333,0.0,1
+ChIJ3XWy8e34zJQRk9WNrQlHX70,Auto Posto Líder Taubate,"Av. Independência, 412 - Vila Jaboticabeira, Taubaté - SP, 12031-000, Brazil",-23.0365882,-45.5751965,5,3.0,0.2,1,0,4,0.2,0.0,1
+ChIJp6nFO4OVuZQR2x69uBJJMT8,Posto Shell,"Rua Javari, 5125 - Sn, Ribeirão Preto - SP, 14061-310, Brazil",-21.122377,-47.8065834,4,2.75,0.08333333333333333,1,0,3,0.25,0.0,1
+ChIJtekzp7Sqz5QRZCMXp9leLZE,Portal Granja Viana,"Estrada da Aldeia, 186 - Granja Viana, Cotia - SP, 06709-300, Brazil",-23.5904975,-46.8257532,3,5.0,0.3333333333333333,1,0,2,0.3333333333333333,0.0,1
+ChIJVdvjBtSxnZMROfnmQfOHpu0,Posto Shell,"Av. Brasília, 2855 - Centro, Campo Verde - MT, 78840-000, Brazil",-15.5469198,-55.1615135,5,5.0,0.182,1,0,4,0.2,0.0,1
+ChIJ8XF4oSXcFAcR8ytoBixnX2U,Posto Alto Da Santa Rita,"Ipirá - State of Bahia, 44600-000, Brazil",-12.1865285,-39.7052663,4,5.0,0.125,1,0,3,0.25,0.0,1
+ChIJdVjJ9skUlpQRRZOaKeQZLCc,Rede Brisas Premium,"Av. Nelson Calixto, 458 - Novo Parque Sao Vicente, Birigui - SP, 16200-320, Brazil",-21.3063456,-50.3425881,3,4.0,0.3333333333333333,1,0,2,0.3333333333333333,0.0,1
+ChIJGxQ8kQ516wcReEFqqaw1WAU,Posto Shell,"Rod. Ce 311 Km 23 Zona Rural, Sn - Pessoa Anta, Granja - CE, 62430-000, Brazil",-3.3355762,-40.9872296,5,4.4,0.2,1,0,4,0.2,0.0,1
+ChIJWSMbj5Rzz5QRrR3hphECZ48,Posto Shell,"Av. João Pessoa, 425 - Centro, São Roque - SP, 18130-290, Brazil",-23.5327385,-47.1391958,5,4.2,0.06666666666666667,1,0,4,0.2,0.0,1
+ChIJDy7nCzXAxpQRAYmAplkje7g,POSTO RODOSERV STAR LTDA,"9 EST MUN PARD FAZ LIMOEIRO - s/n, Pardinho - SP, 18640-000, Brazil",-23.159182,-48.377308,3,4.333333333333333,0.19444444444444442,2,1,0,0.6666666666666666,0.3333333333333333,1
+ChIJ7S8Q00H_0ZQRDuTu_9xL0pg,Shell Posto Astúrias Guarujá,"Av. dos Caiçaras, 759 - Jardim Las Palmas, Guarujá - SP, 11420-440, Brazil",-24.0077271,-46.275205,5,4.0,0.08333333333333333,1,0,4,0.2,0.0,1
+ChIJQXTiypL73JQRnfJHyGM-0g4,Shell,"R. Lupionópolis, 630 - Sítio Cercado, Curitiba - PR, 81925-260, Brazil",-25.5487237,-49.2727208,4,2.5,0.08333333333333333,1,0,3,0.25,0.0,1
+ChIJSyVmNy10lJQR5_2rZqHGWKE,Posto Pinheiro Shell - Regente Feijó,"R. Cap. Francisco Witaker, 2-90 - Reg. Feijó, SP, 19570-000, Brazil",-22.2250336,-51.3045321,3,5.0,0.1111111111111111,1,0,2,0.3333333333333333,0.0,1
+ChIJJboBjKFDzpQRO9gM3Sfoy_8,Posto Shell,"Av. Padre Anchieta, 600 - Vila Jordanopolis, São Bernardo do Campo - SP, 09781-180, Brazil",-23.6835359,-46.5724481,4,3.25,0.05,1,0,3,0.25,0.0,1
+ChIJ1aY2oeXIzJQRQ64ZqHTHkH4,Posto Shell,"PCA PREF.ROSENDO P - R. Margarida F Leite, 07 - Centro, Lorena - SP, 12604-080, Brazil",-22.7334403,-45.11485080000001,3,4.333333333333333,0.049999999999999996,1,0,2,0.3333333333333333,0.0,1
+ChIJReg9iKrl-pQRaIVjJTVQgHk,Posto Diamante 1 - Shell,"Av. Euclídes da Cunha, 1073 - União, Maravilha - SC, 89874-000, Brazil",-26.7563894,-53.1652303,3,4.0,0.2333333333333333,1,0,2,0.3333333333333333,0.0,1
+ChIJs7cBk05diAcRbWSfZpsWmFM,Auto Posto Confiança,"Av. Oton Gonçalves Sá - Av. Campo Dantas, 1900, Pres. Dutra - MA, 65760-000, Brazil",-5.2995047,-44.48746810000001,3,4.0,0.19999999999999998,1,0,2,0.3333333333333333,0.0,1
+ChIJNWBGnJILSAcR3t5kLjMDnrY,Posto Shell,"Av. Cinquentenário, 1100 - Quintas do Morumbi, Itapetinga - BA, 45700-000, Brazil",-15.2549212,-40.2596412,4,3.25,0.0375,1,0,3,0.25,0.0,1
+ChIJHbv1gG3YnQARhhMTxAinTn8,Auto Posto Geremias,"Rod. Pres. Dutra, 320 - Centro, Itatiaia - RJ, 27580-000, Brazil",-22.4955275,-44.57281810000001,3,3.0,0.3033333333333333,1,0,2,0.3333333333333333,0.0,1
+ChIJZS9Y5SkfuAAR7Sonf8XWDg8,Shell Select,"Av. Des. Mário da Silva Nunes, 78 - Jardim Limoeiro, Serra - ES, 29164-044, Brazil",-20.2096214,-40.262638,5,2.8,0.13999999999999999,1,0,4,0.2,0.0,1
+ChIJ3f90oSLTSJIRjWsXeqYtkUI,Auto Posto Primme - Shell,"Avenida 13 de novembro - esquina com - R. Minas Gerais - Apuí, AM, 69265-000, Brazil",-7.202090699999999,-59.8852644,5,5.0,0.06666666666666667,1,0,4,0.2,0.0,1
+ChIJA-tX3M7wXpMRDvHdr4UggDk,Rio Negro Comércio de Derivados de Petroleo,"Av. Rio Negro, 36 - Parque Amazonia, Goiânia - GO, 74840-520, Brazil",-16.7295463,-49.2778657,4,3.0,0.125,1,0,3,0.25,0.0,1
+ChIJY_iHsd_v25QRl_BE0m70gFw,Posto Maré Alta (KAIMÃ III),"Av. Paranaguá, S/N - Centro, Matinhos - PR, 83260-000, Brazil",-25.812166,-48.5335802,5,3.4,0.06666666666666667,1,0,4,0.2,0.0,1
+ChIJ78iDcnNDzpQRox88ZBaQfU0,Three Gas Stations,"Av. Senador Vergueiro - Rudge Ramos, São Bernardo do Campo - SP, 09750-001, Brazil",-23.6705905,-46.55959899999999,5,4.0,0.03,1,0,4,0.2,0.0,1
+ChIJW5eYzAxlmQARFgB0lPpOjSQ,Posto Meriti 1,"Av. Automóvel Clube, 2896 - Vilar dos Teles, São João de Meriti - RJ, 25565-000, Brazil",-22.7678199,-43.3617155,5,4.2,0.03,1,0,4,0.2,0.0,1
+ChIJo5Fjl690GZURsY4jWRPrO0A,Posto Shell,"HIPER BIG - AV DORIVAL CA, 2660 - Marrocos, Gravataí - RS, 94030-000, Brazil",-29.938315,-51.0205557,5,4.6,0.16,1,0,4,0.2,0.0,1
+ChIJOZJwKKg1zJQR068ql7WwEPE,Auto Posto Lorinho Shell,"Rod. Pres. Dutra, Km 159 - s/n - Parque Meia Lua, Jacareí - SP, 12335-010, Brazil",-23.2635329,-45.9571272,3,2.3333333333333335,0.06666666666666667,1,0,2,0.3333333333333333,0.0,1
+ChIJuxjQxqxDBQcR4TzUrQYcOXA,AUTO POSTO SIRIRI,"Rod Se 206, 209, Siriri - SE, 49630-000, Brazil",-10.5996592,-37.1159728,3,4.666666666666667,0.26666666666666666,1,0,2,0.3333333333333333,0.0,1
+ChIJo23ONhaXpgARoES93Z4mO30,Posto Expressa Combustíveis - Shell,"Av. Teresa Cristina, 1685 - Prado, Belo Horizonte - MG, 30410-600, Brazil",-19.9209443,-43.96927729999999,4,1.0,0.175,2,1,1,0.5,0.25,1
+ChIJy4n66gb-t5QR0UCmR9xlSX0,Auto Posto Avenida Ltda,"Av. Padre Antônio Vann Ess, 1516 - Rosário, Pirassununga - SP, 13634-000, Brazil",-21.9973694,-47.43755840000001,5,4.2,0.06666666666666667,1,0,4,0.2,0.0,1
+ChIJadA2UdGXpgAReCBRyEKV_08,Posto Shell,"Av. Dom Pedro II, 4091 - Jardim Montanhês, Belo Horizonte - MG, 30720-460, Brazil",-19.9127257,-43.9794784,4,3.75,0.240758547008547,2,1,1,0.5,0.25,1
+ChIJLY9Epm1OnAAR7L5xmfphRl0,Golfinho Comércio de Derivados de Petróleo,"Rua Dr. Coutinho, 8 - Centro, Angra dos Reis - RJ, 23900-620, Brazil",-23.0074189,-44.3151305,5,2.4,0.16,1,0,4,0.2,0.0,1
+ChIJCZJW7LNmmQARfruw1a2JRKA,Posto 15,"Av. Getúlio de Moura, 2347 - Centro, Nilópolis - RJ, 26510-000, Brazil",-22.8016763,-43.42034709999999,5,3.8,0.1,1,0,4,0.2,0.0,1
+ChIJF9UOblJZzpQRpr8gX_sYapk,Posto Shell,"Av. Paes de Barros, 1064 - Mooca, São Paulo - SP, 03114-000, Brazil",-23.5642536,-46.5968966,5,3.6,0.09,1,0,4,0.2,0.0,1
+ChIJR0N7h9O9WZMRMqixKiUgwYA,Auto Posto Roosevelt,"Quadra 9 Lote A - Parque Desportivo Brasil (Roosevelt, Luziânia - GO, 72833-509, Brazil",-16.2863381,-47.85502210000001,5,3.4,0.13020833333333331,1,0,4,0.2,0.0,1
+ChIJMya9IjxXzpQRKr-aiMF2w5s,Posto Shell,"Av. Alcides Sangirardi, 82 - Cidade Jardim, São Paulo - SP, 05672-015, Brazil",-23.5922639,-46.6949351,5,5.0,0.156,1,0,4,0.2,0.0,1
+ChIJ-b9vWopdzpQRd-Q24dXCCJU,Loja Shell Select - POSTO SHELL - AUTO POSTO PLACAR LTDA,"Av. Dr. Eduardo Cotching, 833 - Vila Formosa, São Paulo - SP, 03356-000, Brazil",-23.5631413,-46.55271519999999,5,3.4,0.06666666666666667,1,0,4,0.2,0.0,1
+ChIJ28r77HrVaQcRqGwySznC_44,Posto Guarany II,"BR 242, KM 397,9 Zona Rural - Seabra, BA, 46900-000, Brazil",-12.4187911,-41.8418395,3,3.6666666666666665,0.16666666666666666,1,0,2,0.3333333333333333,0.0,1
+ChIJIynie30CuwARY7A4feR6P8g,Posto Marilia,"Manhuaçu, State of Minas Gerais, 36905-000, Brazil",-20.2611913,-42.03820040000001,3,4.333333333333333,0.1111111111111111,1,0,2,0.3333333333333333,0.0,1
+ChIJZQOLIcRvGZURR54n2wNgffo,Shell Select,"BR-116, 1048 - Novo Esteio, Esteio - RS, 93270-000, Brazil",-29.8404921,-51.17595499999999,3,4.666666666666667,0.10416666666666667,1,0,2,0.3333333333333333,0.0,1
+ChIJd-8blxpJxwcRTOMsMNT_hK8,Posto Gentilândia | Sobral e Palácio,"Av. Treze de Maio, 2235 - Benfica, Fortaleza - CE, 60040-531, Brazil",-3.743141,-38.5367218,5,1.0,0.04,1,0,4,0.2,0.0,1
+ChIJPbfovfBQzpQRHqXPdoEMsmU,Auto Posto Atalaia,"R. Barão de Cotegipe, 59 - Granja Julieta, São Paulo - SP, 04721-040, Brazil",-23.6406039,-46.6987236,5,1.0,0.125,1,0,4,0.2,0.0,1
+ChIJBVZypA-XpgARERN-99KejdA,Shell Select,"Anel Rodoviário Celso Mello Azevedo, 14563 - Engenho Nogueira, Belo Horizonte - MG, 31310-295, Brazil",-19.8987245,-43.9821397,4,2.25,0.16276041666666663,1,0,3,0.25,0.0,1
+ChIJTUQxE3qZyJQR2zR6ljPLL-g,Posto Shell,"Est Mun - Av. Rodolfo Kivitz, 1286 - Lote A - Jardim Dona Maria Azenha, Nova Odessa - SP, 13460-000, Brazil",-22.7891396,-47.30419450000001,3,5.0,0.35000000000000003,1,0,2,0.3333333333333333,0.0,1
+ChIJczuHneh9mQARfoYN97rRwWE,Posto Shell,"R. Barão do Bom Retiro, 2140 - Grajaú, Rio de Janeiro - RJ, 20540-340, Brazil",-22.91915050000001,-43.2619161,4,2.5,0.0375,1,0,3,0.25,0.0,1
+ChIJrQgmh7aP5pIRnOvZc-Owyw0,Super Posto Paraíba,"Av. Belém - Monte Castelo, Tucumã - PA, 68385-000, Brazil",-6.751559200000001,-51.1578877,5,4.8,0.182,1,0,4,0.2,0.0,1
+ChIJnWDgcsUDzpQRvk5XDIa1Gh8,Posto Alvorada Santos,"Av. Afonso Pena, 55 - Macuco, Santos - SP, 11020-001, Brazil",-23.9583898,-46.32036060000001,5,1.0,0.05,1,0,4,0.2,0.0,1
+ChIJL_zzkS0Az5QRBPZ8hZduDfs,Posto Shell,"Av. Inocêncio Seráfico, 2660 - Vila Silviania, Carapicuíba - SP, 06380-021, Brazil",-23.54718,-46.834274,4,3.0,0.0625,1,0,3,0.25,0.0,1
+ChIJAwadBMzQx5QRa933uzZQCnk,Posto Shell,"Av. 4, 267 - Centro, Santa Gertrudes - SP, 13510-000, Brazil",-22.4555544,-47.53190610000001,4,5.0,0.22749999999999998,1,0,3,0.25,0.0,1
+ChIJSb1AhL9Zs5QRkPD5_0gBGRs,Posto Shell,"Av. Primeiro de Janeiro, 1841, Araújos - MG, 35603-000, Brazil",-19.950496,-45.168534,3,5.0,0.3033333333333333,1,0,2,0.3333333333333333,0.0,1
+ChIJZ1VV_YQBzpQR-L6M4bZtJcI,Auto Posto Carga Pesada Guarujá,"R. Idalino Pines (Rua do Adubo), 825 - Jardim Boa Esperanca (Vicente de Carvalho), Guarujá - SP, 11471-030, Brazil",-23.9620524,-46.2750599,5,4.2,0.06666666666666667,1,0,4,0.2,0.0,1
+ChIJUc5Jwj55yJQRAuz0jxkEeHk,Posto 7 Barão de Araras,"Rod. Anhanguera, 163, Araras - SP, 13609, Brazil",-22.4120174,-47.3913882,4,5.0,0.125,1,0,3,0.25,0.0,1
+ChIJ4UppljZffJQRVi7n2k7DuLk,Bacuri Auto Desk,"R. Cel. Pílad Rébua, 2666 - Jardim Andreia, Bonito - MS, 79290-000, Brazil",-21.1346711,-56.4788517,4,4.5,0.0375,1,0,3,0.25,0.0,1
+ChIJ8y1i0mh5GZURuNj1OGURuv0,Rovin Postos de Serviços Ltda,"Av. Cristóvão Colombo, 3787 - Floresta, Porto Alegre - RS, 90560-005, Brazil",-30.0173433,-51.18178459999999,4,5.0,0.16276041666666663,1,0,3,0.25,0.0,1
+ChIJ_x6g2ZbMA5UR9cY7Ehw0vqo,Posto Shell,"Av. Gov. Walter Jobim, 243 - Patronato, Santa Maria - RS, 97020-425, Brazil",-29.7002539,-53.83156210000001,5,3.8,0.0375,1,0,4,0.2,0.0,1
+ChIJ7f1YnYJxmQARHfxH_dMfXsQ,Posto Shell,"ROD WASHINGTON LUIZ, SN QD 33 LT 01 - Pilar, Duque de Caxias - RJ, 25230-005, Brazil",-22.7043618,-43.2908325,5,3.4,0.13999999999999999,1,0,4,0.2,0.0,1
+ChIJ8bb4av8N6ZQRqDc5OMRycPc,POSTO BOA VISTA LTDA,"Av. Cel. Rogerio Borba, SN - Reserva, PR, 84320-000, Brazil",-24.6571871,-50.8603666,4,3.75,0.0375,1,0,3,0.25,0.0,1
+ChIJNRAkVz6msJQRlui0-AVJOWY,Posto Cruzeiro de Franca,"Av. Pres. Vargas, 624 - Cidade Nova, Franca - SP, 14401-120, Brazil",-20.5291678,-47.3929829,5,3.8,0.1,1,0,4,0.2,0.0,1
+ChIJjbGpNVHAsZQRWl8oD_ZonvU,Posto Shell,"Av. Bartolomeu Ribeiro de Paiva, 680 - Deolinda Mendes, Ibiá - MG, 38950-000, Brazil",-19.5001226,-46.5491873,4,3.0,0.08333333333333333,1,0,3,0.25,0.0,1
+ChIJzcGZ8NpTzZQRXF1ByCcQ-r0,Posto Shell,"R. Cap. Felipe, 387 - Itaguá, Ubatuba - SP, 11680-000, Brazil",-23.4601432,-45.0620751,3,3.0,0.125,1,0,2,0.3333333333333333,0.0,1
+ChIJAQAAAP0ltgARG6TO1TZNGuA,Auto Desk Three Points,"Av. Prefeito Samuel Batista Cruz, 672 - Aviso, Linhares - ES, 29900-430, Brazil",-19.4041685,-40.0603679,3,4.666666666666667,0.16666666666666666,1,0,2,0.3333333333333333,0.0,1
+ChIJe0_J4JoXuAARUZMKtcxLV9Y,Itaparica Petróleo e Comércio Ltda. (Matriz),"Rod. do Sol, 45 - Praia de Itaparica, Vila Velha - ES, 29101-641, Brazil",-20.3570981,-40.2939857,4,2.0,0.041666666666666664,1,0,3,0.25,0.0,1
+ChIJa6NVGim9HpURlbStKBgEpZ8,Posto Shell,"R Dr - R. José Aloísio Bruger, 1333 - Jardim America, Caxias do Sul - RS, 95050-150, Brazil",-29.1543359,-51.168643,3,3.6666666666666665,0.049999999999999996,1,0,2,0.3333333333333333,0.0,1
+ChIJLXxa-yAFX5MRqsloY1-RScs,Posto Shell,"Al Manoel G De Souza BR 153 Km 536 Sitio De Recreios - Savanah, Hidrolândia - GO, 75340-000, Brazil",-17.0129816,-49.2200172,3,4.666666666666667,0.16666666666666666,1,0,2,0.3333333333333333,0.0,1
+ChIJj4V7l9ferJQR_V3twipZzqc,POSTO PARDAL LTDA.,"Av. Santos Dumont, 66 - Centro, Três Marias - MG, 39205-000, Brazil",-18.20667629999999,-45.2276402,5,3.0,0.06666666666666667,1,0,4,0.2,0.0,1
+ChIJMWALG9-xnZMRTXrd9xX4OyY,MORADA AUTO POSTO LTDA,"Av. Miguel Sutil, 200 - Duque de Caxias, Cuiabá - MT, 78015-100, Brazil",-15.5889898,-56.1173084,4,5.0,0.08333333333333333,1,0,3,0.25,0.0,1
+ChIJCweOiqghogARseALiy8W4ZI,Posto Cabana - GNV,"R. Belo Horizonte, 313-387 - Caicaras, Barbacena - MG, 36205, Brazil",-21.2195085,-43.7439334,3,4.333333333333333,0.16666666666666666,1,0,2,0.3333333333333333,0.0,1
+ChIJa-y6ViuloAARq46e_leoED4,Posto Shell,"Av. Paraná, 1757 - Catalão, Divinópolis - MG, 35500-000, Brazil",-20.1637738,-44.9065265,4,3.0,0.16276041666666663,1,0,3,0.25,0.0,1
+ChIJv464Wha9pgARcrsvLxFNvic,Posto Shell,"Av. Olinto Meireles, 540 - Barreiro, Belo Horizonte - MG, 30640-010, Brazil",-19.975813,-44.012515,5,2.0,0.09843749999999998,1,0,4,0.2,0.0,1
+ChIJq7PwPnOXpAARTgWej_t_o8k,Posto ponte nova,"R. Felisberto Leopoldo, 284 - Santa Teresa, Pte. Nova - MG, 35430-085, Brazil",-20.4181948,-42.8998806,3,4.0,0.2333333333333333,1,0,2,0.3333333333333333,0.0,1
+ChIJeUvW4trj3JQRsQRkP4-YFow,Posto Petropark,"R. Gen. Mário Tourinho, 2350 - Bigorrilho, Curitiba - PR, 80740-000, Brazil",-25.4326689,-49.3119011,4,4.5,0.2,1,0,3,0.25,0.0,1
+ChIJB4Yfn7Wd-5QRDo6sP6vZPa8,Posto Belenzier,"R. do Comércio, 1424, Taquaruçu do Sul - RS, 98410-000, Brazil",-27.3996102,-53.4694605,5,4.8,0.16,1,0,4,0.2,0.0,1
+ChIJAYDo8sjjmwAR2DE2JlvvP84,Posto Shell,"Estr. Rio São Paulo, 2174 - Campo Grande, Rio de Janeiro - RJ, 23075-246, Brazil",-22.8805481,-43.5732824,3,3.6666666666666665,0.049999999999999996,1,0,2,0.3333333333333333,0.0,1
+ChIJ55ihkPc2sJQROfdKjZBluAg,Posto Shell,"Av. Wilsom Borges, 875 - Santo Antônio, Araxá - MG, 38182-000, Brazil",-19.6054318,-46.9319596,4,2.5,0.0,0,0,4,0.0,0.0,0
+ChIJoeugf1Jjy5QRjVI-mXuY7DE,Posto BR - Ribeiro Goulart,"Av. Dr. Vicente Sanches, 22 - Varginha, Itajubá - MG, 37501-082, Brazil",-22.4268386,-45.4475628,5,4.2,0.0,0,0,5,0.0,0.0,0
+ChIJDfX7aYFIxwcRnv2VhRvpktA,Posto Tetra | Shell,"Av. Santos Dumont, 3976 - Aldeota, Fortaleza - CE, 60150-162, Brazil",-3.7395387,-38.4888662,3,1.0,0.0,0,0,3,0.0,0.0,0
+ChIJQ13st-95jZQRHTQ_zhRIh9w,Postos Mahle - Guairaçá,"Km 66 - BR-376, Guairaçá - PR, 87880-000, Brazil",-22.9298325,-52.78944329999999,3,4.333333333333333,0.0,0,0,3,0.0,0.0,0
+ChIJJyY7rGTFuAcRTc3-XFHS2Fo,Posto Cacique | Shell,"RODOVIA BR 116, SN - Triângulo, Chorozinho - CE, 62875-000, Brazil",-4.334679999999999,-38.479295,4,3.0,0.0,0,0,4,0.0,0.0,0
+ChIJBR_q0T-LxZQRhjeJ5XvS_r4,Rede Costa & Barros AUTO POSTO SOLEDADE GAÚCHA SOROCABA LTDA,"R. Prof. Toledo, 848 - Centro, Sorocaba - SP, 18035-110, Brazil",-23.4963417,-47.4660873,5,4.2,0.0,0,0,5,0.0,0.0,0
+ChIJWSgp0JYXuAARucxu-k21rGM,Shell Select,"Av. Nossa Sra. da Penha, 2719 - Andorinhas, Vitória - ES, 29045-403, Brazil",-20.28827369999999,-40.3043261,5,3.4,0.0,0,0,5,0.0,0.0,0
+ChIJMVSpYvWVpgARGSJA9sitPoE,Posto Shell,"Av. Tomaz Gonzaga, 642 - Riacho das Pedras, Contagem - MG, 32260-150, Brazil",-19.9555567,-44.0369476,5,4.2,0.0,0,0,5,0.0,0.0,0
+ChIJHcYjq8mc4pQRV5pB6FLgJZk,Posto Shell,"Av. Julio Borella, 2586 - Deleted, Marau - RS, 99150-000, Brazil",-28.4639403,-52.2020265,4,4.0,0.0,0,0,4,0.0,0.0,0
+ChIJBcZ29zGjy5QRdPFjBfnw9F4,Posto Shell,"Av. Emb. Bilac Pinto, 880 - Santa Rita Do Sapucai, Santa Rita do Sapucaí - MG, 37540-000, Brazil",-22.231137,-45.712704,4,3.5,0.0,0,0,4,0.0,0.0,0
+ChIJi9q3OOwqz5QRnDJrWqYQkIA,Posto Shell,"Av. Sen. Lacerda Franco, 740 - Centro, Itatiba - SP, 13250-400, Brazil",-22.9981079,-46.8480015,4,3.0,0.0,0,0,4,0.0,0.0,0
+ChIJXZqytaVPXpMRI07qc6MkQD0,Posto Shell,"Rod. BR 060, Sn Km 193 Zona Rural, Guapó - GO, 75350-000, Brazil",-16.84985,-49.562378,5,1.6,0.0,0,0,5,0.0,0.0,0
+ChIJm1avgrLauZQRCeuJAi78ENo,Posto Shell,"Av. Deolinda Rosa, 1981 - Centro, Serrana - SP, 14150-000, Brazil",-21.213381,-47.6040496,4,4.5,0.0,0,0,4,0.0,0.0,0
+ChIJrRv-KDJ9GZURQsx5JVaQ0-U,Posto Rota 116 Eldorado,"Rodovia BR 116 - KM 286 s/n - Bairro Industrial, Eldorado do Sul - RS, 92990-000, Brazil",-30.00894,-51.315015,5,1.8,0.0,0,0,5,0.0,0.0,0
+ChIJoXQtKSlmGZUR96iYYroHlYU,Posto Shell,"BR-116, 750 - Colonial, Sapucaia do Sul - RS, 93212-220, Brazil",-29.8047808,-51.1667644,3,3.3333333333333335,0.0,0,0,3,0.0,0.0,0
+ChIJSxWI4XcaFgcRoqx8FYF9Rvo,Posto Shell,"Av. Ulysses Guimarães, 4538 - Novo Horizonte, Salvador - BA, 41213-000, Brazil",-12.9399764,-38.4312456,5,1.8,0.0,0,0,5,0.0,0.0,0
+ChIJu1EO_R16GZUR1xvMgjbTEts,Posto Shell - Buffon,"Av. A. J. Renner, 1200 - Farrapos, Porto Alegre - RS, 90240-020, Brazil",-29.987604,-51.1944913,5,2.6,0.0,0,0,5,0.0,0.0,0
+ChIJH7O8alJhpJIRlOEpj7xLlCg,Posto Shell,"Av. Independência, Sn - Qd 205 - Coqueiro, Ananindeua - PA, 67120-406, Brazil",-1.3483256,-48.41402840000001,4,4.5,0.0,0,0,4,0.0,0.0,0
+ChIJRxa94rRjmQARSdifro28mv8,Posto Shell,"Estr. do Camboatá, 2371 - Guadalupe, Rio de Janeiro - RJ, 21660-000, Brazil",-22.83610269999999,-43.3813828,5,2.8,0.0,0,0,5,0.0,0.0,0
+ChIJ79v5kfMtn5MRhgkn6AwO4Dg,Posto Shell,"R. Castro Alves, s/n - Bolívia, Arenápolis - MT, 78420-000, Brazil",-14.4498413,-56.8482324,5,3.8,0.0,0,0,5,0.0,0.0,0
+ChIJZSXhwNXRmwARM0TXM9kGrTo,Posto Shell,"Av. Armando Lombardi, 370 - Barra da Tijuca, Rio de Janeiro - RJ, 22640-000, Brazil",-23.00636549999999,-43.309203,4,1.5,0.0,0,0,4,0.0,0.0,0
+ChIJ09sAEyDxXpMRkWxQeIm-s50,Posto Shell,"Av T63, 712 Q140 L07E - St. Bueno, Goiânia - GO, 74230-100, Brazil",-16.7138221,-49.264983,4,2.0,0.0,0,0,4,0.0,0.0,0
+ChIJI7n3poppzpQRd-WAZvWx9bQ,Shell Select,"Av. Antônia Rosa Fioravanti, 1020 - Jardim Rosina, Mauá - SP, 09390-120, Brazil",-23.6646008,-46.45823739999999,5,2.0,0.0,0,0,5,0.0,0.0,0
+ChIJL2AQmaYZqwcRXCEtDKIlHBc,Shell Select,"Av. João de Barros, 1454 - Espinheiro, Recife - PE, 52021-180, Brazil",-8.041848,-34.89117,3,2.3333333333333335,0.0,0,0,3,0.0,0.0,0
+ChIJjyruC-dH8JQRaoIPtsM8S3k,Posto Shell,"R. Sen. Attilio Fontana, 3040 - Jd Concordia, Dois Vizinhos - PR, 85660-000, Brazil",-25.7665369,-53.07935930000001,5,3.6,0.0125,0,0,5,0.0,0.0,0
+ChIJgTwCnlsuWpMROtHhXH0EQ2E,Posto São Marcos,"Estr. Parque Núcleo Bandeirante, s/n - Lote 1 - Núcleo Bandeirante, Brasília - DF, 71720-970, Brazil",-15.8695222,-47.97236230000001,5,2.2,0.0,0,0,5,0.0,0.0,0
+ChIJeQ6PH6vLlAcR1jxhomisKDs,Posto Shell,"Av. Cel. Francisco Cavalcante, SN - CENTRO, Ubajara - CE, 62350-000, Brazil",-3.861447,-40.91699699999999,5,4.2,0.0,0,0,5,0.0,0.0,0
+ChIJNYkxWpA1vwcRl-1aukJDPEk,Posto Shell - POSTO SABRINA LTDA,"R. Chicó Viêira, SN, Acarape - CE, 62785-000, Brazil",-4.2242742,-38.7090644,5,2.8,0.0,0,0,5,0.0,0.0,0
+ChIJ353ENR3BzpQR1ncoe4OLSJE,Auto Posto Boulevard Paulista,"Alameda Prof. Lucas Nogueira Garcez, 3270 - Jardim Paulista, Atibaia - SP, 12947-000, Brazil",-23.1375604,-46.5549718,5,5.0,0.0,0,0,5,0.0,0.0,0
+ChIJnW_WfiFTxwcRaAczCTmp4_Q,Posto Shell,"Av. Padre José Holanda do Vale, 809 - Piratininga, Maracanaú - CE, 61905-000, Brazil",-3.8619981,-38.6346512,4,4.0,0.0,0,0,4,0.0,0.0,0
+ChIJ58sElw2VyJQRbvvdoh5YIKg,Auto Posto Novo Jardim de Paulinia,"Av. José Paulino, 4681 - Nova Paulínia, Paulínia - SP, 13140-000, Brazil",-22.7912071,-47.1390691,4,2.25,-0.025,0,0,4,0.0,0.0,0
+ChIJ37lfMQ6XpgARCfimTwUUbVQ,Posto Jardim industrial LTDA - Aqui Rede de postos,"Av. Tito Fulgêncio, 401 - Jardim Industrial, Contagem - MG, 32215-000, Brazil",-19.9614466,-44.01592890000001,4,4.0,0.0,0,0,4,0.0,0.0,0
+ChIJL0QHSsRczpQRmzetC5iSwxU,POSTO SHELL LEANDRINI & DELLA COLLETA,"R. Castro Alves, 820 - Oswaldo Cruz, São Caetano do Sul - SP, 09540-030, Brazil",-23.6272898,-46.568031,5,4.2,0.0,0,0,5,0.0,0.0,0
+ChIJdQpZD-x-mQARmGJe8yGK-GE,Posto Shell,"Av. Roberto Dinamite, 501 - São Cristóvão, Rio de Janeiro - RJ, 20921-060, Brazil",-22.894374,-43.2285133,3,3.0,0.0,0,0,3,0.0,0.0,0
+ChIJO6frI0SdpgARvyd0TpGLsTQ,Posto Shell,"13, BR-381, s/n - Vila Amelia Moreira, Sabará - MG, 34730-010, Brazil",-19.8411417,-43.8609381,4,3.75,0.0,0,0,4,0.0,0.0,0
+ChIJHQi2z9mJzJQRfFW6xpfgLoo,Posto Shell,"Av Frei Orestes Girardi, 2057 Vila - Abernéssia, Campos do Jordão - SP, 12460-000, Brazil",-22.734278,-45.586631,4,4.5,0.0,0,0,4,0.0,0.0,0
+ChIJ09jmuIPhqgcRg44I_-35dmw,Shell,"Av. Bernardo Vieira de Melo, 1905 - Piedade, Jaboatão dos Guararapes - PE, 54410-010, Brazil",-8.1699119,-34.91531740000001,5,1.8,0.0,0,0,5,0.0,0.0,0
+ChIJPbovl1O_uZQR5O10aQEkEow,Posto Shell,"R. Mal. Mascarenhas de Morais, 380 - Parque Industrial Lagoinha, Ribeirão Preto - SP, 14095-120, Brazil",-21.1941256,-47.7695367,3,2.6666666666666665,0.0,0,0,3,0.0,0.0,0
+ChIJ66G76ZOKnQARVhXaWVC8aAs,AUTO POSTO CACHOEIRA PAULISTA LTDA,"Rod. Pres. Dutra, SN - KM 37, Cachoeira Paulista - SP, 12630-000, Brazil",-22.6650526,-44.9853079,4,3.5,-0.05,2,2,0,0.5,0.5,0
+ChIJ6wenMNO5qpURm8ekvrdEc_E,Posto Shell,"Rua Bento Manoel, 772 - Deleted, Alegrete - RS, 97543-070, Brazil",-29.7933853,-55.8014647,3,5.0,0.0,0,0,3,0.0,0.0,0
+ChIJ4Z972NpZ3JQRLWZFMrBZAR8,Shell Select,"BR-376, 27500 - KM 626 - Contenda, São José dos Pinhais - PR, 83115-004, Brazil",-25.6988847,-49.1442386,5,3.4,0.0,0,0,5,0.0,0.0,0
+ChIJPzvAl13MxZQRDzQPZgnTaZ0,Posto Aurora Shell,"R. Dr. Coutinho, 1049 - Centro, Itapetininga - SP, 18200-358, Brazil",-23.5779372,-48.0342697,3,4.333333333333333,0.0,0,0,3,0.0,0.0,0
+ChIJl37HsAOXpgARSwKTCPhcYGQ,Lavagem Posto Wap,"Av. Amazonas, 5232 - Centro, Belo Horizonte - MG, 30180-001, Brazil",-19.929493,-43.9789209,5,2.8,0.0,0,0,5,0.0,0.0,0
+ChIJsUOjPGX_sgcRfIcqYTFz-AY,Posto Olinda Shell,"Posto Olinda LTDA Avenida Engenheiro Roberto Freire 1810 - CEP:, 59082-095 - Capim Macio, Natal - RN, 59082-095, Brazil",-5.859003599999999,-35.19510969999999,5,5.0,0.0,0,0,5,0.0,0.0,0
+ChIJf-vwnfBbzpQRnU3T1-wDRDY,Posto Shell,"Av. Padre Arlindo Vieira, 2769 - Parque Bristol, São Paulo - SP, 04166-003, Brazil",-23.6432001,-46.60538880000001,3,1.0,0.0,0,0,3,0.0,0.0,0
+ChIJy0N7gD8pmQART2wfwUjX_Wc,Posto Shell,"R. Vito Pentagna, 701 - Esplanada do Cruzeiro, Valença - RJ, 27600-000, Brazil",-22.2400593,-43.6950684,5,4.2,0.0,0,0,5,0.0,0.0,0
+ChIJGVcUNn9xwZQRxq3_2VOr1NM,Posto Shell,"R. Mal. Floriano Peixoto, 1560 - Centro, Taquarituba - SP, 18740-000, Brazil",-23.5261411,-49.24493469999999,4,4.75,0.0,0,0,4,0.0,0.0,0
+ChIJh1Decp6bmAARUzArEmwa1-4,Posto Shell,"Rua José Lourenço Kelmer, 1416 - São Pedro, Juiz de Fora - MG, 36045-230, Brazil",-21.7723929,-43.3703215,4,1.75,0.0,0,0,4,0.0,0.0,0
+ChIJAw8B4sbvXpMRsfmo1XMRwGM,Posto Z+Z Housing,"Av. Alphaville Flamboyant, 3800 - Res. Alphaville Flamboyant, Goiânia - GO, 74884-527, Brazil",-16.7161847,-49.2028985,4,1.0,0.0,0,0,4,0.0,0.0,0
+ChIJl3nXHbKhqwcRnRSExBZa42k,Posto Shell,"Av. Agamenon Magalhães, 1260-1280 - Centro, Carpina - PE, 55810-000, Brazil",-7.843747599999999,-35.2644565,5,3.8,0.0,0,0,5,0.0,0.0,0
+ChIJA4WEPgHPyJQR63q38TgvEto,Posto Jardim do Shopping,"Av. José Bonifácio, 2723 - Jardim das Paineiras, Campinas - SP, 13092-305, Brazil",-22.9001089,-47.0297429,5,3.2,0.0,0,0,5,0.0,0.0,0
+ChIJ2chrnGHl3JQRnYUia62vKMY,Shell Select,"Av. Victor Ferreira do Amaral, 3122 - Tarumã, Curitiba - PR, 82810-350, Brazil",-25.4310304,-49.2094012,5,2.6,0.0,0,0,5,0.0,0.0,0
+ChIJy6gqZ1e4yJQRTJSFPVki4l4,Posto Shell,"Av. João Coelho, 32 - Jardim Santiago, Hortolândia - SP, 13185-400, Brazil",-22.8886082,-47.1672699,3,3.0,0.016666666666666666,0,0,3,0.0,0.0,0
+ChIJXR9OAEJlypQRQ5CP4Aw2RKo,Gas station,"Paraguaçu - State of Minas Gerais, 37120-000, Brazil",-21.5568703,-45.7379792,5,1.8,0.0,0,0,5,0.0,0.0,0
+ChIJ9T3zYknLxZQRLyffTD52hpk,Auto Posto Miquira 3,"R. Av. 5 de Novembro, 900 - Vila Nastri, Itapetininga - SP, 18207-320, Brazil",-23.5962357,-48.0608789,5,4.2,0.0,0,0,5,0.0,0.0,0
+ChIJeRPCo69xEAcRmqTpbaY1rT0,Auto Posto Centro,"Av. Tenente Eloy Silva, 715 - Centro, Estância - SE, 49200-000, Brazil",-11.2628711,-37.4363476,3,5.0,0.0,0,0,3,0.0,0.0,0
+ChIJfeial45b7ZQRUYl10EIGBQE,Posto colonial shell,"Av. Pará, 680 - Parque Industrial, Cianorte - PR, 87200-000, Brazil",-23.6656797,-52.6136251,4,4.0,0.0,0,0,4,0.0,0.0,0
+ChIJoQN3R1SgkZQRYb8coiIo_sk,Auto Posto 2000,"Av. Pres. Vargas, 10-75 - 10-75 - Centro, Pres. Epitácio - SP, 19470-000, Brazil",-21.7688634,-52.1117618,5,4.0,0.0,0,0,5,0.0,0.0,0
+ChIJvQOGuF1b65QReVBnwqXnWBA,Loja Shell Select - POSTO SHELL - COM DE COMB CASARIN EIRELI,"Av. Tiradentes, 1241 - Jardim Shangri-Lá A, Londrina - PR, 86071-980, Brazil",-23.3007309,-51.1856355,3,2.3333333333333335,0.0,0,0,3,0.0,0.0,0
+ChIJFQiG_zLj3JQR5g6I5Xzphbw,Posto Neoville,"R. Pedro Gusso, 1819 - Novo Mundo, Curitiba - PR, 81310-300, Brazil",-25.4994313,-49.3103985,3,4.666666666666667,0.0,0,0,3,0.0,0.0,0
+ChIJu-ZIgcBTvJQRvrflNKRv7ME,Posto Monte Carlo Shell - São Miguel,"Parque Sao Miguel, São José do Rio Preto - SP, 15057-500, Brazil",-20.7999359,-49.3458262,3,2.3333333333333335,0.0,0,0,3,0.0,0.0,0
+ChIJL5qIPFcaFgcRJ5cQSjrmMC0,Posto Shell,"Av. Luís Viana Filho, 2078 - Paralela, Salvador - BA, 41720-200, Brazil",-12.9684056,-38.4386524,3,1.0,0.0,0,0,3,0.0,0.0,0
+ChIJCUqWOS2eGZURRt_m6ktdtaY,Posto Shell,"Av. Frederico Dihl, 4190 - Jd Alvorada, Alvorada - RS, 94853-250, Brazil",-30.0280754,-51.054271,3,4.0,0.0,0,0,3,0.0,0.0,0
+ChIJYVuEitJDlpQReeeHizDzn2E,Posto Shell,"Av. Brasília, 2148 - Jardim Nova Yorque, Araçatuba - SP, 16015-460, Brazil",-21.2283336,-50.4377418,4,1.75,0.0,0,0,4,0.0,0.0,0
+ChIJYQVAjxjGyJQRK6z7fLRSPZo,Shell Select,"Av. Andrade Neves, 2340 - Centro, Campinas - SP, 13070-001, Brazil",-22.8892244,-47.0769841,5,2.0,0.0,0,0,5,0.0,0.0,0
+ChIJn7KhOzozWpMRzhuTIOMpoMo,Posto Samdu,"Lotes 01 à 06 - St. Qi Qi 9 Qi 8 - Taguatinga, Brasília - DF, 72135-090, Brazil",-15.8104901,-48.0687961,3,1.0,0.0,0,0,3,0.0,0.0,0
+ChIJGQYVvbh1tZQRIvq0k8aOV00,Posto Shell,"Av. Esmeralda, 555, Boa Esperança - MG, 37170-000, Brazil",-21.09028959999999,-45.57812,5,4.0,0.0,0,0,5,0.0,0.0,0
+ChIJFSsCwg94t5QRT2mc8mUeXk0,Posto Shell,"R. José Bonifácio, 686 - Centro, Cajuru - SP, 14240-000, Brazil",-21.27478319999999,-47.3035602,4,4.5,0.0,0,0,4,0.0,0.0,0
+ChIJf5NEGcWPtpQRtz1yG4NaSTY,Posto Shell,"R. Rio de Janeiro, 2 - Mundo Novo, Alpinópolis - MG, 37940-000, Brazil",-20.8551839,-46.38357300000001,3,2.3333333333333335,0.0,0,0,3,0.0,0.0,0
+ChIJM3jr8cNpzpQRx0cD-nBpq9I,Auto Posto shell,"Av. Pedro Américo, 1237 - Vila Homero Thon, Santo André - SP, 09110-560, Brazil",-23.669473,-46.5030639,5,4.4,0.0,0,0,5,0.0,0.0,0
+ChIJub1lWUmlyJQRKl6lPjjqBXI,Posto Shell,"ROD SP 101 KM 21.9, S/N CHACARA S P ATERRADO, Monte Mor - SP, 13190-000, Brazil",-22.95411,-47.29755000000001,5,4.0,0.0,0,0,5,0.0,0.0,0
+ChIJ9dp06wpjzpQREDt9N0o6Pfg,Centro Automotivo Marechal Tito LTDA (Rede Varela),"Avenida Marechal Tito, 3300 - Itaim Paulista, São Paulo - SP, 08160-495, Brazil",-23.4946823,-46.4146047,3,3.0,0.0,0,0,3,0.0,0.0,0
+ChIJqe6pj75bzpQRSChP9Gqelaw,Posto Shell,"R. Santa Cruz, 2388 - Vila Mariana, São Paulo - SP, 04122-002, Brazil",-23.6028321,-46.6155816,3,2.3333333333333335,0.0,0,0,3,0.0,0.0,0
+ChIJiXUWcHutvZQRQY4eQTsL01w,Posto Monte Carlo Cacique,"Av. Nossa Sra. da Paz, 2089 - Jardim Alto Alegre, São José do Rio Preto - SP, 15055-500, Brazil",-20.7982395,-49.3665444,5,1.0,0.0,0,0,5,0.0,0.0,0
+ChIJ5aFk4maBvQAR6Fcc36d1-FQ,Posto Shell,"Av. Victor Sence, 350 - Paraíso, Conceição de Macabu - RJ, 28740-000, Brazil",-22.0767905,-41.8716525,4,3.75,0.0,0,0,4,0.0,0.0,0
+ChIJO5uFNs4lz5QRiq_33TwWqY0,Posto Shell,"R. do Retiro, 2905 - Vila das Hortencias, Jundiaí - SP, 13209-355, Brazil",-23.1787861,-46.9127154,5,3.8,0.0,0,0,5,0.0,0.0,0
+ChIJseDE94xhmQARc0cl8ev3xvw,Posto Shell,"Av. Brasil, 22815 - Guadalupe, Rio de Janeiro - RJ, 21670-000, Brazil",-22.8440752,-43.3748466,3,2.6666666666666665,0.0,0,0,3,0.0,0.0,0
+ChIJ8RMKXhp4mQARltOiQ7cvuFY,Posto Shell,"Estrada do Galeão, 12 - Cacuia, Rio de Janeiro - RJ, 21931-001, Brazil",-22.8160547,-43.18687469999999,5,3.2,0.0,0,0,5,0.0,0.0,0
+ChIJ_wWqEumTnwARZqCy-QewcxY,Posto Shell,"Av. Cel. Rozendo, 4 - Lote 5 e 6 - Centro, São Vicente de Minas - MG, 37245-000, Brazil",-21.4823719,-44.6449627,5,5.0,0.02,0,0,5,0.0,0.0,0
+ChIJgWhBCQ8_FgcRBCj02tAADoE,Shell Select - Busca Vida,"BA-099, KM 09 - SN, Camaçari - BA, 42841-000, Brazil",-12.8608233,-38.2868308,3,1.6666666666666667,0.0,0,0,3,0.0,0.0,0
+ChIJ1SNkly_zXpMRou7MrxPBi38,Posto Shell,"R. 44, 570 - Setor Norte Ferroviário, Goiânia - GO, 74465-539, Brazil",-16.6571912,-49.2582934,3,2.0,0.0,0,0,3,0.0,0.0,0
+ChIJFfOAvt7FyJQR_eQL1enz0YU,Posto Shell,"Av. Almeida Garret, 1845 - Terreo - Taquaral, Campinas - SP, 13087-291, Brazil",-22.8654776,-47.0545661,3,2.6666666666666665,0.0,0,0,3,0.0,0.0,0
+ChIJK5aQLZaSypQRUO2XqTUI2wk,Motor Express Varginha,"Av. Princesa do Sul, 12 - Jardim Andere, Varginha - MG, 37026-080, Brazil",-21.5691742,-45.4382436,5,2.6,0.0,0,0,5,0.0,0.0,0
+ChIJ9aRmI245WpMRS6gRCa0Kyf0,Posto Shell,"SHIN/EPPN PROJECAO,04 PLL CANT CENT - Lago Norte, Brasília - DF, 71505-201, Brazil",-15.7274679,-47.87191439999999,5,3.4,0.0,0,0,5,0.0,0.0,0
+ChIJB5Zt1hhKzJQRNQpUaYBYh2k,AUTO POSTO VACA PRETA LTDA,"RDV DOS TAMOIOS, S/N KM 2 - Vila São Bento, São José dos Campos - SP, 12230-000, Brazil",-23.2190593,-45.8794883,4,2.5,0.0,0,0,4,0.0,0.0,0
+ChIJw_JCg4KSw5QRoYsHBiFqLq8,Posto Shell,"Av. Dr. José Ermírio de Moraes, 210 - Vila Ophelia, Itapeva - SP, 18400-818, Brazil",-23.9841769,-48.8805478,3,4.666666666666667,0.0,0,0,3,0.0,0.0,0
+ChIJWVeSmENXzpQRlDkZJSG735E,Posto Shell,"Av. Giovanni Gronchi, 4255 - Vila Andrade, São Paulo - SP, 05724-003, Brazil",-23.61562839999999,-46.7313671,5,1.6,0.0,0,0,5,0.0,0.0,0
+ChIJxfTWFYxWzpQR4YoQwT7oO3Q,Posto Shell,"Av. Eliseu de Almeida, 2520 - Butantã, São Paulo - SP, 05533-000, Brazil",-23.5873583,-46.7324403,5,2.8,0.0,0,0,5,0.0,0.0,0
+ChIJue7PDfsbFgcRFDhj_qXqLVE,Posto Shell WF3,"Av. Luís Viana Filho, 1711 - Saboeiro, Salvador - BA, 41730-101, Brazil",-12.9688068,-38.4423204,4,2.5,0.0,0,0,4,0.0,0.0,0
+ChIJYdpd7rj5FgcRwjBQh4X5lcQ,Posto Shell,"Rodovia BA 093, Km 36 Centro Comercial - Santa Cruz, Mata de São João - BA, 48280-000, Brazil",-12.4921804,-38.32214049999999,4,3.5,0.0,0,0,4,0.0,0.0,0
+ChIJjbTqiWIbFgcRKeP9nxOzl8s,Loja Shell Select - POSTO SHELL - TIC COMERCIO DE COMBUSTIVEIS LTDA,"Rod. BR-324 - Ac. Norte, 1120 - Cabula, Salvador - BA, 41150-170, Brazil",-12.9592316,-38.4723271,5,4.2,0.0,0,0,5,0.0,0.0,0
+ChIJ44domgmHzpQR8i1vnG5BP_I,Posto Shell,"Rua Major Benjamin Franco, 955 - Jardim Vitoria, Arujá - SP, 07400-165, Brazil",-23.3980411,-46.3328366,3,3.6666666666666665,0.0,0,0,3,0.0,0.0,0
+ChIJBcAjUBCDmQARWktHGFZzD8s,Posto Shell Select,"Alameda São Boaventura, 133 - Santana, Niterói - RJ, 24130-005, Brazil",-22.88036109999999,-43.10616220000001,5,1.0,0.0,0,0,5,0.0,0.0,0
+ChIJQfzOv1At5pQR-5JW5ji5-Q4,Auto Posto Cardoso - Shell,"R. Hónorato Pinto Ferreira, 1090 - Centro, Rebouças - PR, 84550-000, Brazil",-25.6262322,-50.6907801,5,5.0,0.0,0,0,5,0.0,0.0,0
+ChIJNzz02W6AyJQRIEY5Ae7pNRU,Posto Shell,"R. Joaquim Daniel dos Santos, 625 - Jardim Sen. Vergueiro, Limeira - SP, 13482-384, Brazil",-22.5630674,-47.4224646,4,1.75,0.0,0,0,4,0.0,0.0,0
+ChIJPaBPzSmiqwcRyHUufsh0Z3s,Auto Posto São Lucas,"PE-090 - Nobre, Lagoa do Carro - PE, 55820-000, Brazil",-7.844028600000001,-35.3041993,3,4.666666666666667,0.0,0,0,3,0.0,0.0,0
+ChIJta0I5KIDz5QRsbQtD3j92Ns,Posto Shell,"Av. João Batista Soares, 613 - Nova Aldeinha, Barueri - SP, 06440-175, Brazil",-23.508228,-46.8582065,5,1.0,0.01,0,0,5,0.0,0.0,0
+ChIJMaBQpVHl3JQRg6MBg5tLt_8,Condor Auto Posto Kennedy,"Av. Pres. Kennedy, nº 1.966 - nº 1.966 - Água Verde, Curitiba - PR, 80610-010, Brazil",-25.4633247,-49.27658539999999,5,2.8,0.0,0,0,5,0.0,0.0,0
+ChIJ_1Lsk7XMW5MRTMssao_vrpg,Posto Shell,"St. H Norte QNH UNIDADE 41 - Taguatinga, Brasília - DF, 72130-700, Brazil",-15.8077778,-48.0838889,3,4.333333333333333,0.0,0,0,3,0.0,0.0,0
+ChIJlYA4J7bv3JQRx8FuMA4JTjg,Posto Shell,"Rod. Dep. João Leopoldo Jacomel, 10502 - Jardim Esmeralda, Pinhais - PR, 83320-005, Brazil",-25.435375,-49.168909,4,1.75,0.0,0,0,4,0.0,0.0,0
+ChIJe2JH7g1ZzpQRmA5_PMpFfdk,Posto Shell Tutoia,"R. Tutóia, 780 - Vila Mariana, São Paulo - SP, 04007-004, Brazil",-23.5776715,-46.6511995,4,3.0,0.0,0,0,4,0.0,0.0,0
+ChIJa3Y6ZaYkxpQRhPfVUTd7BiM,IRMAOS DEGASPARI LTDA,"Ladeira José Leite de Negreiros, 90 - Centro, Rio das Pedras - SP, 13390-000, Brazil",-22.8436097,-47.6088093,3,3.6666666666666665,0.0,0,0,3,0.0,0.0,0
+ChIJhZp12QSZuZQRoX_b85RLZXg,Posto Shell,"Rua Virginia Martignon, 1054 - Jardim Belo Horizonte do Tambury, Sertãozinho - SP, 14169-511, Brazil",-21.1358998,-47.9716789,3,3.6666666666666665,0.0,0,0,3,0.0,0.0,0
+ChIJqQ2sGsjt3JQR07V4wSuRGEY,Posto Shell,"R. Prof. Duílio Calderari, 1780 - Jardim Paulista, Campina Grande do Sul - PR, 83430-000, Brazil",-25.3635794,-49.0997913,3,3.3333333333333335,0.0,0,0,3,0.0,0.0,0
+ChIJjQWKV5LZmwAR2bVogxvcbpc,Posto Shell,"Estr. dos Bandeirantes, 2772 - Jacarepaguá, Rio de Janeiro - RJ, 22775-110, Brazil",-22.9477834,-43.3724534,4,3.0,0.0,0,0,4,0.0,0.0,0
+ChIJB3UP6PJ_p5MRfzEuGXn9DKg,POSTO AVENIDA COMBUSTIVEL SHELL,"Av. das Itaúbas, 2621 - St. Comercial, Sinop - MT, 78550-088, Brazil",-11.8616358,-55.5123876,5,2.2,0.0,0,0,5,0.0,0.0,0
+ChIJV9q3ESSxTgcRQuXoHmNPItM,Shell,"Águas Altas, Cachoeira de Pajeú - State of Minas Gerais, 39980-000, Brazil",-15.9254649,-41.3956461,5,4.8,0.0,0,0,5,0.0,0.0,0
+ChIJ8-LP8hduvJQRkIwUwZhuMvY,Posto Shell,"Av. João Rimoli Neto, 468 - Jardim Menina Moca, Olímpia - SP, 15400-000, Brazil",-20.7377462,-48.8907543,5,2.8,0.0,0,0,5,0.0,0.0,0
+ChIJmc9KTX03yJQRSnTMTkvoJwo,JL Auto Posto,"Jardim Primavera, Aguaí - SP, 13860-000, Brazil",-22.050869,-46.97983369999999,4,3.75,0.0,0,0,4,0.0,0.0,0
+ChIJeRDrYFMXFgcR4sHBZtWpxlI,Shell Select,"Alameda Dilson Jatahy Fonseca, 1248 - Stella Maris, Salvador - BA, 41600-100, Brazil",-12.933604,-38.344332,5,2.0,0.0,0,0,5,0.0,0.0,0
+ChIJWS2ZHFFMxwcRM1fr_Gd_02E,Posto Shell,"Av. Oscar Araripe, 1448 C - Bom Jardim, Fortaleza - CE, 60540-440, Brazil",-3.7895835,-38.60403549999999,4,2.75,0.0,0,0,4,0.0,0.0,0
+ChIJjRE6wbgpoJMRh9oIKPbqqh0,Posto Shell,"RUA DOS MAMOEIROS, 105W QD05 LT 02 - R. dos Lírios - DO CAMPO, Nova Mutum - MT, 78450-000, Brazil",-13.8406415,-56.0865048,4,3.75,0.012500000000000002,0,0,4,0.0,0.0,0
+ChIJHyEkK0BYzpQR4fIH--kvqcQ,Posto Shell,"Alameda Nothmann, 833 - Centro Histórico de São Paulo, São Paulo - SP, 01216-001, Brazil",-23.5343588,-46.6486226,5,1.8,0.0,0,0,5,0.0,0.0,0
+ChIJe8rsQ-avvpQRjuhrK2c_yD4,Auto Posto Central,"Av. Duque de Caxias, 268 - Vila Toninho, Santa Adélia - SP, 15950-000, Brazil",-21.2456477,-48.806385,10,4.4,0.003333333333333333,0,0,10,0.0,0.0,0
+ChIJbyHv2czDtpQRf-KfnHmzPok,Posto Shell,"Av. José Caetano de Andrade, 835 - QD E LT82 - Muarama, Passos - MG, 37902-325, Brazil",-20.72263,-46.6145843,3,3.3333333333333335,0.0,0,0,3,0.0,0.0,0
+ChIJo5dtXJG_4pQRr04PIQ-c8fg,Posto Shell,"Av. Aspirante Jenner, 1133 - Vila Lucas Araujo, Passo Fundo - RS, 99074-360, Brazil",-28.2684087,-52.3895772,5,1.8,0.0,0,0,5,0.0,0.0,0
+ChIJCYIwZ6EfVQcRYBtY_5SUD5s,Posto Shell,"R. Joséfina Palma, 279 - Brasília de Minas, MG, 39330-000, Brazil",-16.2129683,-44.43219240000001,4,3.25,0.0,0,0,4,0.0,0.0,0
+ChIJl2v-De7fmwAR9eMJ51yW9YQ,Posto Shell,"R. Cel. Tamarindo, 2354 - Bangu, Rio de Janeiro - RJ, 21870-002, Brazil",-22.8750845,-43.47008530000001,5,3.2,0.02,0,0,5,0.0,0.0,0
+ChIJyynd0ifJzpQRm89b0b5KYio,Posto Shell,"R. Alpheu Grimello, 990 - Taboão, Bragança Paulista - SP, 12916-010, Brazil",-22.97716600000001,-46.5334984,4,3.5,0.0,0,0,4,0.0,0.0,0
+ChIJYdU1dcJLxwcRlA5-D5OOXu8,Posto Shell,"Av. Cel. Carvalho, 920 - Barra do Ceará, Fortaleza - CE, 60347-112, Brazil",-3.7102945,-38.58994069999999,3,5.0,0.0,0,0,3,0.0,0.0,0
+ChIJm34OpMg1O5MR0URv0zc9SWM,Posto Central Shell,"602 Sul Avenida Lo 13, Sn Cj2 Lt16 - Plano Diretor Sul, Palmas - TO, 77022-004, Brazil",-10.2179503,-48.3313817,4,4.25,0.08333333333333334,1,1,2,0.25,0.25,0
+ChIJlUHNe8YjuAAReN113Bgq-mE,Auto Posto Nazarão De Cariacica LTDA,"Rod. Governador Mário Covas, 463 - Dto Ind, Cariacica - ES, 29156-571, Brazil",-20.2509872,-40.3732193,4,2.25,0.0,0,0,4,0.0,0.0,0
+ChIJlXGbl8NR3ZIRzzMPwkc69VA,Auto Posto Anhanguera,"Parauapebas - State of Pará, 68515-000, Brazil",-6.088604599999999,-49.86389639999999,5,1.2,0.0,0,0,5,0.0,0.0,0
+ChIJYYOV7p5MxwcRmmB1WnvGF6c,Shell - Posto Ximenes,"Av. Torreon, 741 - Parque Guadalajara (Jurema), Caucaia - CE, 61650-350, Brazil",-3.7644641,-38.628327,3,3.0,0.0,0,0,3,0.0,0.0,0
+ChIJrdnmZ6AcFgcRTcgDVAL9JZ0,Auto Posto Camurupim,"Av. Octávio Mangabeira, 429 - Pituba, Salvador - BA, 41830-050, Brazil",-13.0103043,-38.46537070000001,3,2.0,0.0,0,0,3,0.0,0.0,0
+ChIJ6aNx-b1nv5QRhntO1VPt2v8,Posto Shell,"Alameda Dr. Octávio Pinheiro Brisolla, 23 - 25 - Jardim Planalto, Bauru - SP, 17043-101, Brazil",-22.3434136,-49.05218559999999,3,5.0,0.0,0,0,3,0.0,0.0,0
+ChIJ-7EnXK9ylJQRH1mIkFlJ35I,POSTO CONTTATO DE MARTINOPOLIS LTDA,"R. Maria do Carmo Ramos, 513 - Martinópolis, SP, 19500-000, Brazil",-22.1299324,-51.1858859,5,3.8,0.0,0,0,5,0.0,0.0,0
+ChIJ_4NONbx-zpQR_JdIZcxz--o,AUTO POSTO UCHIKAWA E KANO LTDA,"Av. Japão, 120 - Vila Vitoria, Mogi das Cruzes - SP, 08730-330, Brazil",-23.52973009999999,-46.2055102,5,4.8,0.0,0,0,5,0.0,0.0,0
+ChIJfQDov3BLvJQR8Zag2A6G7O4,Posto Monte Carlo,"426 - Rod. Washington Luís, SN, Cedral - SP, 15895-000, Brazil",-20.8972985,-49.3018233,4,2.75,0.0,0,0,4,0.0,0.0,0
+ChIJZdlxFkGd0pQRdy_JZpRYGmY,Auto Posto Arquipélago,"R. Marginal Dois, 35 - Jardim Tarumas, Caraguatatuba - SP, 11660-970, Brazil",-23.7018341,-45.4366925,5,3.8,-0.03333333333333334,1,1,3,0.2,0.2,0
+ChIJt1wcI3VWzpQRBlSTEqvi-wY,Posto Ipiranga,"Av. Nossa Sra. da Assunção, 915 - Butantã, São Paulo - SP, 05359-001, Brazil",-23.5688777,-46.74602420000001,5,3.4,0.0,0,0,5,0.0,0.0,0
+ChIJF7KHAtJezpQRMfsi3byXALU,Auto Posto Tupi,"Av. Álvaro Ramos, 401 - Belém, São Paulo - SP, 03058-060, Brazil",-23.54153190000001,-46.5884088,5,4.2,0.0,0,0,5,0.0,0.0,0
+ChIJFQAx9E1mmQAR6gYuvec8dWY,Posto Shell,"Av. Nilo Peçanha, 1380 - Centro, Nova Iguaçu - RJ, 26210-011, Brazil",-22.7505528,-43.4412933,3,3.0,0.0,0,0,3,0.0,0.0,0
+ChIJlbYkcwx7mQARm0AJyQMp8DM,Auto Posto Cordovil Shell,"R. Itabira, 855 - Brás de Pina, Rio de Janeiro - RJ, 21215-310, Brazil",-22.824808,-43.2960327,5,3.4,0.0,0,0,5,0.0,0.0,0
+ChIJUbCaEcxHGZUREmJ-4bxGefQ,Posto Shell,"Av. Irineu Becker, 323 - Floresta, Dois Irmãos - RS, 93950-000, Brazil",-29.580008,-51.089911,5,1.2,0.0,0,0,5,0.0,0.0,0
+ChIJXUDlFuqSypQRFEhR4UlI7Tw,Posto Riacho,"Av. Dr. José Justiniano dos Réis, 1017 - Jardim Sion, Varginha - MG, 37048-000, Brazil",-21.5647011,-45.4270392,3,3.6666666666666665,0.0,0,0,3,0.0,0.0,0
+ChIJjfhhnRItz5QRxkhNvWcqkYo,Posto Shell Normandia,"Av. Benedito Storani, 444 - Centro, Vinhedo - SP, 13280-017, Brazil",-23.0265475,-46.9793744,4,4.0,0.0,0,0,4,0.0,0.0,0
+ChIJyzStK0_GVZQRmMikHdoGGLw,Jm Comércio De Combustiveis Ltda,"R. Ver. Fausto de L Aquino, 787 - Tiro, São Borja - RS, 97670-000, Brazil",-28.6485056,-55.9969214,4,4.75,0.0,0,0,4,0.0,0.0,0
+ChIJt0GPlBZmyZQRqsT1jSA8oSY,Station St. Joseph,"R. Francisco Inácio, 101, Bueno Brandão - MG, 37578-000, Brazil",-22.4386408,-46.3464604,5,4.0,0.0,0,0,5,0.0,0.0,0
+ChIJIayRhhZVqwARC03PcV3IM4k,Posto Catedral,"Av. Francisco Sá, 185 - Centro, Montes Claros - MG, 39400-065, Brazil",-16.7271389,-43.8632351,3,2.0,0.0,0,0,3,0.0,0.0,0
+ChIJmZuiAJeRpgARVK5m2ezUWL0,São Cristovão combustíveis Ltda,"Av. Pres. Antônio Carlos, 1327 - Lagoinha, Belo Horizonte - MG, 31235-015, Brazil",-19.9002198,-43.9465453,5,2.0,0.0,0,0,5,0.0,0.0,0
+ChIJTWOumFUZuAARKUQYx0dmaqY,Posto Ferrari Limoeiro (Shell),"Av. Lourival Nunes, 1338 - Jardim Limoeiro, Serra - ES, 29164-050, Brazil",-20.2137944,-40.2666575,5,2.4,0.0,0,0,5,0.0,0.0,0
+ChIJtc2cL4djmQARiwVIvdoUUOQ,Posto Shell,"Av. Ernani Cardoso, 202 - Campinho, Rio de Janeiro - RJ, 21310-310, Brazil",-22.8821653,-43.3346903,4,1.5,0.0,0,0,4,0.0,0.0,0
+ChIJKTUBc9xpzpQRIE4l0QY21Jo,Rede 7 - Estadão de Santo Andre,"Av. dos Estados, 6700 - Tamanduateí 8, Santo André - SP, 09290-520, Brazil",-23.6523003,-46.5142438,4,2.75,0.0,0,0,4,0.0,0.0,0
+ChIJrZPjCVvYmwARkCdZmBr_v-Y,Posto Shell,"Estr. do Tindiba, 530 - Pechincha, Rio de Janeiro - RJ, 22740-360, Brazil",-22.9270999,-43.3611993,6,4.666666666666667,0.0,0,0,6,0.0,0.0,0
+ChIJoxDYtTIkz5QRLC8m41OVHqw,Auto Posto Avanth Ltda. Postos Vale+,"Av. Osmundo dos Santos Pellegrini, 703 - Jardim Trevo, Jundiaí - SP, 13211-745, Brazil",-23.1869261,-46.9132413,3,2.3333333333333335,0.0,0,0,3,0.0,0.0,0
+ChIJ1xTcDJw1zJQRgd1AOnG6xnE,Auto Posto Visual | Colônia Paraíso,"Av. João Batista de Souza Soares, 2105 - COLONIA PARAISO, São José dos Campos - SP, 12236-660, Brazil",-23.2418877,-45.906095,5,4.2,0.0,0,0,5,0.0,0.0,0
+ChIJwfUD81LPyJQRAmLJ44M4j8o,Auto Posto Mesquita,"Av. Júlio de Mesquita, 990 - Cambuí, Campinas - SP, 13025-061, Brazil",-22.897097,-47.0562874,4,4.25,0.0,0,0,4,0.0,0.0,0
+ChIJyx9Z4cSnsJQRJaIVaHA3ads,Posto Alvorada de Franca,"Av. Santos Dumont, 956 - Jardim California, Franca - SP, 14405-268, Brazil",-20.5404282,-47.41921070000001,4,2.25,0.0,0,0,4,0.0,0.0,0
+ChIJpfSeXMqEpgAR5VuLVlmdPbo,POSTO BALUARTE LTDA,"R. Valter de Abreu, 45 - Maria Goretti, Belo Horizonte - MG, 31930-430, Brazil",-19.8586557,-43.9089259,3,2.3333333333333335,0.0,0,0,3,0.0,0.0,0
+ChIJPxAxnROoogARBvBkC0CD8Do,Auto Posto Ilha,"Av. Dr. Ricardo Grimaldo Estides, 165-273 - 165-273 - Ilha do Lazareto, Além Paraíba - MG, 36660-000, Brazil",-21.8809026,-42.6936271,4,4.5,0.0,0,0,4,0.0,0.0,0
+ChIJFz6OihNHAQcRjtWQGBxwgFg,Auto Posto Via Norte e Conveniência,"Av. Comendador Gustavo Paiva, 2603 - Jacarecica, Maceió - AL, 57038-635, Brazil",-9.6130992,-35.68894209999999,5,5.0,0.0,0,0,5,0.0,0.0,0
+ChIJDUIPP1r1xZQRvva9s7B0CKg,Posto de gasolina Ipiranga Shell,"R. Paes de Linhares, 1850 - Vila Fiori, Sorocaba - SP, 18075-630, Brazil",-23.4722112,-47.45516929999999,3,2.6666666666666665,0.0,0,0,3,0.0,0.0,0
+ChIJ6fIABp1C6wcRBLL6wgXwM2Q,Posto Shell,"R. José Siqueira, 396 - Viçosa do Ceará, CE, 62300-000, Brazil",-3.5679982,-41.0920751,4,4.0,0.0,0,0,4,0.0,0.0,0
+ChIJu3xqW26hw5IRqugd7kYJrig,Posto Santa Edwiges Marabá Pará Rede Z+Z,"Rodovia BR-230 - Transamazônica, Km06 - Nova Marabá, Marabá - PA, 68507-765, Brazil",-5.360663399999999,-49.08149909999999,4,4.0,0.0,0,0,4,0.0,0.0,0
+ChIJ588g6p6sVAcRAbAVebbEtkk,Posto Shell,"Av. João XXIII, 1792 - Edgar Pereira, Montes Claros - MG, 39401-262, Brazil",-16.70388579999999,-43.86731849999999,4,3.0,0.0,0,0,4,0.0,0.0,0
+ChIJizQsTeQ7WpMR3mZ4hVE0Hv0,Posto Shell - 302 Sul,"SHCS SQS 302 - Asa Sul, Brasília - DF, 70297-400, Brazil",-15.8030119,-47.8914542,5,2.6,0.0,0,0,5,0.0,0.0,0
+ChIJQd37zElCzpQRN0oMDiqTmbA,POSTO SHELL,"Av. Pereira Barreto, 1120 - Baeta Neves, São Bernardo do Campo - SP, 09751-000, Brazil",-23.6882446,-46.54752209999999,5,1.6,0.0,0,0,5,0.0,0.0,0
+ChIJzRVOmSfbmwARDQcSWGpZrbA,Posto ML,"Av. das Américas, 7370 - Barra da Tijuca, Rio de Janeiro - RJ, 22793-081, Brazil",-22.9994945,-43.4043832,5,3.4,0.0,0,0,5,0.0,0.0,0
+ChIJ-zBqQsmRoJQRVdoYIgUUL8c,Posto Mahle - Morrinhos,"BR-153, KM 614 - Zona Rural, Morrinhos - GO, 75650-000, Brazil",-17.6665916,-49.16637480000001,3,3.0,0.0,0,0,3,0.0,0.0,0
+ChIJ4QlwdLcJOQcRWElxM4f5FQE,Posto Banco da Vitória,"Km 6 - Rod. Jorge Amado, S/N - Ilhéus, BA, 45650-780, Brazil",-14.7823287,-39.1033791,3,2.0,0.0,0,0,3,0.0,0.0,0
+ChIJeVlkFvS5uZQRWjYZU9ZvYqA,Loja Shell Select - POSTO SHELL - AUTO POSTO QUINHONE E FILHOS LTDA,"Av. Pres. Kennedy, 2140 - Ribeirânia, Ribeirão Preto - SP, 14095-220, Brazil",-21.1980774,-47.7646591,4,3.75,0.0,0,0,4,0.0,0.0,0
+ChIJrbTUJ9RDYJMR0rIob0Wpbq0,Posto Alazão,"BR-060 - Lot. Acreuna, Acreúna - GO, 75960-000, Brazil",-17.4048634,-50.3954511,4,2.25,0.0,0,0,4,0.0,0.0,0
+ChIJR1ZVpc3W85QRhzo8hjBgZuM,POSTO UNIVERSITARIO,"Av. Tito Muffato, 2740 - Santa Cruz, Cascavel - PR, 85806-080, Brazil",-24.9575079,-53.50780229999999,3,1.3333333333333333,0.0,0,0,3,0.0,0.0,0
+ChIJSQEZMj5b65QRFyEJ-OuHnYs,Loja Shell Select - POSTO SHELL - AUTO POSTO CONFIANCA LTDA,"Av. Tiradentes, 1836 - Jardim Shangri-Lá A, Londrina - PR, 86071-000, Brazil",-23.29798,-51.193414,4,3.75,0.0,0,0,4,0.0,0.0,0
+ChIJJ1RxLlvXaQcRBEV23veTXHo,Posto Cambuí,"R. Boninal, 440 - Centro, Seabra - BA, 46900-000, Brazil",-12.4243495,-41.77026,5,3.2,0.0,0,0,5,0.0,0.0,0
+ChIJi1GdU3VTzJQRtKGHyJDU7Zs,POSTO SOL DA DUTRA LTDA,"R. Ver. Geraldo Nogueira da Silva, 1829 - Res. Terras do Vale, Caçapava - SP, 12286-285, Brazil",-23.12010739999999,-45.720812,3,3.3333333333333335,0.0,0,0,3,0.0,0.0,0
+ChIJHeUgNITHpAARXQpxB01KhfI,Posto Shell,"R. Santa Efigênia, 110 - Urucânia, MG, 35380-000, Brazil",-20.3438221,-42.7402865,5,4.6,0.0,0,0,5,0.0,0.0,0
+ChIJuwMFC2gBlpQRkKvfcW4CMPQ,Auto Posto Caneco de Ouro,"Av. Luís Osório, 40 - Centro, Penápolis - SP, 16300-000, Brazil",-21.4222325,-50.079472,4,5.0,0.0,0,0,4,0.0,0.0,0
+ChIJc3-ywIzrTQcR11NP25IKaKU,Posto Patativa,"Av. Floripes Crispim, 1023-1117 - Salinas, MG, 39560-000, Brazil",-16.166647,-42.30877499999999,5,3.2,0.0,0,0,5,0.0,0.0,0
+ChIJ6YGh48BUqwARIacKpNRruv0,Posto Shell,"Av. Dep. Plínio Ribeiro, 3515 - Jardim Palmeiras, Montes Claros - MG, 39402-194, Brazil",-16.7408503,-43.8459265,3,1.0,0.0,0,0,3,0.0,0.0,0
+ChIJpa_YgrSnsJQRlSb9xxvZaKg,Auto Posto Santa Gianna,"Av. Chico Júlio, 2701 - Jardim Integracao, Franca - SP, 14405-252, Brazil",-20.5276912,-47.4121094,4,2.0,0.0,0,0,4,0.0,0.0,0
+ChIJa8JZRqC-uZQRIDjrEqDH9Qw,Panificadora Casper Libero,"Av. Cásper Líbero, 286 - Parque Ribeirao Preto, Ribeirão Preto - SP, 14031-180, Brazil",-21.200828,-47.8410536,5,3.4,0.0,0,0,5,0.0,0.0,0
+ChIJxcfPQ_f0k5QRjNXTgGpYT-4,Centro de Abastecimento Arco Iris,"Av. Cel. José Soares Marcondes, 4050 - Jardim Bongiovani, Pres. Prudente - SP, 19050-230, Brazil",-22.1445941,-51.4006561,4,4.5,0.0,0,0,4,0.0,0.0,0
+ChIJSRP2eVkDuJQRWIipm0bijOI,Loja Shell Select - POSTO SHELL - VA VER COMERCIO DE COMBUSTIVEL LTDA,"AV.ENG.N - Av. Eng. Nicolau De V. Forjaz, 1003, Porto Ferreira - SP, 13660-000, Brazil",-21.8515645,-47.48473079999999,4,4.25,0.0,0,0,4,0.0,0.0,0
+ChIJBWJkfZrxzZQRKc7XGGaWIfU,Auto Posto Riviera de São Lourenço,"Av. da Riviera, 877 - Riviera de São Lourenço, Bertioga - SP, 11261-597, Brazil",-23.79484,-46.0242529,5,2.4,-0.13333333333333336,1,1,3,0.2,0.2,0
+ChIJ1dCLhcSKxZQR1vS_ITyNtoo,Posto Cerrado,"Av. Gen. Carneiro, 235 - Vila Lucy, Sorocaba - SP, 18043-000, Brazil",-23.504053,-47.470453,4,2.5,0.0,0,0,4,0.0,0.0,0
+ChIJP5-wS1EbzpQRi26xlGjT5E0,Posto Shell,"Av. Nossa Senhora de Fátima, 635 - Caneleira, Santos - SP, 11085-203, Brazil",-23.944323,-46.36742539999999,5,1.6,-0.02,0,0,5,0.0,0.0,0
+ChIJV4nO5AUTtpQRK6hbB4Pu9qI,Posto Sanharao,"Monte Belo - State of Minas Gerais, 37115-000, Brazil",-21.3378803,-46.4094827,3,4.0,0.0,0,0,3,0.0,0.0,0
+ChIJ3x1QZh1czpQRxJZ4nTa8Sbc,Posto Shell,"R. do Oratório, 2413 - Vila Prudente, São Paulo - SP, 03117-000, Brazil",-23.5686633,-46.582363,5,4.0,0.0,0,0,5,0.0,0.0,0
+ChIJm27Fz63hxZQR4JGLJ3uLr08,BR station Garpelli,"Rodovia Mal. Castelo Branco, Km 120 s/n - Condominio Reserva Campos de Boituva - AP, Boituva - SP, 18550-000, Brazil",-23.2937393,-47.72035599999999,4,4.75,0.0,0,0,4,0.0,0.0,0
+ChIJ3bxPD7jnzpQRwrr5Z4U-o_s,Posto Viaduto Shell,"R. Aureliano de Gusmão, 111 - Jardim Prof. Francisco Morato, Francisco Morato - SP, 07910-070, Brazil",-23.2758354,-46.7450653,4,5.0,0.0,0,0,4,0.0,0.0,0
+ChIJMZrTWBpzGJURbqOv0FpnAIE,Posto de Abastecimento Rota do Mar,"Av. Osório, 864 - Imbé, RS, 95625-000, Brazil",-29.973693,-50.1342136,4,4.0,0.0,0,0,4,0.0,0.0,0
+ChIJ447BlkxxswARzIdbGudFoL4,REDE HG COMBUSTIVEIS LTDA,"243, BR-116, SN - 144 - DISTRITO DE MUCURI, Teófilo Otoni - MG, 39809-800, Brazil",-17.8591421,-41.51496710000001,5,4.2,0.0,0,0,5,0.0,0.0,0
+ChIJ0To6s403FAcR9fcZsU-o_V8,Posto Shell,"R. Prof. Geminiano Costa, 490 - Centro, Feira de Santana - BA, 44025-070, Brazil",-12.2506843,-38.95922429999999,10,3.6,0.0,0,0,10,0.0,0.0,0
+ChIJ0ekhjP9fz5QRWuZtZ_l2KPc,Posto Shell - CABRERA AUTO POSTO LTDA,"R. Paschoal Leite Paes, 424 - Vila Progresso, Sorocaba - SP, 18090-500, Brazil",-23.47940999999999,-47.4489959,3,1.0,0.0,0,0,3,0.0,0.0,0
+ChIJvbZbh7jdngARRaCF_xfwvxc,Auto Posto Jacutinga LTDA,"Praça Gov. Valadares, 148 - Centro, Santa Rita de Jacutinga - MG, 36135-000, Brazil",-22.1464087,-44.09106289999999,5,4.8,0.0,0,0,5,0.0,0.0,0
+ChIJNw5TFkp8twARWkm03Dolc4M,Posto Ferrari,"Rodovia Galerano Afonso Venturini, Km 23 Zona Rural - Alto Caldeirão, Santa Teresa - ES, 29656-000, Brazil",-19.9612482,-40.7373423,4,4.5,0.0,0,0,4,0.0,0.0,0
+ChIJAfnZjFbIvAARNRD6_PWEyFs,Posto Shell - POSTO BARRA DE MURIAE LTDA,"Rio-Bahia, 5245 - Barra, Muriaé - MG, 36880-000, Brazil",-21.1008999,-42.3768915,5,2.8,-0.02,0,0,5,0.0,0.0,0
+ChIJY_R59M6JzJQRdCf79z_tE0c,Posto Shell,"Av. Dr. Januário Miraglia, 2141 - V Telma, Campos do Jordão - SP, 12460-000, Brazil",-22.7444533,-45.59983039999999,8,4.0,0.0,0,0,8,0.0,0.0,0
+ChIJffFrWtRYlpQR2Y7D3pwY2FM,Auto Posto Guararapes - Shell,"Av. Rio Branco, 1726 - Guararapes, SP, 16700-000, Brazil",-21.2494045,-50.6413026,5,4.6,0.0,0,0,5,0.0,0.0,0
+ChIJoyWEF0hEpJQRrFne6wP-h0g,POSTO Z+Z UBERLÂNDIA LTDA,": - Av. Paulo Roberto Cunha Santos, 1801 - Pres. Roosevelt, Uberlândia - MG, 38401-117, Brazil",-18.9045634,-48.28822659999999,4,1.0,0.0,0,0,4,0.0,0.0,0
+ChIJfY-sfK6_uZQRVZuDqZQtq5Y,Posto Shell,"R. São Paulo, 1688 - Campos Elísios, Ribeirão Preto - SP, 14085-010, Brazil",-21.1594414,-47.79751749999999,5,3.0,0.0,0,0,5,0.0,0.0,0
+ChIJK-zTQ5rfmwARsYTne7JWoTU,Loja Shell Select - POSTO SHELL - AUTO CENTER DUDUCA LTDA,"R. Francisco Real, 616 - Padre Miguel, Rio de Janeiro - RJ, 21715-422, Brazil",-22.8791749,-43.45113509999999,4,1.0,0.0,0,0,4,0.0,0.0,0
+ChIJy_12Qt5VpQARtuTkIt6EgXI,Auto Posto Badú,"R. Argentina, 105 - Santa Cruz, Cel. Fabriciano - MG, 35170-242, Brazil",-19.4898944,-42.6251949,4,2.75,0.0,0,0,4,0.0,0.0,0
+ChIJl5JgY3FcGZURMmlLnVCsKXo,Comercial de Combustíveis Portão,"Av. Brasil, 559 - Centro, Portão - RS, 93180-000, Brazil",-29.6964982,-51.23489979999999,5,4.2,0.0,0,0,5,0.0,0.0,0
+ChIJycYH_KglngARtHOwLr2U_zY,Posto Shell,"AV JUSCELINO KUBIT - R. Prof. José Divino de Oliveira, 612 - CENTRO, Baependi - MG, 37443-000, Brazil",-21.9556263,-44.8905739,5,5.0,0.0,0,0,5,0.0,0.0,0
+ChIJJ5ZAvU9oGZURO2K4-QyeMp0,Posto Shell,"R. Primeiro de Março, 467, Sardoá - MG, 39728-000, Brazil",-18.7821122,-42.37099569999999,4,4.25,0.0,0,0,4,0.0,0.0,0
+ChIJq6fINrIf8JQRR3BKFBlgxoc,Coasul Cooperativa Agroindustrial,"R. Gen. Osório, 920 - Coasul, São João - PR, 85570-000, Brazil",-25.8347277,-52.72617779999999,8,5.0,0.0,0,0,8,0.0,0.0,0
+ChIJfxebo-z6uZQRXztBtmKEzA8,Auto Posto Sao Paulo Batatais,"Av. Dr. Oswaldo Scatena, 749 - Centro, Batatais - SP, 14300-000, Brazil",-20.8903577,-47.5882731,4,3.75,0.0,0,0,4,0.0,0.0,0
+ChIJtXO3cwGWpgARdQSJmFhczhM,Posto Shell,"Av. Tito Fulgêncio, 259 - Jardim Industrial, Contagem - MG, 32215-000, Brazil",-19.9586918,-44.01606799999999,3,3.6666666666666665,0.0,0,0,3,0.0,0.0,0
+ChIJm3TvFwShpQARnPQ0lMn16mo,Posto Shell,"R. Tab. Hidelbrando Martins da Costa, 621 - Água Fresca, Itabira - MG, 35900-444, Brazil",-19.6401676,-43.2192701,4,3.0,0.0,0,0,4,0.0,0.0,0
+ChIJOU7gzV0jHJURzb6RPEybk4Q,Loja Shell Select - POSTO SHELL - COM DE COMB SANTO ANTAO LTDA,"R - R. Nelson Carraro, 627 - PQ SABIA II, Bento Gonçalves - RS, 95700-000, Brazil",-29.1903821,-51.504861,5,2.4,0.0,0,0,5,0.0,0.0,0
+ChIJWTpqriU5WpMR32L8jLq3FoE,AUTO POSTO CINCO ESTRELAS LTDA,"CRNW 510, 509 - BL B LT1 - SETOR NOROESTE, Brasília - DF, 70688-020, Brazil",-15.7463849,-47.9128911,5,1.8,0.0,0,0,5,0.0,0.0,0
+ChIJ5Rzql-OFrAcRLznktRHf2B0,Albuquerque Pneus Ltda Itambé,"Rod. PE-75, Km 28 - Centro, Itambé - PE, 55920-000, Brazil",-7.4037596,-35.12294110000001,8,2.75,0.0,0,0,8,0.0,0.0,0
+ChIJBYluVLiZpgARHQXgBQ_bXts,Posto Shell,"Rua Professor Estêvão Pinto, 768 - Serra, Belo Horizonte - MG, 30220-060, Brazil",-19.9416667,-43.9222529,4,2.75,0.0,0,0,4,0.0,0.0,0
+ChIJPYgDxZacmAARJY-eJFBXLGQ,Posto Shell,"R. Mal. Setembrino de Carvalho, 85 - Ladeira, Juiz de Fora - MG, 36035-010, Brazil",-21.7488291,-43.3526599,3,5.0,0.0,0,0,3,0.0,0.0,0
+ChIJR5jt5HFDzpQRGnXCxB9hpwQ,DEPÓSITO ABD,"Av. Corredor Abd, 267 - Vila Sao Jose, Diadema - SP, 09950-461, Brazil",-23.67308800000001,-46.579647,5,5.0,0.0,0,0,5,0.0,0.0,0
+ChIJNVRUj6nL75QR2r7pvLUapks,Auto Posto Rinaldi - Shell,"R. Cap. Félix Fleuri, 1240 - Centro, Laranjeiras do Sul - PR, 85301-210, Brazil",-25.40750999999999,-52.41433499999999,10,3.2,0.0,0,0,10,0.0,0.0,0
+ChIJlx57TyX7G5URRRdRT1n7Pf4,Posto Ipiranga,"R. Buarque de Macedo, 400 - Centro, Montenegro - RS, 95780-000, Brazil",-29.6811111,-51.4575,10,3.2,0.0,0,0,10,0.0,0.0,0
+ChIJ87zlFVfhmwARVDvb_YTWFz0,Shekináh,"R. Viúva Dantas, 207 - Campo Grande, Rio de Janeiro - RJ, 23050-090, Brazil",-22.9030796,-43.5571463,3,4.0,0.0,0,0,3,0.0,0.0,0
+ChIJkfCD6LEtGZURd-cVPuTj24Y,Clica Combustíveis - 24 horas,"R. João Pessoa, 270 - Vila Luiza, Canela - RS, 95680-000, Brazil",-29.3578858,-50.8102453,4,4.0,0.0,0,0,4,0.0,0.0,0
+ChIJ_cdpmw9pGZURxTtClZQ6NDE,Posto Montreal (Shell) - Rede GASGAS,"Av. Getúlio Vargas, 780 - Centro, São Leopoldo - RS, 93025-000, Brazil",-29.7661227,-51.1535531,5,3.4,0.0,0,0,5,0.0,0.0,0
+ChIJh8Cs7qQw3pQRX2NwAS6bBRw,Auto Posto Ltda Witmarsum,"Rua Sete de Setembro, 202 - Centro, Witmarsum - SC, 89157-000, Brazil",-26.925578,-49.78402000000001,5,4.2,0.0,0,0,5,0.0,0.0,0
+ChIJw8M6WcwaXpMRkWf_tuiqep4,Desk Estrela Dalva Ltda - KURUJAO XIV,"ROD GO-060 - Setor Rodoviário, Nazário - GO, 76180-000, Brazil",-16.5917793,-49.8819415,4,3.0,0.0,0,0,4,0.0,0.0,0
+ChIJoerBkocJqgARYpERWFjvJTw,Posto Shell - Posto Diel Ltda,"Av. Central do Brasil, 1691 - Buritizeiro, MG, 39280-000, Brazil",-17.382579,-44.9737551,5,4.4,0.0,0,0,5,0.0,0.0,0
+ChIJhZpbG9S2nZMR-NSKMn1dPww,MONTE LIBANO AUTO POSTO LTDA,"Av. República do Líbano, 535 - Despraiado, Cuiabá - MT, 78048-135, Brazil",-15.5765208,-56.0873186,3,4.333333333333333,0.0,0,0,3,0.0,0.0,0
+ChIJxZwREiU1uQARpQXLrW7lt24,POSTO ECLIPSE REV & SERV LTDA,"Av. Atlântica, 274 - CENTRO, Marataízes - ES, 29345-000, Brazil",-21.0442119,-40.8277558,3,3.0,0.0,0,0,3,0.0,0.0,0
+ChIJa4Id7YVNxwcRX3kHEjRiDlY,M c carvalho combustível ltda,"R. José Torres, 1228 - fs - Granja Portugal, Fortaleza - CE, 60540-510, Brazil",-3.7817343,-38.60799479999999,5,4.2,0.0,0,0,5,0.0,0.0,0
+ChIJWc-ntfS_pgARqO3J8DWNUqg,Posto Aqui Alvarenga Peixoto,"Av. Alvarenga Peixoto, nº 134 - Inconfidentes, Contagem - MG, 32223-450, Brazil",-19.9621806,-44.0373009,5,2.8,0.0,0,0,5,0.0,0.0,0
+ChIJJYHThGJpzpQR8lg_AR8uYOs,Auto Posto Juta,"R Oratório, 4079 - Jardim Sonia Maria, Mauá - SP, 09380-240, Brazil",-23.6243027,-46.4844404,4,5.0,0.0,0,0,4,0.0,0.0,0
+ChIJD-DmqqG8HJURUI0jaZJTR8E,Posto SIM | Santa Cruz Av Independência,"Av. Independência, 3357 - Renascença, Santa Cruz do Sul - RS, 96816-501, Brazil",-29.6875757,-52.4437891,4,3.25,0.0,0,0,4,0.0,0.0,0
+ChIJDw9nUTGBp5MRlHqVLpAbi60,Auto Posto Alpha,"Av. das Itaúbas, 4442 - Jardim das Palmeiras, Sinop - MT, 78552-072, Brazil",-11.845922,-55.507452,5,4.4,0.0,0,0,5,0.0,0.0,0
+ChIJr5giOxL3tZQRYpNHzfKznVU,AUTO POSTO SÃO RAFAEL,"Av. Jovino Fernandes de Sales, 2474 - Santa Clara, Alfenas - MG, 37135-356, Brazil",-21.4224775,-45.9815709,4,4.0,0.0,0,0,4,0.0,0.0,0
+ChIJ9_jTcfL7XpMRmfPeqnLEaXI,Auto Posto Norte Sul,"Av. Jataí, 1027 - Sitios Santa Luzia, Aparecida de Goiânia - GO, 74922-570, Brazil",-16.7464196,-49.23245679999999,3,3.6666666666666665,0.0,0,0,3,0.0,0.0,0
+ChIJx1fnZOTdpgARqXTaXBHbovc,Posto Shell,"R. Florindo Cardoso, 20 - Vianópolis, Betim - MG, 32628-110, Brazil",-19.9430525,-44.26711450000001,4,3.0,0.0,0,0,4,0.0,0.0,0
+ChIJsfwP2qBfxZIRfbqmOIl0fdA,TV Cidade Esperança,"R. Aquiles Lisboa, 1170 - Mercadinho, Imperatriz - MA, 65901-340, Brazil",-5.5260465,-47.4729111,5,5.0,0.0,0,0,5,0.0,0.0,0
+ChIJIz8CM-XcypQR3OKvouqWHFg,Auto Posto Nova Aliança Eireli-Epp,"Av. Haroldo Rezende, 630 - Jardim Santa Tereza, Três Corações - MG, 37410-000, Brazil",-21.7037133,-45.25025279999999,5,2.6,0.0,0,0,5,0.0,0.0,0
+ChIJxT_URRU9qwcRTfPB2pzP5y8,Posto Shell Albuquerque Pneus Olinda 2,"Av. Carlos de Lima Cavalcante, 2221 - Casa Caiada, Olinda - PE, 53040-000, Brazil",-7.986269999999999,-34.8395476,4,3.75,0.0,0,0,4,0.0,0.0,0
+ChIJFxhyzFY3u5IRmVS-loB5zUc,Posto Acará Vip,"Acará - State of Pará, 68690-000, Brazil",-1.9532233,-48.3256029,3,2.0,0.0,0,0,3,0.0,0.0,0
+ChIJMWrnsTcun5MRRf9QyQ5obig,Auto Posto Carvalho,"Avenida Pref João Macaúba, 455 - Centro, Nortelândia - MT, 78430-000, Brazil",-14.4534437,-56.8004795,5,4.4,0.0,0,0,5,0.0,0.0,0
+ChIJwTO6cHDvhpQRQiaVvtbJIhs,Posto Bonatto,"Av. Costa e Silva, 2560 - Vila Progresso, Campo Grande - MS, 79070-325, Brazil",-20.5026726,-54.60611429999999,4,2.75,0.0,0,0,4,0.0,0.0,0
+ChIJ1egM3LSrz5QR1FH5-BDFWEM,Auto Posto Dijon Ltda. postos Vale+,"Estr. do Capuava, 1755 - Paisagem Renoir, Cotia - SP, 06715-410, Brazil",-23.6077933,-46.8852217,4,1.0,0.01,0,0,4,0.0,0.0,0
+ChIJnYdnUfGO9gcR2dEj4hSUS5c,Posto Shell,"Av. Camboa, 212 - Camboa, São Luís - MA, 65020-260, Brazil",-2.525672,-44.2911809,5,3.0,0.0,0,0,5,0.0,0.0,0
+ChIJ5RsEQJcSyZQRsRL_iuD0MUU,Posto Petro center 2,"R. Último Labegalini, 74 - Centro, Monte Sião - MG, 37580-000, Brazil",-22.4274114,-46.5716861,3,4.333333333333333,0.0,0,0,3,0.0,0.0,0
+ChIJhUK6zlOIzJQRxmLQxwewGPU,Posto Shell,"Av. Emílio Ribas, 1008 - Capivari, Campos do Jordão - SP, 12460-000, Brazil",-22.7194292,-45.5696321,4,3.25,0.0,0,0,4,0.0,0.0,0
+ChIJVUXxDYG4JpMRFGggn3UIVsA,Posto Shell - AUTO POSTO 11 DE ABRIL LTDA,"Av. 11 de Abril, 2250 - CENTRO, Guaraí - TO, 77700-000, Brazil",-8.838309899999999,-48.51460710000001,3,2.0,0.0,0,0,3,0.0,0.0,0
+ChIJU6MxQId9zpQRmx49GpHMrKA,Posto Shell - Super Posto 3M Ltda,"Av. dos Expedicionários, 170 - Jardim Rincao, Arujá - SP, 07400-000, Brazil",-23.4009407,-46.3182501,4,2.0,0.015625,0,0,4,0.0,0.0,0
+ChIJeVHVPO9CIZUR9eTEMhuRvK8,Posto Santo Anjo,"R. Altamiro Guimarães, 572 - Centro, Tubarão - SC, 88701-300, Brazil",-28.4869056,-49.0127476,4,4.5,0.0,0,0,4,0.0,0.0,0
+ChIJK9MVBPAlz5QR-MrRhfEJX6M,Carinhoso Automotive Center,"Av. Bento Figueiredo, 40 - Vila Marlene, Jundiaí - SP, 13214-610, Brazil",-23.156256,-46.9129019,5,1.0,-0.015,0,0,5,0.0,0.0,0
+ChIJY7WphixRzpQR2Gc_f-p9SyI,Posto Shell,"Av. das Nações Unidas, 22285 - Santo Amaro, São Paulo - SP, 04795-100, Brazil",-23.6755185,-46.69869360000001,10,1.0,-0.029999999999999992,2,2,6,0.2,0.2,0
+ChIJtyWNfZwy_JQRZIxFnK7Sa2o,AUTO POSTO JK LTDA,"R. Jorge Leopoldo Weber, 599 - Assis Brasil, Ijuí - RS, 98700-000, Brazil",-28.37970199999999,-53.905667,4,5.0,0.0,0,0,4,0.0,0.0,0
+ChIJtxDiMUUwWpMR_Q7odQoMWwA,Brasal Combustíveis - SIA,"SIA Quadra 2C, Conjunto A - Guará, Brasília - DF, 71200-002, Brazil",-15.8057208,-47.9510613,10,1.6,0.0,0,0,10,0.0,0.0,0
+ChIJJcLdMatezpQR88dcgiC3Z2s,Conveniência Auto Posto Juatindiba - Shell Select,"Rua Celso de Azevedo Marques, 523 - Parque da Mooca, São Paulo - SP, 03122-010, Brazil",-23.568821,-46.593011,3,5.0,0.0,0,0,3,0.0,0.0,0
+ChIJ9UCZAHpXzpQR_YcSVIt6Q78,Posto Shell Dutrão Auto Posto,"R. Guilherme Barbosa de Melo, 54 - Cidade Monções, São Paulo - SP, 04571-160, Brazil",-23.60452699999999,-46.6960486,5,1.0,0.0,0,0,5,0.0,0.0,0
+ChIJa0Sa6zRJ_ZQRy0XSQblr2ek,Posto Shell,"Av. Alto Jacuí, 1080 - Ipiranga, Não-Me-Toque - RS, 99470-000, Brazil",-28.4642998,-52.8154613,4,3.75,0.0,0,0,4,0.0,0.0,0
+ChIJD5Q8VKmcmAARi_1NxOLDh_s,Posto Shell,"Av. Brasil, 820 - Costa Carvalho, Juiz de Fora - MG, 36070-060, Brazil",-21.7630124,-43.3344639,4,3.25,0.0,0,0,4,0.0,0.0,0
+ChIJjZawSa4Zy5QRu98D3wTj8R0,Auto Posto Cassino,"Av. Getúlio Vargas, 143 - Centro, Lambari - MG, 37480-000, Brazil",-21.9763891,-45.3436064,5,4.6,0.0,0,0,5,0.0,0.0,0
+ChIJ5aU8p0fxXpMRWbDsmCClJXk,Auto Posto Astro da Mutirao,"Av. Mutirão, 2730 - St. Bueno, Goiânia - GO, 74215-240, Brazil",-16.6997024,-49.2684429,5,2.6,0.0,0,0,5,0.0,0.0,0
+ChIJ311svwBfWZMRWFx5_ArGp-Q,Auto Posto Madagascar,"BR-060, 779 - Alexânia, GO, 72920-000, Brazil",-16.1215812,-48.4110878,5,4.2,0.0,0,0,5,0.0,0.0,0
+ChIJJ8DoVGFktgARRxG1dnPQr_A,AUTO POSTO SHALOM LTDA,"Avenida Bartimeu G Gomes de Aguiar, 799 - Boa Vista, São Gabriel da Palha - ES, 29780-000, Brazil",-19.0092501,-40.5387314,4,2.75,0.0,0,0,4,0.0,0.0,0
+ChIJ_4CfGaMbowARAKoIujr52mY,Gas station Uirapuru,"Av. Sen. Levindo Coelho, 184 - área F - Dico Teixeira, Ubá - MG, 36500-000, Brazil",-21.1045888,-42.96141069999999,3,4.333333333333333,0.0,0,0,3,0.0,0.0,0
+ChIJqVrjGyHFpgARH-hpWnUxYvQ,Auto Posto Mário Campos,"Av. Floresta, 600 - Campo Verde, Mário Campos - MG, 32470-000, Brazil",-20.0516424,-44.1929524,4,1.25,0.0,0,0,4,0.0,0.0,0
+ChIJzbH-UAitvZQRmz1zwBPShdQ,Posto Monte Carlo Palestra,"Av. Dr. Ernani Pires Domingues, 7800 - Res. Palestra, São José do Rio Preto - SP, 15040-709, Brazil",-20.80802289999999,-49.4295864,5,1.0,0.0,0,0,5,0.0,0.0,0
+ChIJnZKHaQBFzpQRRcO2VVt0QIg,Posto de Serviços Nobre,"R. José Bonifácio, 1989 - Serraria, Diadema - SP, 09980-150, Brazil",-23.7097003,-46.6083043,4,5.0,0.0,0,0,4,0.0,0.0,0
+ChIJC8_Fz8xjzpQRlwmTIeg17T0,Jap Auto Parts,"Av. Dr. José Artur Nova, 2472 - Jardim Helena, São Paulo - SP, 08090-000, Brazil",-23.4766833,-46.42657169999999,3,3.6666666666666665,0.0,0,0,3,0.0,0.0,0
+ChIJrcowA8ul9JQRm1p-_TgCyUc,Zafalon - Posto Sede Alvorada 3,"Rodovia PR 163 km 343,6 S/N Zona Rural - Guaíra, PR, 85980-000, Brazil",-24.1159515,-54.24020669999999,4,4.0,0.0,0,0,4,0.0,0.0,0
+ChIJGfHDfzxpzpQR8RqAOyPuUZs,Centro Automotivo Bap Capuava,"Av. Comendador Wolthers, 215 - Capuava, Mauá - SP, 09380-200, Brazil",-23.6545314,-46.4894445,4,4.5,0.0,0,0,4,0.0,0.0,0
+ChIJYz-iMaJj-5QRi88pvafbWTM,Posto Shell,"Av. do Comércio, 30 - Centro, Rodeio Bonito - RS, 98360-000, Brazil",-27.4792306,-53.16879079999999,5,4.6,0.0,0,0,5,0.0,0.0,0
+ChIJ9xdGYGlFHZUR9k3UgSYzd6Q,Posto dos Eucalíptos,"BR-386, km 246 - Botucaraí, Soledade - RS, 99300-000, Brazil",-28.8177856,-52.48421279999999,3,4.333333333333333,0.0,0,0,3,0.0,0.0,0
+ChIJE8jwGYk3FAcRdWmRV58L0Dc,Posto Shell,"AV DR - R. Visc. do Rio Branco, SN - Queimadinha, Feira de Santana - BA, 44026-100, Brazil",-12.240847,-38.9639283,4,3.75,0.0,0,0,4,0.0,0.0,0
+ChIJa48kqwSXpAARczPl2k9f3dU,Posto Shell,"R. Euclídes da Cunha, 44 - Centro, Pte. Nova - MG, 35430-033, Brazil",-20.4186413,-42.9121722,4,3.5,0.0,0,0,4,0.0,0.0,0
+ChIJSy7uAveHpwARvV6fgbjSL_Q,Posto Shell,"R. Padre João Porto, 1028 - Pompéu, MG, 35640-000, Brazil",-19.2205785,-44.9975476,5,4.6,0.0,0,0,5,0.0,0.0,0
+ChIJi2yQRPOhnwAR0MvJUMLB6JU,Posto Shell,"Dr - R. Celso Penha Villela, 280 - Centro, São Vicente de Minas - MG, 37370-000, Brazil",-21.6995528,-44.441872,5,4.8,0.0,0,0,5,0.0,0.0,0
+ChIJRTLxbwANvZQR2TNDeb-P8CE,Posto Shell,"Av. Ulisses Guimarães, 40 - Tanabi, SP, 15170-000, Brazil",-20.618506,-49.65152509999999,3,3.6666666666666665,0.0,0,0,3,0.0,0.0,0
+ChIJSco_WUGBypQR1DVo7zeZkwI,Posto Shell,"R. Barão da Boa Esperança, 1665 - Antonio de Brito Mendonça, Três Pontas - MG, 37190-000, Brazil",-21.3700632,-45.5310794,10,5.0,0.0,0,0,10,0.0,0.0,0
+ChIJCUZEXQjIsJQRxKGY8jcZ9NQ,Posto Shell,"Av. César Jorge Elias, 212, Ibiraci - MG, 37990-000, Brazil",-20.4657555,-47.1246492,5,2.6,0.0,0,0,5,0.0,0.0,0
+ChIJ5_VPuZv-xZQRTzRUWFJguNs,Posto Shell,"AL BENEDITA CAROLINA DA, SN GLEBA C - PALMITAL, Porto Feliz - SP, 18540-000, Brazil",-23.2400325,-47.5172391,5,3.0,0.0,0,0,5,0.0,0.0,0
+ChIJ7RZ8gYCdEwcRySmzdowfXH8,Posto da Cidade,"Mariquinha De Dodo - R. Maximino Madureira, 740 - Fluminense, Conceição do Coité - BA, 48730-000, Brazil",-11.5698929,-39.2910864,3,5.0,0.0,0,0,3,0.0,0.0,0
+ChIJa45zVTJsNgcRpEyrfvfqY2k,Auto Desk Harim,"R. São Bartolomeo, 215 - Santa Lucia, Eunápolis - BA, 45822-000, Brazil",-16.3604089,-39.58418449999999,3,2.3333333333333335,0.0,0,0,3,0.0,0.0,0
+ChIJlcKLq7GVpgAR1OygI8jynDs,Posto Aqui Riacho,"Rua Firmo de Matos com - R. Rio Comprido - Eldorado, Contagem - MG, 32280-070, Brazil",-19.946925,-44.0518717,5,1.0,0.0,0,0,5,0.0,0.0,0
+ChIJqfiO-2iKxZQR51hOO7eDjxU,Posto Morumbi - Shell,"Av. Cláudio Pinto Nascimento, 1357 - Vossoroca, Votorantim - SP, 18110-000, Brazil",-23.5375114,-47.4657569,3,1.3333333333333333,0.0,0,0,3,0.0,0.0,0
+ChIJYypx6Z0ZwZIRIk6YyWvTp8s,POSTO PRAÇA,"Jacundá - State of Pará, 68590-000, Brazil",-4.4650897,-49.1156587,3,4.0,0.0,0,0,3,0.0,0.0,0
+ChIJR1QqfJs7l5MRhvhx7FNJXt0,Auto Posto Jauru LTDA,"Av. João Rossi, 230 - Vista Alegre, Jauru - MT, 78255-000, Brazil",-15.3472318,-58.8671465,4,4.75,0.0,0,0,4,0.0,0.0,0
+ChIJjcWqGA2m_JQRLY_KDdup4Yk,Posto Shell,"EST RS 324, SN KM2 2 - Centro, Trindade do Sul - RS, 99615-000, Brazil",-27.5254657,-52.9007943,5,3.0,0.0,0,0,5,0.0,0.0,0
+ChIJYV-nlaPjt5QR5i4Yrp_sM68,Posto Shell,"R. Tiradentes, 171 - Centro, Santa Cruz das Palmeiras - SP, 13650-000, Brazil",-21.8234023,-47.2463946,3,5.0,0.0,0,0,3,0.0,0.0,0
+ChIJb0v0oVDXaQcRKwyJpVZNBMA,Posto Shell,"RDV BR 242 KM 270, S/N - RODOVIA, Seabra - BA, 46900-000, Brazil",-12.41974,-41.77553,3,3.6666666666666665,0.0,0,0,3,0.0,0.0,0
+ChIJTYFk6YcfowAREU9B1auOs68,Fuel station,"Av. Pref. Adolfo Nicolato, 1 - Zona Suburbana, Rodeiro - MG, 36510-000, Brazil",-21.1998957,-42.8718933,4,4.0,0.0,0,0,4,0.0,0.0,0
+ChIJjWcVxRWzVpMR1IjuPVgWfR0,Auto Posto Montrellato Rede ltda,"Frente a Rodoviária - Av. Pedro Valadares Versiane, N°60 - Buritis, MG, 38660-000, Brazil",-15.628873,-46.42959089999999,3,5.0,0.0,0,0,3,0.0,0.0,0
+ChIJCZLO7BZZWJMRDn1_RlHFFbc,Auto Posto Maniratuba,"Luziânia - State of Goiás, Brazil",-16.8131147,-48.02767919999999,4,4.5,0.0,0,0,4,0.0,0.0,0
+ChIJRUnE-pBH8JQRPVxkeNfptaI,Posto Shell,"Av. Rio Grande do Sul, 855 - Centro, Dois Vizinhos - PR, 85660-000, Brazil",-25.7514302,-53.0608608,3,4.333333333333333,0.0,0,0,3,0.0,0.0,0
+ChIJYzuoKYRRuAARw2bJ1mtxMoo,Auto Posto Real - Pedra do Pombal / Guarapari - ES,"BR-101 - Guarapari, ES, 29227-404, Brazil",-20.5788139,-40.4891104,5,5.0,0.0,0,0,5,0.0,0.0,0
+ChIJxVhyS-rm3JQRcenHRcM6sBE,Auto Posto Mocelin,"Av. Anita Garibaldi, 3672 - Barreirinha, Curitiba - PR, 82210-000, Brazil",-25.3811854,-49.2611622,5,2.2,0.0,0,0,5,0.0,0.0,0
+ChIJxdaXfc4blwARYjfri4YkKjg,Posto Shell + GNV,"Av. Teixeira e Souza, SN - Vila Nova, Cabo Frio - RJ, 28907-410, Brazil",-22.8862056,-42.02940419999999,5,5.0,0.0,0,0,5,0.0,0.0,0
+ChIJR7h2H6Urz5QRfUmOlJE5yc0,Loja Shell Select - POSTO SHELL - AUTO POSTO BAPTISTELLA LTDA,"Av. Mal. Castelo Branco, 1147 - Bairro do Engenho, Itatiba - SP, 13255-350, Brazil",-23.0194434,-46.8420567,3,3.6666666666666665,0.0,0,0,3,0.0,0.0,0
+ChIJL5EJk_fIyJQRkK_6ZAd8ZAM,Posto Shell,"Av. Pres. Juscelino, 395 - Jardim Novo Campos Eliseos, Campinas - SP, 13060-858, Brazil",-22.9303795,-47.0991445,4,1.5,0.0,0,0,4,0.0,0.0,0
+ChIJPQ6LehP_zpQRVV3kyIgUzHo,Posto Shell,"Av. dos Autonomistas, 1828 - Centro, Osasco - SP, 06090-010, Brazil",-23.539892,-46.7686519,5,2.4,0.0,0,0,5,0.0,0.0,0
+ChIJtVL2ySepsJQRuqTkw0UqHxc,aeroporto comercio de derivados de petroleo,"Av. Carlos Roberto Hadade, 261 - Jardim Aeroporto I, Franca - SP, 14404-047, Brazil",-20.5818746,-47.3816232,4,4.75,0.0,0,0,4,0.0,0.0,0
+ChIJtZwKW6QLyJQR5NhIKkACeDw,Posto Shell,"Av. Joaquim Lopes Aguila, 25 - Jardim Santa Inês, Leme - SP, 13614-032, Brazil",-22.1884212,-47.3965781,4,5.0,0.0,0,0,4,0.0,0.0,0
+ChIJNw5vYNB3oQcRRopn3vTfan0,Posto TOP,"Av. Leão Sampaio - Bulandeira, Barbalha - CE, 63180-000, Brazil",-7.2987148,-39.31386550000001,3,4.0,0.0,0,0,3,0.0,0.0,0
+ChIJe_WelAJkzpQR817uQxP5yJE,Posto Shell,"R. Damásio Pinto, 805 - Parada XV de Novembro, São Paulo - SP, 08247-001, Brazil",-23.5261495,-46.4383784,8,4.75,0.0,0,0,8,0.0,0.0,0
+ChIJeSu8Q69vh5QRzs7HymaZILs,Auto Posto Dois Irmãos,"Av. Reginaldo Lemes da Silva, 491-601 - Dois Irmãos do Buriti, MS, 79215-000, Brazil",-20.6865896,-55.2802506,4,2.25,0.0,0,0,4,0.0,0.0,0
+ChIJ785YfYkgx5QRdImDLHUCswM,Posto Shell,"Av. Prof. Rafael Laurindo, 764 - Jardim Paraiso, Botucatu - SP, 18610-302, Brazil",-22.8624259,-48.4418607,3,3.6666666666666665,0.0,0,0,3,0.0,0.0,0
+ChIJnbLpE2nBzpQRh94kVsi2-nE,Auto Posto Imperial Atibaia,"Av. Industrial Walter Kloth, 885 - Jardim das Cerejeiras, Atibaia - SP, 12951-200, Brazil",-23.132494,-46.580215,5,4.2,0.0,0,0,5,0.0,0.0,0
+ChIJAdK-kWCUpgARBOQBTD-N__M,Posto Shell,"R. Hibisco, 65 - Chácara Boa Vista, Contagem - MG, 32150-210, Brazil",-19.8897315,-44.0543436,5,2.4,0.0,0,0,5,0.0,0.0,0
+ChIJNaNyrbfXx5QROI1qofdJv24,Zoo Mendes - Agro Veterinária - Banho e Tosa,"Av. 7, 180 - residencial indaiá III, Santa Gertrudes - SP, 13512-060, Brazil",-22.4480998,-47.54394809999999,5,5.0,0.0,0,0,5,0.0,0.0,0
+ChIJkaYBK3DdmwARGE7RVuhCND4,Shell Select,"Av. das Américas, 16885 - Recreio dos Bandeirantes, Rio de Janeiro - RJ, 22790-704, Brazil",-23.01579689999999,-43.4703805,5,1.0,0.0,0,0,5,0.0,0.0,0
+ChIJtb7sExR6uwARvKwApFpuNn4,AUTO POSTO TREVO D AGUA LTDA,"Av. Cap. Antônio Carlos de Souza, 1451 - Santa Maria, Carangola - MG, 36800-000, Brazil",-20.7122111,-42.0358395,4,4.5,0.0,0,0,4,0.0,0.0,0
+ChIJ5187IChCzpQR_XZbqeCanSw,Rede Fevereiro - Nova Petrópolis,"Av. Francisco Prestes Maia, 501 - Centro, São Bernardo do Campo - SP, 09770-000, Brazil",-23.7080299,-46.5463979,4,1.5,0.0,0,0,4,0.0,0.0,0
+ChIJ6_x-c9wGugcRIw1PqUuCano,Posto Shell,"R. Jeremias da Rocha, 190 - Santo Antônio, Mossoró - RN, 59611-190, Brazil",-5.182109700000001,-37.3475038,4,5.0,0.0,0,0,4,0.0,0.0,0
+ChIJmR5hbevo3JQR3P4UDl41DWI,Posto Babadinca,"Av. Marginal Direita, 151-53 - Santa Terezinha, Colombo - PR, 83408-650, Brazil",-25.3577642,-49.18073619999999,3,1.0,0.0,0,0,3,0.0,0.0,0
+ChIJDyn7EXJwzpQRtdYDV0Pze-E,Posto Shell - Posto Quality Supra,"Estr. dos Fernandes - Chacara Casa Branca, Suzano - SP, 08660-000, Brazil",-23.559101,-46.33272899999999,3,1.3333333333333333,0.0,0,0,3,0.0,0.0,0
+ChIJ7dcpD9VZzpQRLQStjTs2fB0,Posto Shell,"R. da Consolação, 785 - Consolação, São Paulo - SP, 01301-000, Brazil",-23.5481354,-46.6487352,3,2.3333333333333335,0.0,0,0,3,0.0,0.0,0
+ChIJwWDmWcyapgARYsgpQ1ryHhY,Posto Allgas - Rede Águia,"Av. Saramenha, 1632 - Guarani, Belo Horizonte - MG, 31840-220, Brazil",-19.8441782,-43.91801960000001,5,2.4,0.0,0,0,5,0.0,0.0,0
+ChIJt2VbGB1ZPgcR736bOPUvplY,Comércio de Combustíveis E Lubrificantes Ltda,"Av. Torquarto Gonçalves Guimarães - Taperoá, BA, 45430-000, Brazil",-13.540507,-39.10091739999999,6,3.3333333333333335,0.0,0,0,6,0.0,0.0,0
+ChIJBRar4iyOpgARFAQQMGl2rOA,Posto Shell,"Av. Bernarda Silvestre, 115 - Rio Branco, Belo Horizonte - MG, 31535-200, Brazil",-19.8173589,-43.9835801,4,3.0,0.0,0,0,4,0.0,0.0,0
+ChIJDeT6KiSKzpQRCn23knQ2V9Y,Posto Shell,"R. Desterro de Malta, 135 - Aeroporto, Guarulhos - SP, 07110-000, Brazil",-23.41759930000001,-46.4440366,5,4.0,0.0,0,0,5,0.0,0.0,0
+ChIJaUrbfwBbzpQRLUEpMyTLqj4,Auto Posto Bola Pesada,"Av. Moreira Guimarães, 700 - Moema, São Paulo - SP, 04074-020, Brazil",-23.612274,-46.657269,5,1.0,0.0,0,0,5,0.0,0.0,0
+ChIJSbR4oVZbzpQR2z9VuIhkoIE,Posto Shell,"Rua Olympia Semeraro, 712 - Vila Liviero, São Paulo - SP, 04183-090, Brazil",-23.6438771,-46.5961068,4,2.75,0.0,0,0,4,0.0,0.0,0
+ChIJ2QqiEGVnzpQRpctC8P_QEtc,Shell station - Mult Max / Pit Stop Skol,"Av. Rio das Pedras, 1816 - Vila Antonieta, São Paulo - SP, 03452-100, Brazil",-23.569582,-46.50841699999999,5,2.4,0.015,0,0,5,0.0,0.0,0
+ChIJfbrBt01duQARuCiyPuDZJJg,Posto Shell,"R. Bernardo Horta, 127-129 - Guandú, Cachoeiro de Itapemirim - ES, 29300-280, Brazil",-20.8430534,-41.123256,4,2.25,0.0,0,0,4,0.0,0.0,0
+ChIJ00F9eo6v75QRn4B82o1rtVI,Auto Posto Avenida Cantagalo,"Av. Epaminondas Fritz - Vila Planalto, Cantagalo - PR, 85160-000, Brazil",-25.373317,-52.1243652,5,4.0,0.0,0,0,5,0.0,0.0,0
+ChIJbWPjPXHRmwARzDcf9gw2D38,AUTO SERVICO ROCAR RIO LTDA,"Av. das Américas, 1600 - Barra da Tijuca, Rio de Janeiro - RJ, 22631-052, Brazil",-23.0019325,-43.325996,4,2.0,0.0,0,0,4,0.0,0.0,0
+ChIJ6YjebJ7WmwAR1MOvrF7-HfY,P Gas E Bar Garoa Ltda,"Estr. da Gávea, 586 - São Conrado, Rio de Janeiro - RJ, 22451-272, Brazil",-22.9931679,-43.2557209,3,2.0,0.0,0,0,3,0.0,0.0,0
+ChIJD2eSZfUo_ZQRjY34wmtUTl4,Auto Posto Segredo,"BR 386 KM 156 - Rincão do Segredo, Alm. Tamandaré do Sul - RS, 99523-000, Brazil",-28.1214785,-52.8509731,3,4.333333333333333,0.0,0,0,3,0.0,0.0,0
+ChIJg32-XuThmwARtwupqkREeMw,Conveniência Sete da Lira,"Estrada da Posse, Nº 1923 - Santíssimo, Rio de Janeiro - RJ, 23088-000, Brazil",-22.8760096,-43.52598030000001,3,3.6666666666666665,0.0,0,0,3,0.0,0.0,0
+ChIJYwgdzlBdzpQRVWAF417V_9Q,Posto Shell,"Av. Sapopemba, 1557 - Vila Camilópolis, Santo André - SP, 09250-301, Brazil",-23.6153197,-46.5219031,5,2.2,-0.02,0,0,5,0.0,0.0,0
+ChIJgzTJe6BhmQARXs5ccp92N_Q,AUTO POSTO PARADA DE REALENGO LTDA,"Estr. Gen. Canrobert Pereira da Costa, 203 - Realengo, Rio de Janeiro - RJ, 21710-400, Brazil",-22.8771548,-43.4223146,4,4.0,0.0,0,0,4,0.0,0.0,0
+ChIJ____l4jU85QRbeTXGbHIwms,AUTO POSTO SÃO CRISTOVÃO LTDA,"R. Domiciano Theobaldo Bresolin, 655 - Bairro São Cristóvão, Cascavel - PR, 85816-080, Brazil",-24.9436111,-53.4288889,3,2.3333333333333335,0.0,0,0,3,0.0,0.0,0
+ChIJT6am6Ab83JQR9QhL-N0JIU0,Posto Shell,"R. Nicola Pellanda, 4602 - Umbará, Curitiba - PR, 81940-000, Brazil",-25.5675051,-49.287074,5,1.8,0.0,0,0,5,0.0,0.0,0
+ChIJC2Rh2PNLxwcR6edPLgIHktg,POSTO PREDILETO COM DE PET LTDA,"R. Vitória, 577 - Henrique Jorge, Fortaleza - CE, 60525-000, Brazil",-3.7579816,-38.5844437,4,1.0,0.0,0,0,4,0.0,0.0,0
+ChIJjcVBiBHHeZMRnuvu3g4ZwwU,Posto Universitário - Shell Helix,"R. Antônio Francisco Buosi, 4132 - Parque Sagrada Família, Rondonópolis - MT, 78735-002, Brazil",-16.4718353,-54.5853777,5,2.8,0.0,0,0,5,0.0,0.0,0
+ChIJAZXr8VrdrAcR-j-ZPXa3bXk,Posto Shell,"Av. Espírito Santo, 810 - Loja 101 - Estados, João Pessoa - PB, 58030-110, Brazil",-7.113652,-34.8535015,3,5.0,0.0,0,0,3,0.0,0.0,0
+ChIJQ2q3Zrv3zpQR-ONmPM9K3Es,Nova Cachoeirinha Auto Posto e Comércio Ltda,"Av. Eng. Caetano Álvares, 4605 - Limão, São Paulo - SP, 02413-000, Brazil",-23.4865184,-46.64379599999999,5,3.8,0.0,0,0,5,0.0,0.0,0
+ChIJUegHO4bXoAARo9wDv7rXLbY,AUTO POSTO RODOCHAVES LTDA,"547, BR-381, S/N - Santa Terezinha de Minas, Itatiaiuçu - MG, 35685-000, Brazil",-20.2789662,-44.4285332,3,2.3333333333333335,0.0,0,0,3,0.0,0.0,0
+ChIJZ-4TlYxpzpQR320miW-Eyno,Posto Shell - AUTO POSTO GUARACIABA LTDA,"Av. Valentim Magalhães, 1796 - Condomínio Maracanã, Santo André - SP, 09120-410, Brazil",-23.6845681,-46.4957335,5,1.4,0.0,0,0,5,0.0,0.0,0
+ChIJRUGwE4n3zpQRiPaLCC1z4V4,Auto Posto Jardim São Paulo LTDA,"Av. Nova Cantareira, 428 - Tucuruvi, São Paulo - SP, 02330-000, Brazil",-23.4870715,-46.62040469999999,4,2.25,0.0,0,0,4,0.0,0.0,0
+ChIJqY034atdzpQRAh46yR5gt7g,Posto Shell,"Av. do Oratório, 1892 - Parque São Lucas, São Paulo - SP, 03220-000, Brazil",-23.5912029,-46.5508336,3,1.0,0.0,0,0,3,0.0,0.0,0
+ChIJxc0it8bv25QRcGxc49SnJfU,Posto Shell,"AV DO CONTORNO, 2400, Matinhos - PR, 83260-000, Brazil",-25.84012199999999,-48.54261100000001,4,4.0,0.0,0,0,4,0.0,0.0,0
+ChIJm6CmcURGxwcRViKffHcdC58,Sobral Palácio Petroleo,"Av. Santos Dumont, 7700 - Papicu, Fortaleza - CE, 60150-163, Brazil",-3.7452841,-38.4692622,5,1.2,0.0,0,0,5,0.0,0.0,0
+ChIJ9WCXlLGjHpURw6YTKxG40kM,Postos Squizzato,"Av. Alexandre Rizzo, 877 - Desvio Rizzo, Caxias do Sul - RS, 95110-000, Brazil",-29.18498929999999,-51.233415,4,4.0,0.0,0,0,4,0.0,0.0,0
+ChIJWXv6sYmcmAARBsEL3chrqns,Posto Chaminé,"R. Bernardo Mascarenhas, 1400 - Fábrica, Juiz de Fora - MG, 36080-001, Brazil",-21.741142,-43.3747647,3,4.333333333333333,0.0,0,0,3,0.0,0.0,0
+ChIJqVHUjIietgARkSJHU4-d76g,Posto Alvorada Ltda,"Av. Castelo Branco, 702 - Vila Landinha, Barra de São Francisco - ES, 29800-000, Brazil",-18.7580113,-40.8853228,4,3.5,0.0,0,0,4,0.0,0.0,0
+ChIJb_Q1UTcHz5QRjqDxt4vIv_g,Comercio Varejista de Combustíveis Mirizola,"R. Vicente Strifezzi, 10 - Parque Miguel Mirizola, Cotia - SP, 06704-205, Brazil",-23.5800945,-46.9213646,9,3.3333333333333335,0.0,0,0,9,0.0,0.0,0
+ChIJZ0PBTTSlXpMRAtgBReq_yNU,Anapolitano Café,"Mercado Municipal Carlos de Pina - R. Quatorze de Julho, 617 - Centro, Anápolis - GO, 75043-040, Brazil",-16.32494,-48.957516,5,4.8,0.0,0,0,5,0.0,0.0,0
+ChIJsfG-YmNXzpQRhj-0kH9uhQ0,Arinella Orion auto posto ltda,"Av. Jaguaré, 740 - Jaguaré, São Paulo - SP, 05346-000, Brazil",-23.5537835,-46.7426459,4,4.0,0.0,0,0,4,0.0,0.0,0
+ChIJt3TMNT0-uAARG7F989i1t1c,POSTO NOVA ITAPARICA LTDA,"R. João Evangelista de Souza - Nova Itaparica, Vila Velha - ES, 29103-780, Brazil",-20.3757019,-40.3195304,3,3.3333333333333335,0.0,0,0,3,0.0,0.0,0
+ChIJjdcIt-6bpgARqp-NdYYvv2c,Miguelao Posto Ltda,"Av. Silviano Brandão, 2109 - Horto, Belo Horizonte - MG, 31030-035, Brazil",-19.9111351,-43.9181667,4,2.5,0.0,0,0,4,0.0,0.0,0
+ChIJKb5qnkdPz5QRfPlS7-xaa7o,Auto Posto Alejo (Bandeira Shell),"Av. Walter Nardelli, 391 - Jardim Santa Marta, Salto - SP, 13323-760, Brazil",-23.21441780000001,-47.26393949999999,5,4.8,0.0,0,0,5,0.0,0.0,0
+ChIJOa24mgTxCZMRvp5rA1XB4ss,RESTAURANTE LAS VERAS,"R. Brasil Norte, 1253 - ESPERANÇA, Vera - MT, 78880-000, Brazil",-12.2941033,-55.29475309999999,5,2.8,0.0,0,0,5,0.0,0.0,0
+ChIJndVwROgly5QRymm4qchzeBo,Posto Áriel,"BR-267, Cambuquira - MG, 37420-000, Brazil",-21.8887231,-45.21845149999999,4,4.25,-0.17499999999999996,0,1,3,0.0,0.25,-1
+ChIJHUMV53zmAJURWkRFOJwCH1M,Posto Shell,"R. Gen. Canabarro, 474 - Vila Swift, Rosário do Sul - RS, 97590-000, Brazil",-30.2631419,-54.9225257,5,3.8,-0.025095238095238087,0,1,4,0.0,0.2,-1
+ChIJI0h6Kcl_mQARiMnRPwj_sQA,Bob's Burger - Posto Shell Iate,"Av. Reporter Nestor Moreira, 41 - Botafogo, Rio de Janeiro - RJ, 22290-222, Brazil",-22.9493029,-43.17797429999999,4,2.75,-0.010416666666666668,0,1,3,0.0,0.25,-1
+ChIJJUCN_CXwpgARe09Y5hv_tAw,Posto Via Esmeraldas Ltda,"R. Rio das Velhas, 375 - Dona Guilhermina, Esmeraldas - MG, 35740-000, Brazil",-19.7698083,-44.30969369999999,3,3.3333333333333335,-0.2708333333333333,0,1,2,0.0,0.3333333333333333,-1
+ChIJnWWGlv05O5MRYUq2STsnuqM,E A R PEREIRA COMBUSTIVEIS,"Avenida Teotonio Segurado, Quadra 1,4, Lote 41, s/n - Lot. Lago Sul, Palmas - TO, 77062-130, Brazil",-10.3149076,-48.3246353,5,2.6,-0.24,1,2,2,0.2,0.4,-1
+ChIJt2ySZcN-mQAROWzeEktBcNM,Posto Shell - Posto RFD Ltda,"Av. Brasil, 1960 - Caju, Rio de Janeiro - RJ, 20930-040, Brazil",-22.8863207,-43.2242669,3,2.3333333333333335,-0.043333333333333335,0,1,2,0.0,0.3333333333333333,-1
+ChIJV1vOX6-jmQARUl_EePJpsdQ,Posto Shell - Eco Magé,"BR-493, 1524 - Piedade, Magé - RJ, 25900-970, Brazil",-22.6564408,-43.0688285,4,1.75,-0.075,0,1,3,0.0,0.25,-1
+ChIJATB9djSzvZQRDTUSzW4dKtQ,Posto Monte Carlo Arthur Nonato,"Av. Arthur Nonato, 5531 - Bosque da Saude, São José do Rio Preto - SP, 15091-050, Brazil",-20.8251676,-49.40124899999999,5,1.0,-0.02953125,0,1,4,0.0,0.2,-1
+ChIJk03eS4SDmQAR-bQ8FYDErrQ,Posto Shell,"Alameda São Boaventura, 246 - Fonseca, Niterói - RJ, 24120-196, Brazil",-22.8809427,-43.103789,3,3.3333333333333335,-0.049999999999999996,0,1,2,0.0,0.3333333333333333,-1
+ChIJQz_QK7YHyJQRbCM8IDtqsXU,Auto Posto Rosim,"R. Curitiba, 1 - Vila Belmiro, Pirassununga - SP, 13633-515, Brazil",-22.0319967,-47.4336454,4,4.5,-0.03125,0,1,3,0.0,0.25,-1
+ChIJ7YRwFoBgzpQRrcsSSTbmOEg,Auto Posto Galena,"Av. Dr. Ricardo Jafet, 3274 - Bosque da Saúde, São Paulo - SP, 04123-020, Brazil",-23.6030938,-46.6258254,5,1.0,-0.080078125,0,2,3,0.0,0.4,-2
+ChIJ12TZkRWZkZQR5p9BsyMMvKA,Posto Shell,"SP-270, Km 649 - Zona Rural, Pres. Epitácio - SP, 19470-000, Brazil",-21.8071441,-52.1041225,3,1.6666666666666667,-0.45,0,2,1,0.0,0.6666666666666666,-2

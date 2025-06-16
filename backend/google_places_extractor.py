@@ -332,7 +332,7 @@ if __name__ == "__main__":
         """Example of how to use the API with your data"""
         
         # Your Google Places API key - REPLACE WITH YOUR ACTUAL KEY
-        API_KEY = "AIzaSyAls6sb4cqqb4MsVKLcQ_ZPYWAxJiR1x5o"
+        API_KEY = "apikey"
         
         # Load place IDs from your existing JSON file
         place_ids = load_place_ids_from_json("place_razao_table.json")
